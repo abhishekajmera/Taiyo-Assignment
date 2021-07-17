@@ -8,6 +8,7 @@ https://www.grid.ac/institutes
 ### 1) Get URLs
 
 Starting from the first Explore page, I used Selenium to get the URLs of the individual institute webpages (40 pages in total).
+
 ![Explore_page](https://user-images.githubusercontent.com/37187598/126042396-d08f3cd3-5ef3-4bac-b961-c2572770dca7.PNG)
 
 ### 2) Get paramters from indivudual webpages
