@@ -1,0 +1,1001 @@
+Institute_name,Grid_id,Type,Established_year,Institute_link,Wikipedia_link,Alias_list,City,City_geoNames_Code,City_geoNames_id,Country,Country_geoNames_Code,Country_geoNames_id,NUTS1_name,NUTS1_code,NUTS2_name,NUTS2_code,NUTS3_name,NUTS3_code
+National Natural Science Foundation of China,grid.419696.5,Government,1986 CE,http://www.nsfc.gov.cn/publish/portal1/,https://en.wikipedia.org/wiki/National_Natural_Science_Fo...,"NSFC,",Beijing,,,China,CN,,,,,,,
+University of Toronto,grid.17063.33,Education,1827 CE,http://www.utoronto.ca/,https://en.wikipedia.org/wiki/University_of_Toronto,,Toronto,,,Canada,CA,,,,,,,
+Samsung (South Korea),grid.419666.a,Company,1938 CE,http://www.samsung.com/sec/home/,https://en.wikipedia.org/wiki/Samsung,,Seoul,,,South Korea,KR,,,,,,,
+Ministry of Science and Technology of the People's Republic of China,grid.424020.0,Government,1998 CE,http://www.most.gov.cn/eng/,https://en.wikipedia.org/wiki/Ministry_of_Science_and_Tec...,"State Science and Technology Commission,MOST,",Beijing,,,China,CN,,,,,,,
+United States Department of the Navy,grid.420434.5,Government,1798 CE,http://www.navy.mil/,https://en.wikipedia.org/wiki/United_States_Department_of...,"DON,",Arlington,,,United States,US,,,,,,,
+"University of California, Los Angeles",grid.19006.3e,Education,1919 CE,http://www.ucla.edu/,"http://en.wikipedia.org/wiki/University_of_California,_Lo...","State Normal School at Los Angeles,University of California Southern Branch,University of California at Los Angeles,UCLA,",Los Angeles,,,United States,US,,,,,,,
+Cornell University,grid.5386.8,Education,1865 CE,http://www.cornell.edu/,http://en.wikipedia.org/wiki/Cornell_University,"CU,",Ithaca,,,United States,US,,,,,,,
+Johns Hopkins University,grid.21107.35,Education,1876 CE,https://www.jhu.edu/,http://en.wikipedia.org/wiki/Johns_Hopkins_University,"JHU,",Baltimore,,,United States,US,,,,,,,
+RWTH Aachen University,grid.1957.a,Education,1870 CE,http://www.rwth-aachen.de/cms/~a/root/lidx/1/,http://en.wikipedia.org/wiki/RWTH_Aachen_University,"RWTH Aachen,RWTH,",Aachen,,,Germany,DE,,NORDRHEIN-WESTFALEN,DEA,Köln,DEA2,Städteregion Aachen,DEA2D
+University of Michigan–Ann Arbor,grid.214458.e,Education,1817 CE,https://www.umich.edu/,http://en.wikipedia.org/wiki/University_of_Michigan,"UMich,UM,",Ann Arbor,,,United States,US,,,,,,,
+Canon (Japan),grid.471046.0,Company,1937 CE,http://canon.jp/,https://en.wikipedia.org/wiki/Canon_Inc.,"Seikikōgaku kenkyūsho,",Tokyo,,,Japan,JP,,,,,,,
+National Institutes of Health,grid.94365.3d,Government,1887 CE,http://www.nih.gov/,http://en.wikipedia.org/wiki/National_Institutes_of_Health,"NIH,",Bethesda,,,United States,US,,,,,,,
+United States Department of the Army,grid.427904.c,Government,1947 CE,https://www.army.mil/,https://en.wikipedia.org/wiki/United_States_Department_of...,"DA,",Arlington,,,United States,US,,,,,,,
+"Rutgers, The State University of New Jersey",grid.430387.b,Education,1825 CE,http://www.rutgers.edu/,http://en.wikipedia.org/wiki/Rutgers_University,"Rutgers,Rutgers University,RU,",New Brunswick,,,United States,US,,,,,,,
+University of British Columbia,grid.17091.3e,Education,1908 CE,https://www.ubc.ca/,https://en.wikipedia.org/wiki/University_of_British_Columbia,"UBC,",Vancouver,,,Canada,CA,,,,,,,
+São Paulo State University,grid.410543.7,Education,1976 CE,http://www.unesp.br/portal#!/eng,http://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_University,"UNESP,",São Paulo,,,Brazil,BR,,,,,,,
+Columbia University,grid.21729.3f,Education,1754 CE,http://www.columbia.edu/,http://en.wikipedia.org/wiki/Columbia_University,"King's College,Columbia College,Columbia University in the City of New York,CU,",New York City,,,United States,US,,,,,,,
+University of Wisconsin–Madison,grid.14003.36,Education,1848 CE,http://www.wisc.edu/,http://en.wikipedia.org/wiki/University_of_Wisconsin%E2%8...,"UW–Madison,UW,",Madison,,,United States,US,,,,,,,
+Stanford University,grid.168010.e,Education,1891 CE,http://www.stanford.edu/,http://en.wikipedia.org/wiki/Stanford_University,"Leland Stanford Junior University,SU,",Stanford,,,United States,US,,,,,,,
+University of Cambridge,grid.5335.0,Education,1209 CE,http://www.cam.ac.uk/,http://en.wikipedia.org/wiki/University_of_Cambridge,"Cambridge University,",Cambridge,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,East Anglia,UKH1,Cambridgeshire CC,UKH12
+"University of California, Berkeley",grid.47840.3f,Education,1868 CE,http://www.berkeley.edu/,"http://en.wikipedia.org/wiki/University_of_California,_Be...","UC Berkeley,UCB,",Berkeley,,,United States,US,,,,,,,
+University of Chicago,grid.170205.1,Education,1890 CE,http://www.uchicago.edu/,http://en.wikipedia.org/wiki/University_of_Chicago,"UChicago,UC,",Chicago,,,United States,US,,,,,,,
+McGill University,grid.14709.3b,Education,1821 CE,http://www.mcgill.ca/,http://en.wikipedia.org/wiki/McGill_University,,Montréal,,,Canada,CA,,,,,,,
+University of Washington,grid.34477.33,Education,1861 CE,http://www.washington.edu/,http://en.wikipedia.org/wiki/University_of_Washington,"UW,",Seattle,,,United States,US,,,,,,,
+Harvard University,grid.38142.3c,Education,1636 CE,http://www.harvard.edu/,http://en.wikipedia.org/wiki/Harvard_University,,Cambridge,,,United States,US,,,,,,,
+University of Alberta,grid.17089.37,Education,1908 CE,http://ualberta.ca/,http://en.wikipedia.org/wiki/University_of_Alberta,"UAlberta,",Edmonton,,,Canada,CA,,,,,,,
+University of Minnesota,grid.17635.36,Education,1851 CE,http://twin-cities.umn.edu/,http://en.wikipedia.org/wiki/University_of_Minnesota,"University of Minnesota, Twin Cities,",Minneapolis,,,United States,US,,,,,,,
+École Polytechnique Fédérale de Lausanne,grid.5333.6,Facility,1853 CE,http://www.epfl.ch/index.en.html,http://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C...,"EPFL,",Lausanne,,,Switzerland,CH,,,,,,,
+Yale University,grid.47100.32,Education,1701 CE,http://www.yale.edu,http://en.wikipedia.org/wiki/Yale_University,"Collegiate School,Yale College,",New Haven,,,United States,US,,,,,,,
+Karlsruhe Institute of Technology,grid.7892.4,Education,2009 CE,http://www.kit.edu/english/,http://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Techn...,"Karlsruhe Institute of Technology - The Research University in the Helmholtz Association,Das Karlsruher Institut für Technologie (KIT) – Die Forschungsuniversität in der Helmholtz-Gemeinschaft,KIT,",Karlsruhe,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Karlsruhe,DE12,"Karlsruhe, Stadtkreis",DE122
+University of Pennsylvania,grid.25879.31,Education,1740 CE,http://www.upenn.edu/,http://en.wikipedia.org/wiki/University_of_Pennsylvania,"UPenn,",Philadelphia,,,United States,US,,,,,,,
+Ministry of Education of the People's Republic of China,grid.419897.a,Government,1949 CE,http://www.moe.edu.cn/publicfiles/business/htmlfiles/moe/...,http://en.wikipedia.org/wiki/Ministry_of_Education_of_the...,"Ministry of Education Central People's Government,State Education Commission,MOE,",Beijing,,,China,CN,,,,,,,
+LG Corporation (South Korea),grid.464630.3,Company,1947 CE,http://www.lge.co.kr/lgekor/main.do,https://en.wikipedia.org/wiki/LG_Corporation,"GoldStar,Lucky Goldstar,",Seoul,,,South Korea,KR,,,,,,,
+Universidade de São Paulo,grid.11899.38,Education,1934 CE,http://www5.usp.br/en/,http://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo,"USP,",São Paulo,,,Brazil,BR,,,,,,,
+The Ohio State University,grid.261331.4,Education,1870 CE,http://www.osu.edu/,http://en.wikipedia.org/wiki/Ohio_State_University,"OSU,",Columbus,,,United States,US,,,,,,,
+Technical University of Munich,grid.6936.a,Education,1868 CE,https://www.tum.de/en/,http://en.wikipedia.org/wiki/Technische_Universit%C3%A4t_...,"TUM,",Munich,,,Germany,DE,,BAYERN,DE2,Oberbayern,DE21,"München, Landkreis",DE21H
+University of North Carolina at Chapel Hill,grid.10698.36,Education,1789 CE,http://www.unc.edu/,http://en.wikipedia.org/wiki/University_of_North_Carolina...,"UNC-Chapel Hill,UNC,",Chapel Hill,,,United States,US,,,,,,,
+University of Waterloo,grid.46078.3d,Education,1956 CE,https://uwaterloo.ca/,http://en.wikipedia.org/wiki/University_of_Waterloo,"UWaterloo,UW,",Waterloo,,,Canada,CA,,,,,,,
+Chinese Academy of Sciences,grid.9227.e,Government,1949 CE,http://english.cas.cn/,http://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences,"CAS,",Beijing,,,China,CN,,,,,,,
+Massachusetts Institute of Technology,grid.116068.8,Education,1861 CE,http://web.mit.edu/,http://en.wikipedia.org/wiki/Massachusetts_Institute_of_T...,"MIT,",Cambridge,,,United States,US,,,,,,,
+"University of California, San Diego",grid.266100.3,Education,1960 CE,http://ucsd.edu/,"http://en.wikipedia.org/wiki/University_of_California,_Sa...","UC San Diego,UCSD,",San Diego,,,United States,US,,,,,,,
+University of Illinois Urbana-Champaign,grid.35403.31,Education,1867 CE,http://illinois.edu/,http://en.wikipedia.org/wiki/University_of_Illinois_at_Ur...,"University of Illinois,UIUC,",Urbana,,,United States,US,,,,,,,
+Catholic University of the Sacred Heart,grid.8142.f,Education,1921 CE,http://www.ucsc.it/,http://en.wikipedia.org/wiki/Universit%C3%A0_Cattolica_de...,"UCSC,",Milan,,,Italy,IT,,NORD-OVEST,ITC,Lombardia,ITC4,Milano,ITC4C
+University of Oxford,grid.4991.5,Education,1096 CE,http://www.ox.ac.uk/,http://en.wikipedia.org/wiki/University_of_Oxford,"Oxford University,",Oxford,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,"Berkshire, Buckinghamshire and Oxfordshire",UKJ1,Oxfordshire,UKJ14
+University College London,grid.83440.3b,Education,1826 CE,http://www.ucl.ac.uk/,http://en.wikipedia.org/wiki/University_College_London,"London University,University College, London,UCL,",London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+Osaka University,grid.136593.b,Education,1724 CE,http://www.osaka-u.ac.jp/en,http://en.wikipedia.org/wiki/Osaka_University,"Ōsaka daigaku,",Osaka,,,Japan,JP,,,,,,,
+University of Gothenburg,grid.8761.8,Education,1954 CE,http://www.gu.se/english,http://en.wikipedia.org/wiki/University_of_Gothenburg,,Göteborg,,,Sweden,SE,,SÖDRA SVERIGE,SE2,Västsverige,SE23,Västra Götalands län,SE232
+University of Lisbon,grid.9983.b,Education,1911 CE,http://www.ulisboa.pt/,http://en.wikipedia.org/wiki/University_of_Lisbon,,Lisbon,,,Portugal,PT,,CONTINENTE,PT1,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT170
+Sapienza University of Rome,grid.7841.a,Education,1303 CE,http://www.uniroma1.it/,http://en.wikipedia.org/wiki/Sapienza_University_of_Rome,"Università degli Studi di Roma ""La Sapienza"",",Rome,,,Italy,IT,,CENTRO (IT),ITI,Lazio,ITI4,Roma,ITI43
+"University of California, San Francisco",grid.266102.1,Education,1873 CE,https://www.ucsf.edu/,"http://en.wikipedia.org/wiki/University_of_California,_Sa...","UCSF,",San Francisco,,,United States,US,,,,,,,
+École Nationale Supérieure des Ingénieurs en Arts Chimiques et Technologiques,grid.434212.2,Education,1906 CE,http://www.ensiacet.fr/fr,https://en.wikipedia.org/wiki/%C3%89cole_Nationale_Sup%C3...,"INP-ENSIACET,",Toulouse,,,France,FR,,SUD-OUEST,FR6,Midi-Pyrénées,FR62,Haute-Garonne,FR623
+AvanSci Bio (United States),grid.432073.1,Company,2011 CE,https://avanscibio.com/,,,Salt Lake City,,,United States,US,,,,,,,
+HiQScreen (Switzerland),grid.434886.5,Company,2007 CE,https://www.hiqscreen.com/,,,Genève,,,Switzerland,CH,,,,,,,
+Aeron LifeCycles (United States),grid.432567.1,Company,,,,,San Leandro,,,United States,US,,,,,,,
+Tribal Group,grid.434422.7,Company,1999 CE,http://www.tribalgroup.com/Pages/default.aspx,https://en.wikipedia.org/wiki/Tribal_Group,,Bristol,,,United Kingdom,GB,,SOUTH WEST (ENGLAND),UKK,"Gloucestershire, Wiltshire and Bristol/Bath area",UKK1,"Bath and North East Somerset, North Somerset and South Gloucestershire",UKK12
+Diversified Maintenance Systems (United States),grid.434210.0,Company,1996 CE,http://www.dmsutah.com/,,"DMS,",Salt Lake City,,,United States,US,,,,,,,
+Fdt Depuratori d' Acqua (Italy),grid.434424.1,Company,,,,,Brugherio,,,Italy,IT,,NORD-OVEST,ITC,Lombardia,ITC4,Milano,ITC4C
+Smithsonian Libraries,grid.432623.2,Archive,1846 CE,http://library.si.edu/,https://en.wikipedia.org/wiki/Smithsonian_Libraries,"Smithsonian Institution Libraries,SIL,","Washington, D.C.",,,United States,US,,,,,,,
+Divine Word Missionaries,grid.434204.5,Other,1875 CE,http://www.svdvocations.org/,https://en.wikipedia.org/wiki/Divine_Word_Missionaries,"Divine Word Missionaries,Steyler Missionaries,SVD,",Northbrook,,,United States,US,,,,,,,
+Eidon (Italy),grid.434431.5,Company,,,,,Udine,,,Italy,IT,,NORD-EST,ITH,Friuli-Venezia Giulia,ITH4,Udine,ITH42
+Brighton Technologies Group (United States),grid.432565.3,Company,1995 CE,https://btgau.com.au/,,,Cincinnati,,,United States,US,,,,,,,
+Ansys (Canada),grid.432624.5,Company,1970 CE,http://www.ansys.com/,,,Waterloo,,,Canada,CA,,,,,,,
+Eikos (United States),grid.434435.1,Company,1996 CE,https://www.eikos.com/,https://en.wikipedia.org/wiki/Eikos,,Franklin,,,United States,US,,,,,,,
+Becs Technology (United States),grid.432562.4,Company,1991 CE,http://www.becs.com/,,"Engineering, Innovations and Designs,",St. Louis,,,United States,US,,,,,,,
+Chart Industries (United Kingdom),grid.433100.5,Company,1992 CE,http://www.chartindustries.com/,,,Pershore,,,United Kingdom,GB,,WEST MIDLANDS (ENGLAND),UKG,"Herefordshire, Worcestershire and Warwickshire",UKG1,Worcestershire,UKG12
+Siamab Therapeutics (United States),grid.434443.0,Company,2006 CE,https://www.siamab.com/,,,Newton,,,United States,US,,,,,,,
+Aeromics (United States),grid.432560.6,Company,2008 CE,https://www.aeromics.com/,,,Cleveland,,,United States,US,,,,,,,
+Ekspobalta (Lithuania),grid.434450.2,Company,1996 CE,http://www.ekspobalta.com/en/,,,Vilnius,,,Lithuania,LT,,LIETUVA,LT0,Lietuva,LT00,Vilniaus apskritis,LT00A
+Associated Bonded Cables (United Kingdom),grid.432553.6,Company,1990 CE,http://www.associatedbondedcables.com/,,,Bootle,,,United Kingdom,GB,,NORTH WEST (ENGLAND),UKD,Merseyside,UKD7,Sefton,UKD73
+Perma-Fix (United States),grid.434202.3,Company,1991 CE,http://www.perma-fix.com/,,,Atlanta,,,United States,US,,,,,,,
+Associated Dental Products (United Kingdom),grid.432552.7,Company,1922 CE,http://www.kemdent.co.uk/,,,Swindon,,,United Kingdom,GB,,SOUTH WEST (ENGLAND),UKK,"Gloucestershire, Wiltshire and Bristol/Bath area",UKK1,Swindon,UKK14
+Ripamonti,grid.434201.0,Company,1934 CE,http://www.ripamonti.net/,,,Ornavasso,,,Italy,IT,,NORD-OVEST,ITC,Piemonte,ITC1,Verbano-Cusio-Ossola,ITC14
+Aeromet International (United Kingdom),grid.432551.4,Company,1974 CE,https://www.aeromet.co.uk/,,,Worcester,,,United Kingdom,GB,,WEST MIDLANDS (ENGLAND),UKG,"Herefordshire, Worcestershire and Warwickshire",UKG1,Worcestershire,UKG12
+Frantic Films (Canada),grid.434461.0,Company,1997 CE,http://www.franticfilms.com/,https://en.wikipedia.org/wiki/Frantic_Films,,Winnipeg,,,Canada,CA,,,,,,,
+Giraf PM (Germany),grid.434462.3,Company,,http://www.giraf-pm.com/,,,Saarbrücken,,,Germany,DE,,SAARLAND,DEC,Saarland,DEC0,Regionalverband Saarbrücken,DEC01
+Systems Engineering Society of China,grid.507042.4,Other,1980 CE,http://www.sesc.org.cn,,"SESC,",Beijing,,,China,CN,,,,,,,
+State Administration of Foreign Exchange,grid.507050.7,Government,1978 CE,http://www.safe.gov.cn/,https://en.wikipedia.org/wiki/State_Administration_of_For...,"SAFE,",Beijing,,,China,CN,,,,,,,
+Tianjin Synthetic Material Research Institute (China),grid.507051.6,Company,1957 CE,http://www.tsmri.cn/,,"TSMRI,",Tianjin,,,China,CN,,,,,,,
+Tongliao Academy of Agricultural Sciences,grid.507052.5,Facility,1949 CE,http://www.tlsnky.com/,,"Tongliao Agricultural Science Research Institute,",Tongliao,,,China,CN,,,,,,,
+Xinjiang New Energy Research Institute (China),grid.507059.e,Company,,http://www.xjner.net/,,,Xinjiang,,,China,CN,,,,,,,
+Wuchang University of Technology,grid.507061.5,Education,1997 CE,http://www.wut.edu.cn/,,"WUT,",Wuhan,,,China,CN,,,,,,,
+Wuhan Prevention and Treatment Center for Occupational Diseases,grid.507063.7,Healthcare,1970 CE,http://www.whzfy.org.cn/,,,Wuhan,,,China,CN,,,,,,,
+Xian Mechanical & Electric Institute (China),grid.507064.0,Company,1987 CE,http://www.xmei.com.cn/,,"XMEI,",Xi’an,,,China,CN,,,,,,,
+Children’s Hospital of Fudan University Xiamen Branch,grid.507065.1,Healthcare,2014 CE,http://www.xmsetyy.cn/,,"Xiamen Children’s Hospital,",Xiamen,,,China,CN,,,,,,,
+Departamento de Epidemiología,grid.507071.4,Government,,http://epidemiologia.mspas.gob.gt/,,"Centro Nacional de Epidemiología,",Guatemala City,,,Guatemala,GT,,,,,,,
+Grup CHM Mental Salut,grid.507072.7,Nonprofit,1975 CE,http://www.grupchmsm.com/,,,Barcelona,,,Spain,ES,,ESTE,ES5,Cataluña,ES51,Barcelona,ES511
+Center for Research in Molecular Medicine and Chronic Diseases,grid.507073.6,Facility,2010 CE,https://www.usc.es/cimus/en,,"CiMUS,",Santiago de Compostela,,,Spain,ES,,NOROESTE,ES1,Galicia,ES11,A Coruña,ES111
+Andalusian Agency for Healthcare Quality,grid.507081.b,Other,2002 CE,https://www.sspa.juntadeandalucia.es/agenciadecalidadsani...,,"ACSA,",Sevilla,,,Spain,ES,,SUR,ES6,Andalucía,ES61,Sevilla,ES618
+Biobanco del Sistema Sanitario Público de Andalucía,grid.507083.9,Other,,http://www.juntadeandalucia.es/salud/biobanco/nosotros/somos,,"SSPA,",Granada,,,Spain,ES,,SUR,ES6,Andalucía,ES61,Granada,ES614
+Fundación Andaluza Beturia para la Investigación en Salud,grid.507084.e,Nonprofit,2005 CE,http://www.fabis.org/,,"FABIS,",Huelva,,,Spain,ES,,SUR,ES6,Andalucía,ES61,Huelva,ES615
+Instituto de Biología y Genética Molecular,grid.507089.3,Facility,1998 CE,http://www.ibgm.med.uva.es,,"IBGM,",Valladolid,,,Spain,ES,,CENTRO (ES),ES4,Castilla y León,ES41,Valladolid,ES418
+Instituto de Instrumentación para Imagen Molecular,grid.507091.a,Facility,2010 CE,https://www.i3m.upv.es,,"Instituto i3M,I3M,",Valencia,,,Spain,ES,,ESTE,ES5,Comunidad Valenciana,ES52,Valencia / València,ES523
+Instituto Sindical de Trabajo Ambiente y Salud,grid.507092.9,Nonprofit,1996 CE,https://istas.net/istas,,"ISTAS,",Valencia,,,Spain,ES,,ESTE,ES5,Comunidad Valenciana,ES52,Valencia / València,ES523
+Advanced Functional Fabrics of America,grid.507099.2,Nonprofit,2016 CE,http://go.affoa.org/,https://en.wikipedia.org/wiki/Advanced_Functional_Fabrics...,"AFFOA,",Cambridge,,,United States,US,,,,,,,
+Cohen Veterans Bioscience,grid.507100.3,Nonprofit,2012 CE,https://www.cohenveteransbioscience.org/,,,Cambridge,,,United States,US,,,,,,,
+Fundação de Apoio à Universidade do Rio Grande,grid.507101.2,Nonprofit,1998 CE,http://www.faurg.furg.br/,,"FAURG,",Rio Grande,,,Brazil,BR,,,,,,,
+Alivio Therapeutics (United States),grid.507102.1,Company,,http://www.aliviotherapeutics.com/team,,,Boston,,,United States,US,,,,,,,
+ContraFect (United States),grid.507103.0,Company,2008 CE,https://www.contrafect.com/,,"CFRX,",Yonkers,,,United States,US,,,,,,,
+Amicrobe (United States),grid.507104.7,Company,2010 CE,https://www.amicrobe.com/,,,Carlsbad,,,United States,US,,,,,,,
+Gel4Med (United States),grid.507105.6,Company,2015 CE,https://www.gelformed.com/,,,Boston,,,United States,US,,,,,,,
+India China Economic and Cultural Council,grid.464930.c,Government,2003 CE,http://www.icec-council.org/,,"ICEC,",New Delhi,,,India,IN,,,,,,,
+Karnataka Fisheries Development Corporation,grid.464931.d,Government,1970 CE,http://kfdcfish.com/,,"KFDC,",Mangalore,,,India,IN,,,,,,,
+ClariTrac (United States),grid.470248.d,Company,2009 CE,http://claritracinc.com/,,,Santa Monica,,,United States,US,,,,,,,
+Manhattan Medical Research,grid.477513.3,Facility,2013 CE,http://www.manhattanmedicalresearch.com/,,"MMR,",New York City,,,United States,US,,,,,,,
+Natco Pharma (India),grid.464942.9,Company,1981 CE,http://natcopharma.co.in/,,,Hyderabad,,,India,IN,,,,,,,
+Rajamangala University of Technology Krungthep,grid.464685.d,Education,2005 CE,http://www.rmutk.ac.th/,,"RMUTK,",Bangkok,,,Thailand,TH,,,,,,,
+Institute of Finance and Trade Economics,grid.464635.6,Facility,1978 CE,,,,Beijing,,,China,CN,,,,,,,
+Network for Preventive Environmental Management,grid.464949.2,Other,2002 CE,http://www.netpem.org/,,"NetPEM,",Nagpur,,,India,IN,,,,,,,
+West African Health Organisation,grid.464557.1,Government,1987 CE,http://www.wahooas.org/index2.php?lang=en,,"WAHO,",Bobo-Dioulasso,,,Burkina Faso,BF,,,,,,,
+Nidan,grid.464951.b,Nonprofit,1996 CE,http://nidan.in/,https://en.wikipedia.org/wiki/Nidan_(NGO),,Patna,,,India,IN,,,,,,,
+Mehrangarh Museum Trust,grid.464952.8,Archive,1972 CE,http://www.mehrangarh.org/,,,Jodhpur,,,India,IN,,,,,,,
+American Military University,grid.464516.4,Education,1991 CE,https://www.amu.apus.edu/,,,Charles Town,,,United States,US,,,,,,,
+Lanco Solar (India),grid.464964.d,Company,1986 CE,http://www.lancosolar.com/,,,Gurgaon,,,India,IN,,,,,,,
+Yunnan Provincial Hospital of Traditional Chinese Medicine,grid.464504.7,Healthcare,1947 CE,http://www.yn-tcm-hospital.com/sitefiles/services/cms/pag...,,,Kunming,,,China,CN,,,,,,,
+Consumer Goods Council of South Africa,grid.463195.c,Other,2002 CE,https://www.cgcsa.co.za/cgcsa,,"CGCSA,",Johannesburg,,,South Africa,ZA,,,,,,,
+Yunnan Animal Science and Veterinary Institute,grid.464487.d,Facility,1959 CE,http://www.asvi.cn/,,"Yunnan Animal Husbandry and Veterinary Sciences,Yunnan Academy of Animal Husbandry and Veterinary Medicine,",Kunming,,,China,CN,,,,,,,
+SinoGenoMax (China),grid.464464.0,Company,1998 CE,http://www.sinogenomax.com/,,,Beijing,,,China,CN,,,,,,,
+Mahindra and Mahindra Limited (India),grid.464976.e,Company,1945 CE,http://www.mahindra.com/investors/mahindra-and-mahindra,https://en.wikipedia.org/wiki/Mahindra_%26_Mahindra,"M&M,",Mumbai,,,India,IN,,,,,,,
+Centre pour l’Environnement et le Développement,grid.463189.1,Nonprofit,1994 CE,http://www.cedcameroun.org/,,"CED,",Yaoundé,,,Cameroon,CM,,,,,,,
+Ministry of Agriculture & Farmers Welfare,grid.464979.1,Government,1871 CE,http://agriculture.gov.in/,https://en.wikipedia.org/wiki/Ministry_of_Agriculture_%26...,"Ministry of Agriculture,",New Delhi,,,India,IN,,,,,,,
+Chamber of Commerce and Industry of Tunis,grid.463188.0,Other,1885 CE,http://www.ccitunis.org.tn/en/,,"CCIT,",Tunis,,,Tunisia,TN,,,,,,,
+Sino-Japan Friendship Center for Environmental Protection,grid.464462.6,Government,1996 CE,http://www.china-epc.cn/,,"MEP Environmental Development Center,",Beijing,,,China,CN,,,,,,,
+Chambre de Commerce et d'Industrie du Centre,grid.463187.f,Other,1892 CE,http://www.ccicentre.org.tn/,,"CCIC,",Sousse,,,Tunisia,TN,,,,,,,
+Centre for Educational Development in Health Arusha,grid.463186.e,Government,1983 CE,http://www.cedha.ac.tz/,,"CEDHA,",Arusha,,,Tanzania,TZ,,,,,,,
+Sanmar Group (India),grid.465017.1,Company,1970 CE,http://sanmargroup.com/,,,Chennai,,,India,IN,,,,,,,
+InternetSpeech (United States),grid.454444.1,Company,1998 CE,http://www.internetspeech.com/,,,San Jose,,,United States,US,,,,,,,
+DakotaLink (United States),grid.454445.0,Company,1999 CE,http://www.dakotalink.net/,,,Rapid City,,,United States,US,,,,,,,
+Nevada Department of Employment Training and Rehabilitation,grid.454456.2,Other,1993 CE,http://www.nvdetr.org/,,,Carson City,,,United States,US,,,,,,,
+Commission on Rehabilitation Counselor Certification,grid.454457.3,Nonprofit,1974 CE,https://www.crccertification.com/,https://en.wikipedia.org/wiki/Commission_on_Rehabilitatio...,"CRCC,",Schaumburg,,,United States,US,,,,,,,
+Aanderaa (Norway),grid.457476.3,Company,1966 CE,http://www.aanderaa.com/,,,Bergen,,,Norway,NO,,,,,,,
+Alliance for Technology Access,grid.454466.1,Nonprofit,1989 CE,http://www.ataccess.org/,,"ATA,",Jackson,,,United States,US,,,,,,,
+PR & Company (United States),grid.454467.0,Company,,http://prandcompany.com/,,,San Francisco,,,United States,US,,,,,,,
+Lee County Board of Commissioners,grid.454468.f,Government,1887 CE,http://www.leegov.com/bocc,,,Fort Myers,,,United States,US,,,,,,,
+Liberating Technologies (United States),grid.454469.e,Company,2001 CE,http://www.liberatingtech.com/,,"LTI,",Holliston,,,United States,US,,,,,,,
+Good Nutrition Ideas (United States),grid.454478.e,Company,2010 CE,http://www.goodnutritionideas.com/,,,Missoula,,,United States,US,,,,,,,
+Amtrak (United States),grid.454479.f,Company,1971 CE,http://www.amtrak.com/,https://en.wikipedia.org/wiki/Amtrak,,"Washington, D.C.",,,United States,US,,,,,,,
+Positive Behavioral Solutions,grid.454480.9,Nonprofit,,http://www.positivebehavioralsolutions.org/index.html,,,Fletcher,,,United States,US,,,,,,,
+PresenceLearning (United States),grid.454481.8,Company,2009 CE,http://www.presencelearning.com/,,,San Francisco,,,United States,US,,,,,,,
+Matheny Hospital,grid.454491.9,Healthcare,1954 CE,http://www.matheny.org/hospital/,,,Peapack,,,United States,US,,,,,,,
+Abalonyx (Norway),grid.457482.8,Company,2005 CE,http://www.abalonyx.no/,,,Oslo,,,Norway,NO,,,,,,,
+Seamless Solutions (United States),grid.454498.0,Company,1985 CE,http://www.seamlesssolutions.com/,,,Houston,,,United States,US,,,,,,,
+Nian-Crae (United States),grid.454499.1,Company,1988 CE,http://wp1.niancrae.com/,,,Somerset,,,United States,US,,,,,,,
+Meeting the Challenge (United States),grid.454500.0,Company,1989 CE,http://www.mtc-inc.com/,,"MTC,",Colorado Springs,,,United States,US,,,,,,,
+Sensory Access Foundation,grid.454509.9,Nonprofit,1973 CE,http://www.sensoryaccess.com/,,,Sunnyvale,,,United States,US,,,,,,,
+Synfonica (United States),grid.454510.1,Company,2004 CE,http://www.synfonicaspeech.com/,,"NovaSpeech LLC,",Ithaca,,,United States,US,,,,,,,
+Missouri Department of Labor and Industrial Relations,grid.454511.0,Government,1991 CE,http://labor.mo.gov/,,,Jefferson City,,,United States,US,,,,,,,
+TransCen,grid.454512.3,Nonprofit,1986 CE,http://www.transcen.org/,,,Rockville,,,United States,US,,,,,,,
+Prevention Group,grid.454519.8,Company,2006 CE,http://www.thepreventiongroup.org/,,,Omaha,,,United States,US,,,,,,,
+Opus Technologies (United States),grid.454520.2,Company,1992 CE,http://www.opustec.com/,,,San Diego,,,United States,US,,,,,,,
+Alaska Bible College,grid.454530.3,Education,1966 CE,http://www.akbible.edu/,https://en.wikipedia.org/wiki/Alaska_Bible_College,"ABC,",Palmer,,,United States,US,,,,,,,
+ALD NanoSolutions (United States),grid.422275.4,Company,2001 CE,http://www.aldnanosolutions.com/,,,Broomfield,,,United States,US,,,,,,,
+VideoMining (United States),grid.422274.5,Company,2000 CE,https://www.videomining.com/,,,State College,,,United States,US,,,,,,,
+ALD Vacuum Technologies (Germany),grid.423942.a,Company,1873 CE,https://www.ald-vt.com/de/,,,Hanau am Main,,,Germany,DE,,HESSEN,DE7,Darmstadt,DE71,Main-Kinzig-Kreis,DE719
+BAMO International (France),grid.423941.9,Company,1978 CE,https://www.bamo.fr/cbx/index.htm,,,Argenteuil,,,France,FR,,ÎLE DE FRANCE,FR1,Île de France,FR10,Val-d'Oise,FR108
+Laviosa Minerals (Italy),grid.425799.4,Company,1933 CE,https://www.laviosa.com/,,,Livorno,,,Italy,IT,,CENTRO (IT),ITI,Toscana,ITI1,Livorno,ITI16
+BioLegend (United States),grid.422444.0,Company,2002 CE,https://www.biolegend.com/,https://en.wikipedia.org/wiki/BioLegend,,San Diego,,,United States,US,,,,,,,
+Vidasym (United States),grid.422261.1,Company,2009 CE,http://www.vidasym.com/home/,,,Chicago,,,United States,US,,,,,,,
+c-LEcta (Germany),grid.424482.c,Company,2004 CE,http://www.c-lecta.com/,,,Leipzig,,,Germany,DE,,SACHSEN,DED,Leipzig,DED5,Leipzig,DED52
+Infor (Netherlands),grid.423915.8,Company,2002 CE,https://www.infor.com/nl-nl,https://en.wikipedia.org/wiki/Infor,,Barneveld,,,Netherlands,NL,,OOST-NEDERLAND,NL2,Gelderland,NL22,Veluwe,NL221
+Global Security Intelligence (United Kingdom),grid.424475.4,Company,2005 CE,http://www.globalseci.com,,,London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+GMI Aero (France),grid.424484.a,Company,1985 CE,http://www.gmi-aero.fr/,,,Paris,,,France,FR,,ÎLE DE FRANCE,FR1,Île de France,FR10,Paris,FR101
+Engineering Solutions International (Ireland),grid.424487.9,Company,1989 CE,,,,Dublin,,,Ireland,IE,,IRELAND,IE0,Southern and Eastern,IE02,Dublin,IE021
+Caixa Mágica Software (Portugal),grid.424495.a,Company,2004 CE,https://www.caixamagica.pt/,,"CMS,",Lisbon,,,Portugal,PT,,CONTINENTE,PT1,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT170
+DAF Trucks (Netherlands),grid.423895.1,Company,1928 CE,https://www.daf.com/,https://en.wikipedia.org/wiki/DAF_Trucks,,Eindhoven,,,Netherlands,NL,,ZUID-NEDERLAND,NL4,Noord-Brabant,NL41,Zuidoost-Noord-Brabant,NL414
+Azienda Trasporti Milanesi (Italy),grid.423891.5,Company,1931 CE,https://www.atm.it/it/Pagine/default.aspx,https://en.wikipedia.org/wiki/Azienda_Trasporti_Milanesi,"ATM,",Milan,,,Italy,IT,,NORD-OVEST,ITC,Lombardia,ITC4,Milano,ITC4C
+Gühring (Germany),grid.424510.6,Company,1898 CE,http://www.guehring.de/?lang=EN,,,Albstadt,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Tübingen,DE14,Zollernalbkreis,DE143
+Avantune (Italy),grid.423884.1,Company,1994 CE,http://www.avantune.com/,,"Solgenia,",Trento,,,Italy,IT,,NORD-EST,ITH,Provincia Autonoma di Trento,ITH2,Trento,ITH20
+Grace (Germany),grid.424517.1,Company,2009 CE,http://www.grace-bikes.com/,,,Worms,,,Germany,DE,,RHEINLAND-PFALZ,DEB,Rheinhessen-Pfalz,DEB3,"Worms, Kreisfreie Stadt",DEB39
+Cyntelix (Netherlands),grid.423880.5,Company,2013 CE,http://cyntelix.com/,,,Amersfoort,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Utrecht,NL31,Utrecht,NL310
+Berliner Nanotest und Design,grid.424054.3,Company,2004 CE,http://www.nanotest.eu/en/,,,Berlin,,,Germany,DE,,BERLIN,DE3,Berlin,DE30,Berlin,DE300
+Enide Solutions (Spain),grid.424528.d,Company,,http://www.enide.eu/,,,Barcelona,,,Spain,ES,,ESTE,ES5,Cataluña,ES51,Barcelona,ES511
+Carmeq (Germany),grid.424550.2,Company,2002 CE,http://www.carmeq.de/en/index.html,,,Berlin,,,Germany,DE,,BERLIN,DE3,Berlin,DE30,Berlin,DE300
+International Chemical Investors (Germany),grid.424529.c,Company,2004 CE,http://www.ic-investors.com/,,,Frankfurt am Main,,,Germany,DE,,HESSEN,DE7,Darmstadt,DE71,"Frankfurt am Main, Kreisfreie Stadt",DE712
+AITIA International (Hungary),grid.423862.9,Company,1995 CE,http://www.aitia.ai/,,,Budapest,,,Hungary,HU,,KÖZÉP-MAGYARORSZÁG,HU1,Közép-Magyarország,HU10,Budapest,HU101
+Enkam (Denmark),grid.424531.5,Company,2000 CE,http://www.enkam.com/,,,Copenhagen,,,Denmark,DK,,DANMARK,DK0,Hovedstaden,DK01,Byen København,DK011
+oncgnostics (Germany),grid.492030.c,Company,2012 CE,http://www.oncgnostics.com/,,,Jena,,,Germany,DE,,THÜRINGEN,DEG,Thüringen,DEG0,"Jena, Kreisfreie Stadt",DEG03
+KA Medical (United States),grid.492116.9,Company,2014 CE,http://ka-medical.com/,,,Roseville,,,United States,US,,,,,,,
+Klinikum Ingolstadt,grid.492033.f,Healthcare,,https://www.klinikum-ingolstadt.de/,,,Ingolstadt,,,Germany,DE,,BAYERN,DE2,Oberbayern,DE21,Eichstätt,DE219
+Klinikum am Weissenhof,grid.492034.8,Healthcare,1903 CE,http://www.klinikum-weissenhof.de/en/,https://en.wikipedia.org/wiki/Klinikum_am_Weissenhof,,Weinsberg,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Stuttgart,DE11,"Heilbronn, Landkreis",DE118
+Klinikum Konstanz,grid.492036.a,Healthcare,,http://www.glkn.de/glkn/standorte/klinikum-konstanz/klini...,,,Konstanz,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Freiburg,DE13,Konstanz,DE138
+"Ministerium für Soziales, Integration und Gleichstellung des Landes Mecklenburg-Vorpommern",grid.492037.b,Government,1990 CE,https://www.regierung-mv.de/Landesregierung/sm/,,"MSIG MV,",Schwerin,,,Germany,DE,,MECKLENBURG-VORPOMMERN,DE8,Mecklenburg-Vorpommern,DE80,"Schwerin, Kreisfreie Stadt",DE804
+Osteopathie Plus,grid.492038.4,Healthcare,,http://www.osteopathieplus-hilden.de/,,,Hilden,,,Germany,DE,,NORDRHEIN-WESTFALEN,DEA,Düsseldorf,DEA1,Mettmann,DEA1C
+Klinikverbund Südwest,grid.492041.a,Healthcare,,http://www.klinikverbund-suedwest.de/klinikverbund-suedwe...,,,Böblingen,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Stuttgart,DE11,Böblingen,DE112
+Psychologische Praxengemeinschaft,grid.492043.8,Other,,https://www.ppg-of.de/,,,Offenbach,,,Germany,DE,,HESSEN,DE7,Darmstadt,DE71,"Offenbach am Main, Kreisfreie Stadt",DE713
+Oystershell (Belgium),grid.492044.f,Company,1979 CE,https://www.oystershell.com/en,https://en.wikipedia.org/wiki/Oystershell_NV,,Gent,,,Belgium,BE,,VLAAMS GEWEST,BE2,Prov. Oost-Vlaanderen,BE23,Arr. Gent,BE234
+Sächsisches Staatsministerium für Soziales und Verbraucherschutz,grid.492045.e,Government,1990 CE,https://www.sms.sachsen.de/,,"SMS,",Dresden,,,Germany,DE,,SACHSEN,DED,Dresden,DED2,Sächsische Schweiz-Osterzgebirge,DED2F
+Paracelsus-Klinik Osnabrück,grid.492046.d,Healthcare,1968 CE,https://www.paracelsus-kliniken.de/osnabrueck.html,,,Osnabrück,,,Germany,DE,,NIEDERSACHSEN,DE9,Weser-Ems,DE94,"Osnabrück, Landkreis",DE94E
+Sachtleben (Germany),grid.492048.3,Company,2016 CE,https://www.citresearch.de/,,,Hamburg,,,Germany,DE,,HAMBURG,DE6,Hamburg,DE60,Hamburg,DE600
+Moebius Syndrome Foundation,grid.492488.b,Nonprofit,1880 CE,http://moebiussyndrome.org/,,,Pilot Grove,,,United States,US,,,,,,,
+Sana Klinikum Lichtenberg,grid.492050.a,Healthcare,,https://www.sana-kl.de/,,,Berlin,,,Germany,DE,,BERLIN,DE3,Berlin,DE30,Berlin,DE300
+Park-Klinik Weißensee,grid.492051.b,Healthcare,1997 CE,https://www.park-klinik.com/en/pkw-international/english-...,,,Berlin,,,Germany,DE,,BERLIN,DE3,Berlin,DE30,Berlin,DE300
+Storch und Beller,grid.492052.8,Company,1943 CE,http://storch-beller.de/startseite/,,,Karlsruhe,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Karlsruhe,DE12,"Karlsruhe, Stadtkreis",DE122
+Krankenhaus Jerusalem,grid.492053.9,Healthcare,1913 CE,http://jerusalem-hamburg.de/,,,Hamburg,,,Germany,DE,,HAMBURG,DE6,Hamburg,DE60,Hamburg,DE600
+Parkinson-Klinik Ortenau,grid.492054.e,Healthcare,1953 CE,http://www.parkinson-klinik.de/,,,Wolfach,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Freiburg,DE13,Ortenaukreis,DE134
+Sankt Gertrauden Krankenhaus,grid.492055.f,Healthcare,1930 CE,http://www.sankt-gertrauden.de/,,,Berlin,,,Germany,DE,,BERLIN,DE3,Berlin,DE30,Berlin,DE300
+Pulmonx (Switzerland),grid.492056.c,Company,,https://www.pulmonx.com/welcome/,,,Neuchâtel,,,Switzerland,CH,,,,,,,
+Parkklinik Wiesbaden Schlangenbad,grid.492057.d,Healthcare,,https://parkklinik-schlangenbad.de/,,,Schlangenbad,,,Germany,DE,,HESSEN,DE7,Darmstadt,DE71,Rheingau-Taunus-Kreis,DE71D
+Pentracor (Germany),grid.492058.2,Company,,http://www.pentracor.de/,,,Hennigsdorf,,,Germany,DE,,BRANDENBURG,DE4,Brandenburg,DE40,Oberhavel,DE40A
+Physiotherapie und Lauftherapie Zentrum,grid.492060.9,Healthcare,1997 CE,https://www.pulz-freiburg.de/,,"PULZ,",Freiburg,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Freiburg,DE13,"Freiburg im Breisgau, Stadtkreis",DE131
+Onkovis (Germany),grid.492061.8,Company,,http://www.onkovis.de/,,,Penzberg,,,Germany,DE,,BAYERN,DE2,Oberbayern,DE21,Bad Tölz-Wolfratshausen,DE216
+Suiselectra Consulting Engineers (Switzerland),grid.483645.8,Company,1929 CE,http://www.suiselectra.ch/index.php?sp=gb,,,Basel,,,Switzerland,CH,,,,,,,
+Fribourg Development Agency,grid.483646.b,Government,1972 CE,http://www.promfr.ch/?page_id=24,,"PromFR,",Fribourg,,,Switzerland,CH,,,,,,,
+Supercomputing Systems (Switzerland),grid.483647.a,Company,1993 CE,https://www.scs.ch/en/home.html,,"SCS,",Zürich,,,Switzerland,CH,,,,,,,
+Schweizerische Gesellschaft für Kardiologie,grid.483648.5,Other,1948 CE,http://www.swisscardio.ch/public/home/deutsch.asp?l=de,,"SGK,",Bern,,,Switzerland,CH,,,,,,,
+Zenwa (United States),grid.488108.d,Company,,http://zenwa.net/,,,Sudbury,,,United States,US,,,,,,,
+Technik und Forschung im Betonbau (Switzerland),grid.483657.b,Company,1933 CE,http://www.tfb.ch/de/Unsere-Firma.html,,"TFB,",Puidoux,,,Switzerland,CH,,,,,,,
+Court of Arbitration for Sport,grid.483658.4,Government,1984 CE,http://www.tas-cas.org/en/index.html,https://en.wikipedia.org/wiki/Court_of_Arbitration_for_Sport,"TAS,CAS,",Lausanne,,,Switzerland,CH,,,,,,,
+State Archive of Bern,grid.483660.f,Archive,1891 CE,http://www.sta.be.ch/sta/en/index/staatsarchiv/staatsarch...,,,Bern,,,Switzerland,CH,,,,,,,
+Ulrich Creative Simulations (Switzerland),grid.483668.7,Company,,http://www.ucs.ch/english/index.html,,"UCS,",Zürich,,,Switzerland,CH,,,,,,,
+Symbios Orthopédie (Switzerland),grid.483669.6,Company,,http://www.symbios.ch/en/,,,Yverdon-les-Bains,,,Switzerland,CH,,,,,,,
+Staatskanzlei des Kantons Zürich,grid.483670.e,Government,,http://www.sk.zh.ch/internet/staatskanzlei/de/home.html,,,Zürich,,,Switzerland,CH,,,,,,,
+Syndicom (Switzerland),grid.483671.f,Company,2010 CE,http://www.syndicom.ch/de.html,,,Bern,,,Switzerland,CH,,,,,,,
+Stadtgalerie Bern,grid.483676.8,Other,1967 CE,http://www.bern.ch/politik-und-verwaltung/stadtverwaltung...,,,Bern,,,Switzerland,CH,,,,,,,
+Tamedia (Switzerland),grid.483677.9,Company,1893 CE,https://www.tamedia.ch/en/,https://en.wikipedia.org/wiki/Tamedia,,Zürich,,,Switzerland,CH,,,,,,,
+P.S. Pasternak Research Institute for Mountain Forestry,grid.483678.6,Facility,1991 CE,,,,Ivano-Frankivsk,,,Ukraine,UA,,,,,,,
+Burckhardt+Partner (Switzerland),grid.483679.7,Company,1951 CE,http://www.burckhardtpartner.ch/en/home.html,,,Basel,,,Switzerland,CH,,,,,,,
+Tornos (Switzerland),grid.483684.5,Company,1880 CE,https://www.tornos.com/en,,,Moutier,,,Switzerland,CH,,,,,,,
+Universidad Católica Lumen Gentium,grid.483686.7,Education,1551 CE,http://www.isee.edu.mx/,,"UCLG,",San Marcos,,,Mexico,MX,,,,,,,
+Centre de Résonance Magnétique des Systèmes Biologiques,grid.483687.6,Facility,1995 CE,http://www.rmsb.u-bordeaux2.fr/,,"CRMSB,",Bordeaux,,,France,FR,,SUD-OUEST,FR6,Aquitaine,FR61,Gironde,FR612
+SKK Landschaftsarchitekten (Switzerland),grid.483688.9,Company,1970 CE,http://www.skk.ch/startseite.html,,,Wettingen,,,Switzerland,CH,,,,,,,
+MRC Centre for Regenerative Medicine,grid.483689.8,Facility,2008 CE,http://www.crm.ed.ac.uk/,,"MRC CRM,",Edinburgh,,,United Kingdom,GB,,SCOTLAND,UKM,Eastern Scotland,UKM2,"Edinburgh, City of",UKM25
+SNZ Ingenieure und Planer (Switzerland),grid.483690.0,Company,1959 CE,http://www.snz.ch/,,,Zürich,,,Switzerland,CH,,,,,,,
+Verwaltungsgericht Kantons Zürich,grid.483696.6,Government,,http://www.vgr.zh.ch/internet/verwaltungsgericht/de/home....,,,Zürich,,,Switzerland,CH,,,,,,,
+Verzone Woods Architectes,grid.483697.7,Other,1995 CE,http://www.vwa.ch/,,"VWA,",Vevey,,,Switzerland,CH,,,,,,,
+"Département de la Formation, de la Jeunesse et de la Culture",grid.483698.8,Government,,http://www.vd.ch/autorites/departements/dfjc/,,,Lausanne,,,Switzerland,CH,,,,,,,
+Sevenzo,grid.479557.d,Nonprofit,2015 CE,https://www.sevenzo.org/,,,Pittsburgh,,,United States,US,,,,,,,
+Jack Miller Center,grid.479558.2,Nonprofit,2011 CE,http://www.jackmillercenter.org/,https://en.wikipedia.org/wiki/Jack_Miller_Center,"Jack Miller Center for Teaching America's Founding Principles and History,JMC,",Philadelphia,,,United States,US,,,,,,,
+Tennessee College Access and Success Network,grid.479560.9,Other,2010 CE,http://tncollegeaccess.org/,,"TCASN,",Nashville,,,United States,US,,,,,,,
+Share Our Strength,grid.479561.8,Nonprofit,1984 CE,https://www.nokidhungry.org/,https://en.wikipedia.org/wiki/Share_Our_Strength,,"Washington, D.C.",,,United States,US,,,,,,,
+TerraFrame (United States),grid.479562.b,Company,2006 CE,http://terraframe.com/,,,Broomfield,,,United States,US,,,,,,,
+King Center Charter School,grid.479563.a,Education,1985 CE,http://www.kccs.org/,,"KCCS,",Buffalo,,,United States,US,,,,,,,
+Ustar Biotechnologies (China),grid.479565.c,Company,2005 CE,http://bioustar.com/en/index.aspx,,,Hangzhou,,,China,CN,,,,,,,
+TetraGenetics (United States),grid.479566.f,Company,2004 CE,http://www.tetragenetics.com/,,,Arlington,,,United States,US,,,,,,,
+Development Fund,grid.479568.1,Nonprofit,1978 CE,http://www.utviklingsfondet.no/en/,,,Oslo,,,Norway,NO,,,,,,,
+Sirenas (United States),grid.479569.0,Company,2011 CE,http://sirenasmd.com/,,,San Diego,,,United States,US,,,,,,,
+The New Teacher Project,grid.479570.8,Nonprofit,1997 CE,http://tntp.org/,https://en.wikipedia.org/wiki/The_New_Teacher_Project,"TNTP,",Brooklyn,,,United States,US,,,,,,,
+Texas Tribune,grid.479571.9,Nonprofit,2009 CE,https://www.texastribune.org/,https://en.wikipedia.org/wiki/The_Texas_Tribune,,Austin,,,United States,US,,,,,,,
+Sister Cities International,grid.479572.a,Nonprofit,1956 CE,http://www.sister-cities.org/,https://en.wikipedia.org/wiki/Sister_Cities_International,"SCI,","Washington, D.C.",,,United States,US,,,,,,,
+Pew Research Center,grid.479573.b,Nonprofit,2004 CE,http://www.pewforum.org/,https://en.wikipedia.org/wiki/Pew_Research_Center,,"Washington, D.C.",,,United States,US,,,,,,,
+The Philanthropic Initiative,grid.479575.d,Nonprofit,1989 CE,http://www.tpi.org/,,"TPI,",Boston,,,United States,US,,,,,,,
+Skillpoint Alliance,grid.479576.e,Nonprofit,1994 CE,http://skillpointalliance.org/,,"Capital Area Training Foundation,CATF,",Austin,,,United States,US,,,,,,,
+Triumph Learning (United States),grid.479577.f,Company,1963 CE,http://www.triumphlearning.com/,,,New York City,,,United States,US,,,,,,,
+Smart Sparrow (United States),grid.479578.0,Company,2005 CE,https://www.smartsparrow.com,,,San Francisco,,,United States,US,,,,,,,
+Right Question Institute,grid.479579.1,Nonprofit,,http://rightquestion.org/,,"RQI,",Cambridge,,,United States,US,,,,,,,
+Vatican Observatory Foundation,grid.479580.7,Nonprofit,1986 CE,http://www.vofoundation.org/,,,Tucson,,,United States,US,,,,,,,
+Q2 (United States),grid.479581.6,Company,2005 CE,https://www.q2ebanking.com/,,,Austin,,,United States,US,,,,,,,
+Romanian Institute of Science and Technology,grid.479583.4,Nonprofit,2009 CE,http://rist.ro/en.html,,"RIST,",Cluj-Napoca,,,Romania,RO,,MACROREGIUNEA UNU,RO1,Nord-Vest,RO11,Cluj,RO113
+Vaxxas (Australia),grid.479585.2,Company,2011 CE,http://www.vaxxas.com/,,,Brisbane,,,Australia,AU,,,,,,,
+TÜV SÜD (Singapore),grid.479586.1,Company,1866 CE,http://www.tuv-sud-psb.sg/,https://en.wikipedia.org/wiki/Technischer_%C3%9Cberwachun...,,Singapore,,,Singapore,SG,,,,,,,
+Big Picture Learning,grid.479587.0,Other,1995 CE,http://www.bigpicture.org/,,"BPL,",Providence,,,United States,US,,,,,,,
+Universitas Widya Kartika,grid.444775.1,Education,1986 CE,https://www.widyakartika.ac.id/site/index.php,,"UWIKA,",Surabaya,,,Indonesia,ID,,,,,,,
+Keiwa College,grid.444776.2,Education,1967 CE,https://www.keiwa-c.ac.jp/,https://en.wikipedia.org/wiki/Keiwa_College,,Shibata,,,Japan,JP,,,,,,,
+Teaching University European Academy,grid.444777.3,Education,,,,,Zugdidi,,,Georgia,GE,,,,,,,
+Tay Bac University,grid.444887.3,Education,,http://utb.edu.vn,,,Sơn La,,,Vietnam,VN,,,,,,,
+GIFT University,grid.444778.c,Education,2002 CE,http://www.gift.edu.pk,https://en.wikipedia.org/wiki/GIFT_University,"Gujranwala Institute of Future Technologies,",Gujranwala,,,Pakistan,PK,,,,,,,
+Nanhua University,grid.445029.e,Education,1996 CE,http://www.nhu.edu.tw/,https://en.wikipedia.org/wiki/Nanhua_University,"Nanhua College of Management,NHU,",Jiayi Shi,,,Taiwan,TW,,,,,,,
+Shahid Sattari University of Aeronautical Engineering,grid.444990.4,Education,1988 CE,http://www.ssau.ac.ir/,https://en.wikipedia.org/wiki/Shahid_Sattari_Aeronautical...,"Air University,Shahid Sattari Aeronautical University,",Tehran,,,Iran,IR,,,,,,,
+Bunka Fashion Graduate University,grid.444781.a,Education,1919 CE,https://bfgu-bunka.ac.jp,,"BFGU,",Tokyo,,,Japan,JP,,,,,,,
+University of East,grid.444782.9,Education,2004 CE,http://uoe.edu.pk/,https://en.wikipedia.org/wiki/University_of_East,"University of Engineering, Arts, Science and Technology,",Hyderabad,,,Pakistan,PK,,,,,,,
+Air University,grid.444783.8,Education,2002 CE,https://www.au.edu.pk/,https://en.wikipedia.org/wiki/Air_University_(Islamabad),"AU,",Islamabad,,,Pakistan,PK,,,,,,,
+Al-Khair University,grid.444785.e,Education,1994 CE,http://alkhair.edu.pk/,,"AJK,",Islamabad,,,Pakistan,PK,,,,,,,
+National Institute of Business,grid.443188.2,Education,1979 CE,http://www.nib.edu.kh/,,"Central Business School,NIB,",Phnom Penh,,,Cambodia,KH,,,,,,,
+Hanoi University of Culture,grid.444788.3,Education,1959 CE,http://www.huc.edu.vn/,,,Hanoi,,,Vietnam,VN,,,,,,,
+National University of Civil Engineering,grid.444789.2,Education,1966 CE,http://nuce.edu.vn/,https://en.wikipedia.org/wiki/National_University_of_Civi...,"Ha Noi University of Civil Engineering,NUCE,",Hanoi,,,Vietnam,VN,,,,,,,
+Biwako Seikei Sport College,grid.444790.a,Education,2003 CE,https://biwako-seikei.jp/,https://en.wikipedia.org/wiki/Biwako_Seikei_Sport_College,,Ōtsu,,,Japan,JP,,,,,,,
+Baranovichi State University,grid.444991.5,Education,2004 CE,https://www.barsu.by,,"BarSU,",Baranovichi,,,Belarus,BY,,,,,,,
+Institute of Space Technology,grid.444792.8,Education,2002 CE,http://ist.edu.pk/,https://en.wikipedia.org/wiki/Institute_of_Space_Technology,"IST,",Islamabad,,,Pakistan,PK,,,,,,,
+Universitas Bojonegoro,grid.443186.c,Education,1981 CE,https://www.unigoro.ac.id,,"UNIGORO,",Bojonegoro,,,Indonesia,ID,,,,,,,
+Kibbutzim College,grid.443183.9,Education,1939 CE,https://www.smkb.ac.il/,https://en.wikipedia.org/wiki/Kibbutzim_College,,Tel Aviv,,,Israel,IL,,,,,,,
+West Visayas State University,grid.443089.2,Education,1924 CE,https://wvsu.edu.ph/,https://en.wikipedia.org/wiki/West_Visayas_State_University,"West Visayas State College,WVSU,",Iloilo,,,Philippines,PH,,,,,,,
+Wyższa Szkoła Ekonomii i Administracji w Bytomiu,grid.445030.6,Education,1996 CE,http://www.wsea.edu.pl/,,"WSEiA in Bytom,wsea,",Bytom,,,Poland,PL,,REGION POŁUDNIOWY,PL2,Śląskie,PL22,Bytomski,PL228
+National University of Modern Languages,grid.444798.2,Education,1969 CE,https://www.numl.edu.pk/,https://en.wikipedia.org/wiki/National_University_of_Mode...,"NUML,",Islamabad,,,Pakistan,PK,,,,,,,
+State Conservatory of Uzbekistan,grid.444799.3,Education,1936 CE,https://konservatoriya.uz/,,,Tashkent,,,Uzbekistan,UZ,,,,,,,
+WuFeng University,grid.445031.7,Education,1965 CE,http://www.wfu.edu.tw/,https://en.wikipedia.org/wiki/WuFeng_University,"WuFeng Institute of Technology,WFU,WFIT,",Minxiong,,,Taiwan,TW,,,,,,,
+St. Paul University Manila,grid.443180.a,Education,1912 CE,http://spumanila.edu.ph/,https://en.wikipedia.org/wiki/St._Paul_University_Manila,"SPUM,SPU Manila,",Manila,,,Philippines,PH,,,,,,,
+Yemenia University,grid.444921.e,Education,2008 CE,http://www.yuniv.net/ar/index.aspx,,"YU,",Sanaa,,,Yemen,YE,,,,,,,
+Thebes Academy,grid.442715.1,Education,1995 CE,http://www.thebes.edu.eg/,,,Cairo,,,Egypt,EG,,,,,,,
+Arqball (United States),grid.444639.8,Company,2010 CE,http://arqball.com/,,,Charlottesville,,,United States,US,,,,,,,
+Lahore College for Women University,grid.444924.b,Education,1922 CE,http://www.lcwu.edu.pk/,https://en.wikipedia.org/wiki/Lahore_College_for_Women_Un...,"LCWU,",Lahore,,,Pakistan,PK,,,,,,,
+MindSet Rx (United States),grid.444638.9,Company,2008 CE,https://www.mindsetrxd.com/,,,Arlington,,,United States,US,,,,,,,
+Universitas Kristen Immanuel,grid.444637.6,Education,1982 CE,https://www.ukrimuniversity.ac.id,,"UKRIM,",Yogyakarta,,,Indonesia,ID,,,,,,,
+Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha,grid.444618.b,Education,1987 CE,http://www.slbsrsv.ac.in/Vidyapeetha.asp,https://en.wikipedia.org/wiki/Shri_Lal_Bahadur_Shastri_Ra...,"SLBSRSV,",New Delhi,,,India,IN,,,,,,,
+University of Computer Studies Mandalay,grid.444616.5,Education,1997 CE,https://www.ucsm.edu.mm,https://en.wikipedia.org/wiki/University_of_Computer_Stud...,"ကွန်ပျူတာလေ့လာရေးတက္ကသိုလ် မန္တလေး,UCSM,",Mandalay,,,Myanmar,MM,,,,,,,
+Universitas Kristen Indonesia Paulus,grid.444603.1,Education,1963 CE,https://ukipaulus.ac.id/,,"UKI-Paulus Makassar,UKIP,",Makassar,,,Indonesia,ID,,,,,,,
+Zimbabwe Open University,grid.442714.0,Education,1999 CE,http://www.zou.ac.zw/,https://en.wikipedia.org/wiki/Zimbabwe_Open_University,"ZOU,",Harare,,,Zimbabwe,ZW,,,,,,,
+Institut Supérieur Pédagogique de Gitwe,grid.442713.7,Education,,http://www.ispg.ac.rw/,,"ISPG,",Nyanza,,,Rwanda,RW,,,,,,,
+Hanoi Architectural University,grid.444952.a,Education,1969 CE,http://hau.edu.vn/?lang=vn,https://en.wikipedia.org/wiki/Hanoi_Architectural_University,"Hanoi University of Architecture,",Hanoi,,,Vietnam,VN,,,,,,,
+Jizzakh Polytechnic Institute,grid.444601.3,Education,1977 CE,https://www.jizpi.uz/,,,Jizzax,,,Uzbekistan,UZ,,,,,,,
+Academy of Film & Multimedia “MARUBI”,grid.444963.8,Education,2004 CE,https://afmm.edu.al/,https://en.wikipedia.org/wiki/Marubi_film_school,"AFMM,",Tirana,,,Albania,AL,,,,,,,
+Institut Teknologi Minaesa,grid.444586.f,Education,1987 CE,http://www.itmtomohon.com/,,"ITM,",Tomohon,,,Indonesia,ID,,,,,,,
+Hanoi Law University,grid.444965.e,Education,1979 CE,http://hlu.edu.vn,,"Hanoi Legal Studies University,",Hanoi,,,Vietnam,VN,,,,,,,
+Abasyn University,grid.444982.7,Education,2007 CE,http://abasyn.edu.pk/,https://en.wikipedia.org/wiki/Abasyn_University,"Abasyn Institute of Management Sciences,Abasyn,",Peshawar,,,Pakistan,PK,,,,,,,
+Women's University in Africa,grid.442712.6,Education,2002 CE,http://www.wua.ac.zw/,https://en.wikipedia.org/wiki/Women's_University_in_Africa,"WUA,",Harare,,,Zimbabwe,ZW,,,,,,,
+Vladikavkaz Institute of Management,grid.444984.1,Education,1996 CE,http://www.viu-online.ru/,,,Vladikavkaz,,,Russia,RU,,,,,,,
+City University of Science and Information Technology,grid.444986.3,Education,2001 CE,http://www.cityuniversity.edu.pk,https://en.wikipedia.org/wiki/City_University_of_Science_...,"CUSIT,",Peshawar,,,Pakistan,PK,,,,,,,
+Idex (Norway),grid.458007.e,Company,1996 CE,http://www.idex.no/,https://en.wikipedia.org/wiki/Idex_ASA,,Oslo,,,Norway,NO,,,,,,,
+Ottawa University,grid.445000.5,Education,1865 CE,http://www.ottawa.edu/,http://en.wikipedia.org/wiki/Ottawa_University,"Roger Williams University,OU,",Ottawa,,,United States,US,,,,,,,
+Sparta Systems (United States),grid.445001.4,Company,1994 CE,http://www.spartasystems.com/,,,Hamilton Square,,,United States,US,,,,,,,
+Otgontenger University,grid.444583.a,Education,1991 CE,https://www.otgontenger.edu.mn/,,,Ulan Bator,,,Mongolia,MN,,,,,,,
+City University of Macau,grid.445020.7,Education,1981 CE,https://www.cityu.edu.mo,https://en.wikipedia.org/wiki/City_University_of_Macau,"University of East Asia,Asia International Open University,CityU,",Macau,,,China,CN,,,,,,,
+Fjord Marin (Norway),grid.457822.e,Company,2000 CE,http://www.fjord-marin.no/,,,Brønnøysund,,,Norway,NO,,,,,,,
+Falck Nutec (Norway),grid.457823.f,Company,1976 CE,http://www.falcknutec.no/en/,,,Bergen,,,Norway,NO,,,,,,,
+ENOVA (Norway),grid.457824.8,Company,2001 CE,http://www.enova.no/,https://en.wikipedia.org/wiki/Enova_SF,,Trondheim,,,Norway,NO,,,,,,,
+Fanbooster (Norway),grid.457825.9,Company,2010 CE,http://fanbooster.com/,,,Kongsberg,,,Norway,NO,,,,,,,
+Equator Aircraft Norway,grid.457854.f,Other,2011 CE,http://www.equatoraircraft.com/,,"EAN,",Oslo,,,Norway,NO,,,,,,,
+Fupe Systems (Norway),grid.457855.e,Company,2009 CE,http://www.fupe.com/,,,Falkhytta,,,Norway,NO,,,,,,,
+Furore film (Norway),grid.457856.d,Company,2008 CE,http://www.furorefilm.no/,,,Oslo,,,Norway,NO,,,,,,,
+Eramet (Norway),grid.457857.c,Company,1913 CE,http://eramet.no/en/,https://en.wikipedia.org/wiki/Eramet,,Porsgrunn,,,Norway,NO,,,,,,,
+Directorate for Mathematical & Physical Sciences,grid.457875.c,Government,,http://www.nsf.gov/dir/index.jsp?org=MPS,,"NSF MPS,",Arlington,,,United States,US,,,,,,,
+Fornebu Consulting (Norway),grid.457876.f,Company,1998 CE,http://www.fornebuconsulting.com/,,,Lysaker,,,Norway,NO,,,,,,,
+Ferrx (Norway),grid.457877.e,Company,2005 CE,http://www.ferrx.no/,,,Trondheim,,,Norway,NO,,,,,,,
+Division of Astronomical Sciences,grid.457878.1,Government,,http://www.nsf.gov/div/index.jsp?div=ast,,"NSF AST,",Arlington,,,United States,US,,,,,,,
+Genderguide (Norway),grid.457879.0,Company,2005 CE,http://www.genderguide.no/visartikkel.asp?id=899,,,Stavanger,,,Norway,NO,,,,,,,
+Division of Physics,grid.457893.4,Government,,http://www.nsf.gov/div/index.jsp?div=phy,,"NSF PHY,",Arlington,,,United States,US,,,,,,,
+Finance Norway,grid.457894.3,Other,2010 CE,https://www.fno.no/en/,https://en.wikipedia.org/wiki/Finance_Norway,"Finans Norge,",Oslo,,,Norway,NO,,,,,,,
+Eurofins (Norway),grid.457895.2,Company,1987 CE,http://www.eurofins.no/,https://en.wikipedia.org/wiki/Eurofins_Scientific,,Moss,,,Norway,NO,,,,,,,
+National Science Board,grid.457896.1,Government,,http://www.nsf.gov/nsb/,,"NSF NSB,",Arlington,,,United States,US,,,,,,,
+FiReCo (Norway),grid.457917.9,Company,1991 CE,http://www.fireco.no/,,,Fredrikstad,,,Norway,NO,,,,,,,
+National Center for Science and Engineering Statistics,grid.457921.c,Government,,http://www.nsf.gov/statistics/,,"NSF NCSE,",Arlington,,,United States,US,,,,,,,
+Glamox (Norway),grid.457923.e,Company,1947 CE,http://glamox.com/,,,Oslo,,,Norway,NO,,,,,,,
+Fraktefartøyenes Rederiforening (Norway),grid.457940.b,Company,,http://www.fraktefartoyene.no/,,,Bergen,,,Norway,NO,,,,,,,
+Alfa Laval (Norway),grid.457942.9,Company,1883 CE,https://www.alfalaval.no/,https://en.wikipedia.org/wiki/Alfa_Laval,,Billingstad,,,Norway,NO,,,,,,,
+Graminor (Norway),grid.457943.8,Company,2002 CE,http://graminor.no/en,,,Hamar,,,Norway,NO,,,,,,,
+Gran Tre (Norway),grid.457944.f,Company,1973 CE,http://www.grantre.no/,,,Jaren,,,Norway,NO,,,,,,,
+Grieg Group (Norway),grid.457971.9,Company,2007 CE,https://grieg.no/,https://en.wikipedia.org/wiki/Grieg_Group,,Bergen,,,Norway,NO,,,,,,,
+Kirkland and District Hospital,grid.460688.4,Healthcare,1976 CE,http://www.kdhospital.com/,https://en.wikipedia.org/wiki/Kirkland_and_District_Hospital,,Kirkland Lake,,,Canada,CA,,,,,,,
+South African National AIDS Council,grid.463620.5,Government,,http://sanac.org.za/,,"SANAC,",Pretoria,,,South Africa,ZA,,,,,,,
+Zakład Automatyki Przemysłowej (Poland),grid.460683.f,Company,1985 CE,http://www.zapbp.com.pl/home_en.html,,"ZAP B.P.,",Kutno,,,Poland,PL,,REGION CENTRALNY,PL1,Łódzkie,PL11,Skierniewicki,PL117
+Andre Abrasive Articles (Poland),grid.460682.e,Company,1987 CE,http://www.andreabrasive.com/,,,Piła,,,Poland,PL,,REGION PÓŁNOCNO-ZACHODNI,PL4,Wielkopolskie,PL41,Pilski,PL411
+Staatliches Naturhistorisches Museum,grid.462857.a,Archive,1754 CE,http://www.3landesmuseen.de/,https://en.wikipedia.org/wiki/State_Natural_History_Museu...,"State Natural History Museum,SNHM,",Braunschweig,,,Germany,DE,,NIEDERSACHSEN,DE9,Braunschweig,DE91,"Braunschweig, Kreisfreie Stadt",DE911
+Zakład Wodociągów i Kanalizacji (Poland),grid.460681.d,Company,1925 CE,http://www.zwik.lodz.pl/,,,Łódź,,,Poland,PL,,REGION CENTRALNY,PL1,Łódzkie,PL11,Łódzki,PL114
+Humboldt District Hospital,grid.460680.c,Healthcare,1911 CE,https://www.saskatoonhealthregion.ca/locations_services/l...,https://en.wikipedia.org/wiki/Humboldt_District_Hospital,"St. Elizabeth's Hospital,HDHC,",Humboldt,,,Canada,CA,,,,,,,
+International Hospital of Bahrain,grid.460675.6,Healthcare,1978 CE,http://www.ihb.net/,https://en.wikipedia.org/wiki/International_Hospital_of_B...,"IHB,",Manama,,,Bahrain,BH,,,,,,,
+Hillsborough Hospital,grid.460674.7,Healthcare,1879 CE,http://www.gov.pe.ca/peihealthsystems/index.php3?number=1...,https://en.wikipedia.org/wiki/Hillsborough_Hospital,,Charlottetown,,,Canada,CA,,,,,,,
+Lester (Poland),grid.460673.0,Company,1996 CE,http://www.lester-kwidzyn.eu/,,,Kwidzyn,,,Poland,PL,,REGION PÓŁNOCNY,PL6,Pomorskie,PL63,Starogardzki,PL638
+Swets (Netherlands),grid.462876.9,Company,1901 CE,http://www.swetsinformationservices.com,https://en.wikipedia.org/wiki/Swets,"Koninklijke Swets & Zeitlinger Holding NV,Royal Swets & Zeitlinger Holding NV,",Leiden,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Zuid-Holland,NL33,Agglomeratie Leiden en Bollenstreek,NL337
+New Century International Hospital for Children,grid.460672.1,Healthcare,2005 CE,http://www.ncich.com.cn/,https://en.wikipedia.org/wiki/Beijing_New_Century_Interna...,"NCICH,",Beijing,,,China,CN,,,,,,,
+Thomas Embling Hospital,grid.460663.1,Healthcare,2000 CE,http://www.forensicare.vic.gov.au/page.aspx?o=teh,https://en.wikipedia.org/wiki/Thomas_Embling_Hospital,,Fairfield,,,Australia,AU,,,,,,,
+Hospital Tobar García,grid.460662.0,Healthcare,1968 CE,,https://en.wikipedia.org/wiki/Hospital_Tobar_Garc%C3%ADa,"Hospital Infanto Juvenil Dra. Carolina Tobar Garcia,",Buenos Aires,,,Argentina,AR,,,,,,,
+AREX (Poland),grid.460661.3,Company,1989 CE,"http://www.arex.pl/index,s20.html",,,Gdynia,,,Poland,PL,,REGION PÓŁNOCNY,PL6,Pomorskie,PL63,Trójmiejski,PL633
+Hospital Carlos Van Buren,grid.460660.2,Healthcare,1772 CE,http://www.hospitalcarlosvanburen.cl/,https://en.wikipedia.org/wiki/Hospital_Carlos_Van_Buren,,Valparaíso,,,Chile,CL,,,,,,,
+Wyższa Szkoła Technologii Informatycznych w Warszawie,grid.460655.4,Education,2004 CE,http://vizja.net/,,"WSTI,",Warsaw,,,Poland,PL,,REGION CENTRALNY,PL1,Mazowieckie,PL12,Miasto Warszawa,PL127
+Vernon Jubilee Hospital,grid.460654.5,Healthcare,1897 CE,https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info...,https://en.wikipedia.org/wiki/Vernon_Jubilee_Hospital,"VJH,",Vernon,,,Canada,CA,,,,,,,
+Etobicoke General Hospital,grid.460653.2,Healthcare,1972 CE,http://www.williamoslerhs.ca/about-osler/osler's-faciliti...,https://en.wikipedia.org/wiki/Etobicoke_General_Hospital,"EGH,",Toronto,,,Canada,CA,,,,,,,
+University of Computer Engineering and Telecommunications,grid.460652.3,Education,2002 CE,http://wstkt.pl/en/,,"Wyższa Szkoła Technik Komputerowych i Telekomunikacji w Kielcach,WSTKT,",Kielce,,,Poland,PL,,REGION WSCHODNI,PL3,Świętokrzyskie,PL33,Kielecki,PL331
+Radiotechnika Marketing (Poland),grid.460643.3,Company,1947 CE,http://radiotechnika.com.pl/en/,,,Wrocław,,,Poland,PL,,REGION POŁUDNIOWO-ZACHODNI,PL5,Dolnośląskie,PL51,Miasto Wrocław,PL514
+Endocontrol (France),grid.462903.a,Company,2006 CE,http://www.endocontrol-medical.com/en/welcome/,,,La Tronche,,,France,FR,,CENTRE-EST,FR7,Rhône-Alpes,FR71,Isère,FR714
+Devon General Hospital,grid.460642.2,Healthcare,1954 CE,http://www.albertahealthservices.ca/info/facility.aspx?id...,https://en.wikipedia.org/wiki/Devon_General_Hospital,,Devon,,,Canada,CA,,,,,,,
+European University of Tirana,grid.460641.1,Education,2006 CE,http://www.uet.edu.al/index.php/en/,https://en.wikipedia.org/wiki/European_University_of_Tirana,"Universiteti Europian i Tiranës,UET,",Tirana,,,Albania,AL,,,,,,,
+Pyhäjärvi Institute,grid.460640.0,Facility,1989 CE,http://www.pyhajarvi-instituutti.fi/english/,,,Säkylä,,,Finland,FI,,MANNER-SUOMI,FI1,Etelä-Suomi,FI1C,Varsinais-Suomi,FI1C1
+Nutrition Sciences (Belgium),grid.426020.2,Company,,http://www.nutrition-sciences.com/,,,Gent,,,Belgium,BE,,VLAAMS GEWEST,BE2,Prov. Oost-Vlaanderen,BE23,Arr. Gent,BE234
+NeuroDevNet,grid.429756.b,Facility,,http://www.neurodevnet.ca/,,,Vancouver,,,Canada,CA,,,,,,,
+Living Springs Community Church,grid.429667.8,Archive,2002 CE,http://www.livingspringscc.org/information,,,Glenwood,,,United States,US,,,,,,,
+Mission Children's Hospital,grid.429668.7,Healthcare,1994 CE,https://missionhealth.org/member-hospitals/childrens/,,,Asheville,,,United States,US,,,,,,,
+North Carolina Society of Hispanic Professionals,grid.429669.6,Education,1999 CE,http://thencshp.org/,,"NCSHP,NC Society of Hispanic Professionals,",Cary,,,United States,US,,,,,,,
+LivingWell Cancer Resource Center,grid.429670.e,Healthcare,2005 CE,https://livingwellcrc.org/,,,Geneva,,,United States,US,,,,,,,
+Mission Health,grid.429672.c,Healthcare,1885 CE,https://missionhealth.org/,https://en.wikipedia.org/wiki/Mission_Health_System,,Asheville,,,United States,US,,,,,,,
+North Carolina Virtual Public School,grid.429673.d,Education,2005 CE,https://ncvps.org/,https://en.wikipedia.org/wiki/North_Carolina_Virtual_Publ...,"NCVPS,",Raleigh,,,United States,US,,,,,,,
+NC Little Memorial Hospice,grid.429674.a,Nonprofit,1996 CE,https://www.littlehospice.org/,,,Edina,,,United States,US,,,,,,,
+North Carolina Zoo Society,grid.429675.b,Archive,1976 CE,https://www.nczoo.org/,,,Asheboro,,,United States,US,,,,,,,
+New York State Office of Children and Family Services,grid.429676.8,Government,1998 CE,http://ocfs.ny.gov/main/,https://en.wikipedia.org/wiki/New_York_State_Office_of_Ch...,"OCFS,",Rensselaer,,,United States,US,,,,,,,
+NeuroVigil (United States),grid.429817.1,Company,2007 CE,https://neurovigil.com/,,,La Jolla,,,United States,US,,,,,,,
+North Colorado Medical Center Foundation,grid.429678.6,Healthcare,1975 CE,https://ncmcfoundation.org/,,"NCMC,",Greeley,,,United States,US,,,,,,,
+Lori Arquilla Andersen Foundation,grid.429702.a,Nonprofit,,http://www.laafinc.org/,,"LAAF,",Des Plaines,,,United States,US,,,,,,,
+North Country Home Health & Hospice Agency,grid.429679.7,Healthcare,1971 CE,https://northcountryhomehealth-hospice.org/,,"NCHHHA,",Littleton,,,United States,US,,,,,,,
+North Country Hospital,grid.429680.1,Healthcare,1919 CE,https://www.northcountryhospital.org/,https://en.wikipedia.org/wiki/North_Country_Hospital,"Orleans County Memorial Hospital,",Newport,,,United States,US,,,,,,,
+Lomi School Foundation and Psychotherapy Clinic,grid.429682.3,Education,,,,,Santa Rosa,,,United States,US,,,,,,,
+Lone Star Paralysis Foundation,grid.429683.2,Nonprofit,1979 CE,https://www.lonestarparalysis.org/,,"LSPF,",Austin,,,United States,US,,,,,,,
+North Fork Breast Health Coalition,grid.429685.4,Healthcare,1998 CE,https://www.northforkbreasthealth.org/,,"NFBHC,",Riverhead,,,United States,US,,,,,,,
+National Children's Cancer Society,grid.429687.6,Nonprofit,1987 CE,https://www.thenccs.org/,https://en.wikipedia.org/wiki/National_Children's_Cancer_...,"NCCS,",St. Louis,,,United States,US,,,,,,,
+Subsea Technologies (United Kingdom),grid.426009.9,Company,2010 CE,http://www.subseatek.com/,,"STL,",Aberdeen,,,United Kingdom,GB,,SCOTLAND,UKM,North Eastern Scotland,UKM5,Aberdeen City and Aberdeenshire,UKM50
+Long Island Association,grid.429688.9,Nonprofit,1926 CE,http://www.longislandassociation.org/,https://en.wikipedia.org/wiki/Long_Island_Association,"LIA,",Melville,,,United States,US,,,,,,,
+Long Island Community Foundation,grid.429690.0,Nonprofit,1978 CE,http://www.licf.org/,,"LICF,",Melville,,,United States,US,,,,,,,
+Long Island Junior Soccer League,grid.429691.1,Nonprofit,1966 CE,https://lijsoccer.com/,,"LIJSL,",Ronkonkoma,,,United States,US,,,,,,,
+National Consensus Project for Quality Palliative Care,grid.429692.2,,,,,,Pittsburgh,,,United States,US,,,,,,,
+Housing Studies Association,grid.500252.0,Other,1991 CE,https://housing-studies-association.org/,,,Sheffield,,,United Kingdom,GB,,YORKSHIRE AND THE HUMBER,UKE,South Yorkshire,UKE3,"Barnsley, Doncaster and Rotherham",UKE31
+Howard Cottage Housing Association,grid.500253.1,Nonprofit,1911 CE,https://www.howard-cottage.co.uk/,,"HC,",Letchworth Garden City,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,Bedfordshire and Hertfordshire,UKH2,Hertfordshire,UKH23
+Federal Ministry of Justice and Consumer Protection,grid.500254.6,Government,1877 CE,https://www.bmjv.de/EN/Home/home_node.html,https://en.wikipedia.org/wiki/Federal_Ministry_of_Justice...,"Reichsjustizamt,BMJV,",Berlin,,,Germany,DE,,BERLIN,DE3,Berlin,DE30,Berlin,DE300
+Jilian Technology Group (China),grid.511254.6,Company,2012 CE,https://videojj.com/,,,Shanghai,,,China,CN,,,,,,,
+Hospital Raja Perempuan Zainab II,grid.500264.5,Healthcare,1920 CE,http://hrpz2.moh.gov.my/v3/,,,Kota Bharu,,,Malaysia,MY,,,,,,,
+i2r Medical (United Kingdom),grid.500265.4,Company,2009 CE,http://i2rmedical.com/,,,Bournemouth,,,United Kingdom,GB,,SOUTH WEST (ENGLAND),UKK,Dorset and Somerset,UKK2,Bournemouth and Poole,UKK21
+The IARS International Institute,grid.500267.6,Nonprofit,2001 CE,https://www.iars.org.uk/,,,London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+International Brecht Society,grid.500362.2,Other,1970 CE,http://www.brechtsociety.org/,,"IBS,",Madison,,,United States,US,,,,,,,
+Hospital Regional de Talca,grid.500272.2,Healthcare,1803 CE,https://www.hospitaldetalca.cl,,"Hospital Dr. César Garavagno Burotto,HRT,",Talca,,,Chile,CL,,,,,,,
+PLA Academy of Military Science,grid.500274.4,Facility,1958 CE,https://militaryschooldirectory.com/china-pla-academy-of-...,https://en.wikipedia.org/wiki/PLA_Academy_of_Military_Sci...,"AMS,",Beijing,,,China,CN,,,,,,,
+Unlimited Group (United Kingdom),grid.500275.5,Company,1925 CE,https://www.unlimitedgroup.com/,https://en.wikipedia.org/wiki/Creston_plc,"Creston,",London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+Honghu People’s Hospital,grid.511424.7,Healthcare,1951 CE,http://www.hhrmyy.com/,,,Jingzhou,,,China,CN,,,,,,,
+Igennus Healthcare Nutrition (United Kingdom),grid.500280.f,Company,2004 CE,https://igennus.com/,,,Cambridge,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,East Anglia,UKH1,Cambridgeshire CC,UKH12
+The Hepatitis C Trust,grid.500283.c,Other,2001 CE,http://www.hepctrust.org.uk/,https://en.wikipedia.org/wiki/The_Hepatitis_C_Trust,,London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+iHealth,grid.500284.b,Healthcare,,http://www.ihealthltd.com/,,,Weybridge,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,"Surrey, East and West Sussex",UKJ2,West Surrey,UKJ25
+Hereford Health and Safety Group,grid.500289.6,Nonprofit,1968 CE,http://herefordhsg.co.uk/,,"Herefordshire Health and Safety Group,",Hereford,,,United Kingdom,GB,,WEST MIDLANDS (ENGLAND),UKG,"Herefordshire, Worcestershire and Warwickshire",UKG1,"Herefordshire, County of",UKG11
+Insect Research Systems (United Kingdom),grid.500290.e,Company,2013 CE,http://www.insectresearchsystems.com,,,Warwick,,,United Kingdom,GB,,WEST MIDLANDS (ENGLAND),UKG,"Herefordshire, Worcestershire and Warwickshire",UKG1,Warwickshire,UKG13
+In Flanders Fields Museum,grid.500291.f,Archive,1998 CE,http://www.inflandersfields.be/en,https://en.wikipedia.org/wiki/In_Flanders_Fields_Museum,"Ypres Salient Memorial Museum,",Ieper,,,Belgium,BE,,VLAAMS GEWEST,BE2,Prov. West-Vlaanderen,BE25,Arr. Ieper,BE253
+Institute for Justice & Democracy in Haiti,grid.500297.9,Nonprofit,2004 CE,http://www.ijdh.org,https://en.wikipedia.org/wiki/Institute_for_Justice_%26_D...,"IJDH,",Boston,,,United States,US,,,,,,,
+Stichting Hester,grid.500298.6,Other,1998 CE,http://www.hester.nu/,,,The Hague,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Zuid-Holland,NL33,Agglomeratie 's-Gravenhage,NL332
+Hft,grid.500299.7,Other,1960 CE,https://www.hft.org.uk/,,"HF Trust Ltd,Home Farm Trust,",Bristol,,,United Kingdom,GB,,SOUTH WEST (ENGLAND),UKK,"Gloucestershire, Wiltshire and Bristol/Bath area",UKK1,"Bath and North East Somerset, North Somerset and South Gloucestershire",UKK12
+High Force Research (United Kingdom),grid.500300.6,Company,1988 CE,https://www.highforceresearch.com/,,"HFR,",Durham,,,United Kingdom,GB,,NORTH EAST (ENGLAND),UKC,Tees Valley and Durham,UKC1,Durham CC,UKC14
+FernUni Schweiz,grid.508727.f,Education,1992 CE,https://fernuni.ch/,,,Brig,,,Switzerland,CH,,,,,,,
+Institute of Practitioners in Advertising,grid.500305.3,Other,1917 CE,https://ipa.co.uk/,https://en.wikipedia.org/wiki/Institute_of_Practitioners_...,"IPA,",London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+Higher Education Statistics Agency,grid.500306.0,Other,1993 CE,https://www.hesa.ac.uk/,https://en.wikipedia.org/wiki/Higher_Education_Statistics...,"HESA,",Cheltenham,,,United Kingdom,GB,,SOUTH WEST (ENGLAND),UKK,"Gloucestershire, Wiltshire and Bristol/Bath area",UKK1,Gloucestershire,UKK13
+Manchester Grammar School,grid.454326.2,Education,1515 CE,http://mgs.org/,https://en.wikipedia.org/wiki/Manchester_Grammar_School,"MGS,",Manchester,,,United Kingdom,GB,,NORTH WEST (ENGLAND),UKD,Greater Manchester,UKD3,Manchester,UKD33
+Namal College,grid.454328.c,Education,2008 CE,https://www.namal.edu.pk/,https://en.wikipedia.org/wiki/Namal_College,,Mianwali,,,Pakistan,PK,,,,,,,
+Centro Universitario de Tecnología y Arte Digital,grid.454334.1,Education,2011 CE,https://www.u-tad.com/en/,,"U-TAD,",Las Rozas de Madrid,,,Spain,ES,,COMUNIDAD DE MADRID,ES3,Comunidad de Madrid,ES30,Madrid,ES300
+Vancouver Community College,grid.454335.0,Education,1965 CE,http://www.vcc.ca/,https://en.wikipedia.org/wiki/Vancouver_Community_College,"VCC,",Vancouver,,,Canada,CA,,,,,,,
+VUC Aarhus,grid.454336.3,Education,2007 CE,http://www.vucaarhus.dk/,https://en.wikipedia.org/wiki/VUC_Aarhus,"Voksen Uddannelses Center Aarhus,",Århus,,,Denmark,DK,,DANMARK,DK0,Midtjylland,DK04,Østjylland,DK042
+Instituto Federal Catarinense,grid.454337.2,Facility,1954 CE,http://ifc.edu.br/,,"Instituto Federal de Educação, Ciência e Tecnologia Catarinense,",Blumenau,,,Brazil,BR,,,,,,,
+Instituto Tecnológico de Soledad Atlántico,grid.454353.0,Education,1997 CE,http://www.itsa.edu.co/,,"ITSA,",Soledad,,,Colombia,CO,,,,,,,
+ITESCIA,grid.454354.7,Education,2013 CE,http://www.itescia.fr/,,,Cergy,,,France,FR,,ÎLE DE FRANCE,FR1,Île de France,FR10,Val-d'Oise,FR108
+KDU University College,grid.454356.5,Education,1983 CE,http://www.kdu.edu.my/,https://en.wikipedia.org/wiki/KDU_University_College,"Kolej Damansara Utama,KDU,",George Town,,,Malaysia,MY,,,,,,,
+Jesuïtes Educació,grid.454358.b,Education,,http://www.fje.edu/ca/la-fundacio-jesuites-educacio,,,Barcelona,,,Spain,ES,,ESTE,ES5,Cataluña,ES51,Barcelona,ES511
+Maine School of Science and Mathematics,grid.454360.0,Education,1995 CE,http://www.mssm.org/,https://en.wikipedia.org/wiki/Maine_School_of_Science_and...,"MSSM,",Limestone,,,United States,US,,,,,,,
+NIHR Leeds Musculoskeletal Biomedical Research Unit,grid.454370.1,Government,2008 CE,http://lmbru.leeds.ac.uk/,,,Leeds,,,United Kingdom,GB,,YORKSHIRE AND THE HUMBER,UKE,West Yorkshire,UKE4,Leeds,UKE42
+NIHR Leicester Cardiovascular Biomedical Research Unit,grid.454371.0,Government,2009 CE,http://www2.le.ac.uk/research/current-research/bru,,,Leicester,,,United Kingdom,GB,,EAST MIDLANDS (ENGLAND),UKF,"Leicestershire, Rutland and Northamptonshire",UKF2,Leicestershire CC and Rutland,UKF22
+"NIHR Leicester-Loughborough Diet, Lifestyle and Physical Activity Biomedical Research Unit",grid.454372.3,Government,2006 CE,http://www.ll.dlpa.bru.nihr.ac.uk/,,,Leicester,,,United Kingdom,GB,,EAST MIDLANDS (ENGLAND),UKF,"Leicestershire, Rutland and Northamptonshire",UKF2,Leicestershire CC and Rutland,UKF22
+NIHR Maudsley Dementia Biomedical Research Unit,grid.454378.9,Government,2007 CE,http://brc.slam.nhs.uk/,,,London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+NIHR Newcastle Biomedical Research Centre,grid.454379.8,Facility,,http://www.ageingresearch.org/bru/,,"NIHR Newcastle BRC,",Newcastle upon Tyne,,,United Kingdom,GB,,NORTH EAST (ENGLAND),UKC,Northumberland and Tyne and Wear,UKC2,Tyneside,UKC22
+NIHR Nottingham Digestive Diseases Biomedical Research Unit,grid.454381.f,Government,2012 CE,http://www.nddcbru.org.uk/,,,Nottingham,,,United Kingdom,GB,,EAST MIDLANDS (ENGLAND),UKF,Derbyshire and Nottinghamshire,UKF1,South Nottinghamshire,UKF16
+Assistive Technology Resource Centers of Hawaii,grid.454400.1,Nonprofit,1991 CE,http://www.atrc.org/,,"ATRC,",Honolulu,,,United States,US,,,,,,,
+Metalite Industries (United States),grid.454402.3,Company,1805 CE,http://metaliteind.com/,,,Spokane,,,United States,US,,,,,,,
+Hillside Rehabilitation Hospital,grid.454405.4,Healthcare,1928 CE,http://www.valleycareofohio.net/locations/hillside-rehabi...,,,Warren,,,United States,US,,,,,,,
+Community Services for Autistic Adults and Children,grid.454421.2,Nonprofit,1979 CE,http://csaac.org/,,"CSAAC,",Montgomery Village,,,United States,US,,,,,,,
+American Printing House for the Blind,grid.454422.1,Nonprofit,1930 CE,http://www.aph.org/,https://en.wikipedia.org/wiki/American_Printing_House_for...,"APH,",Louisville,,,United States,US,,,,,,,
+Dental Rat (United States),grid.454423.0,Company,2003 CE,http://dentalrat.com/,,,Nampa,,,United States,US,,,,,,,
+Computer Multimedia Productions Corporation (United States),grid.454424.7,Company,2007 CE,http://www.cmpc.com/home.html,,"CMPC,",Clearwater,,,United States,US,,,,,,,
+ENDependence Center of Northern Virginia,grid.454425.6,Nonprofit,1982 CE,http://www.ecnv.org/,,"ECNV,",Arlington,,,United States,US,,,,,,,
+Clinique Charcot,grid.477173.1,Healthcare,,http://www.clinique-charcot.fr/,,,Sainte-Foy-lès-Lyon,,,France,FR,,CENTRE-EST,FR7,Rhône-Alpes,FR71,Rhône,FR716
+Dermatology Institute of Victoria,grid.477179.b,Facility,2001 CE,http://www.div.net.au/,,,Melbourne,,,Australia,AU,,,,,,,
+Cosmedica,grid.477182.f,Other,,http://www.cosmedica.ca/,,,Victoria,,,Canada,CA,,,,,,,
+Prism Eye Institute,grid.477184.9,Facility,2015 CE,http://www.prismeyeinstitute.com/credit-valley-eye-care/,,,Mississauga,,,Canada,CA,,,,,,,
+Gift of Hope Organ and Tissue Donor Network,grid.477192.e,Nonprofit,1986 CE,http://www.giftofhope.org/,,,Itasca,,,United States,US,,,,,,,
+Dermatology Specialists,grid.477193.f,Other,,http://www.dermspec.com/,,,Oceanside,,,United States,US,,,,,,,
+Ziauddin Hospital,grid.477195.9,Healthcare,,http://www.ziauddinhospital.com/,,,Karachi,,,Pakistan,PK,,,,,,,
+"Drs. Quinn, Foster & Associates",grid.477202.4,Other,1983 CE,http://visionsource-athenseyecare.com/,,,Athens,,,United States,US,,,,,,,
+University Foot & Ankle Institute,grid.477205.3,Other,,http://www.footankleinstitute.com/,,"UFAI,",Santa Monica,,,United States,US,,,,,,,
+Good Samaritan Regional Medical Center,grid.477212.5,Healthcare,1913 CE,https://www.samhealth.org/find-a-location/g/good-samarita...,https://en.wikipedia.org/wiki/Good_Samaritan_Regional_Med...,"Good Samaritan Hospital,Corvallis General Hospital,",Corvallis,,,United States,US,,,,,,,
+Diabetes-Akademie,grid.477213.4,Nonprofit,1983 CE,http://www.diabetes-akademie.de/,,,Bad Mergentheim,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Stuttgart,DE11,Main-Tauber-Kreis,DE11B
+Good Samaritan Society,grid.477215.2,Nonprofit,1949 CE,https://gss.org/,https://en.wikipedia.org/wiki/Good_Samaritan_Society,"GSS,",Edmonton,,,Canada,CA,,,,,,,
+Great Lakes Research Group (United States),grid.477216.1,Company,,http://www.glrg.net/web/,,"GLRG,",Bay City,,,United States,US,,,,,,,
+Durrie Vision,grid.477223.7,Healthcare,1991 CE,http://www.durrievision.com/,,,Overland Park,,,United States,US,,,,,,,
+Extendicare (Canada),grid.477225.1,Company,1968 CE,https://www.extendicare.com/,https://en.wikipedia.org/wiki/Extendicare,"Extendicare Real Estate Investment Trust,",Markham,,,Canada,CA,,,,,,,
+Dermatrials Research,grid.477226.2,Facility,2000 CE,http://www.dermatrials.com/,,,Hamilton,,,Canada,CA,,,,,,,
+GSA Research,grid.477232.7,Other,,http://gsaresearch.com/home.html,,,San Antonio,,,United States,US,,,,,,,
+Ear Institute of Chicago,grid.477233.6,Facility,,http://www.chicagoear.com/,,,Hinsdale,,,United States,US,,,,,,,
+Eye Center of Southern Connecticut,grid.477234.1,Healthcare,,https://www.eyecenterct.com/,,,Hamden,,,United States,US,,,,,,,
+Eye Centers Of Florida,grid.477235.0,Healthcare,,http://www.ecof.com/,,,Fort Myers,,,United States,US,,,,,,,
+Ecclesfield GP,grid.477252.1,Healthcare,,http://www.ecclesfieldgp.co.uk/,,,Sheffield,,,United Kingdom,GB,,YORKSHIRE AND THE HUMBER,UKE,South Yorkshire,UKE3,"Barnsley, Doncaster and Rotherham",UKE31
+Diabetes Care & Hormone Clinic,grid.477253.0,Healthcare,1998 CE,http://www.diacare.in/,,,Ahmedabad,,,India,IN,,,,,,,
+Lucas Research,grid.477256.5,Facility,2004 CE,http://lucasresearch.org/,,,Morehead City,,,United States,US,,,,,,,
+Diabetes & Endocrinology Specialists,grid.477258.b,Healthcare,1980 CE,http://thedespecialists.com/,,,Chesterfield,,,United States,US,,,,,,,
+Diabetes & Endocrine Associates,grid.477260.0,Other,2005 CE,https://deomaha.com/,,,Omaha,,,United States,US,,,,,,,
+Experimental Center of Tropical Forestry,grid.509693.0,Facility,,http://rlzx.caf.ac.cn/,,,Pingxiang,,,China,CN,,,,,,,
+Instituto Multidisciplinario de Biología Vegetal,grid.509694.7,Facility,1983 CE,https://imbiv.conicet.unc.edu.ar/,,"IMBIV,",Córdoba,,,Argentina,AR,,,,,,,
+Cramer Fish Sciences (United States),grid.509695.6,Company,1987 CE,https://www.fishsciences.net/,,"CFS,",Portland,,,United States,US,,,,,,,
+Waikato Regional Council,grid.509700.b,Government,1989 CE,https://www.waikatoregion.govt.nz/,,"WRC,",Hamilton,,,New Zealand,NZ,,,,,,,
+GenCat (United Kingdom),grid.509701.a,Company,2003 CE,http://www.gencat.co.uk/,,,St Albans,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,Bedfordshire and Hertfordshire,UKH2,Hertfordshire,UKH23
+Arsenal Biosciences (United States),grid.509702.9,Company,2019 CE,https://www.arsenalbio.com/,,,South San Francisco,,,United States,US,,,,,,,
+Averis Seeds (Netherlands),grid.509703.8,Company,2001 CE,https://www.averis.nl/en/,,,Veendam,,,Netherlands,NL,,NOORD-NEDERLAND,NL1,Groningen,NL11,Oost-Groningen,NL111
+Hawke's Bay Regional Council,grid.509704.f,Government,1989 CE,https://www.hbrc.govt.nz/,,"HBRC,",Napier,,,New Zealand,NZ,,,,,,,
+Instruct-ERIC,grid.509712.8,Facility,2012 CE,https://instruct-eric.eu/,,"Instruct-European Research Infrastructure,",Oxford,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,"Berkshire, Buckinghamshire and Oxfordshire",UKJ1,Oxfordshire,UKJ14
+Celltechgen (United States),grid.509713.9,Company,2008 CE,https://www.celltechgen.com/,,,Houston,,,United States,US,,,,,,,
+Cergentis (Netherlands),grid.509714.e,Company,2012 CE,https://www.cergentis.com/,,,Utrecht,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Utrecht,NL31,Utrecht,NL310
+Association for Bahá’í Studies,grid.509715.f,Nonprofit,1975 CE,https://bahaistudies.ca/,,"ABS,",Ottawa,,,Canada,CA,,,,,,,
+Ideaya Biosciences (United States),grid.509716.c,Company,2015 CE,https://www.ideayabio.com/,,,South San Francisco,,,United States,US,,,,,,,
+HZPC (Netherlands),grid.509722.b,Company,1898 CE,https://www.hzpc.com/,,"HZPC Holland Research BV,",Groningen,,,Netherlands,NL,,NOORD-NEDERLAND,NL1,Groningen,NL11,Overig Groningen,NL113
+Fjellhaug Internasjonale Høgskole,grid.509723.a,Education,1898 CE,https://fih.fjellhaug.no/,,"FIH,",Oslo,,,Norway,NO,,,,,,,
+German Coastal Engineering Research Council,grid.509724.d,Government,1973 CE,https://www.kfki.de/,,"KFKI,",Hamburg,,,Germany,DE,,HAMBURG,DE6,Hamburg,DE60,Hamburg,DE600
+Future Science Group (United Kingdom),grid.509725.c,Company,2001 CE,https://www.future-science-group.com/,,"FSG,",London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+MicroMega (France),grid.509731.9,Company,1905 CE,https://micro-mega.com/,,,Besançon,,,France,FR,,EST,FR4,Franche-Comté,FR43,Doubs,FR431
+Molecular Templates (United States),grid.509732.a,Company,2001 CE,https://www.mtem.com/,,,Austin,,,United States,US,,,,,,,
+MicroAire (United States),grid.509733.b,Company,1974 CE,https://www.microaire.com/,,"MicroAire Surgical Instruments,",Charlottesville,,,United States,US,,,,,,,
+Microban (United States),grid.509734.c,Company,1984 CE,https://www.microban.com/,,"Microban Products,",Huntersville,,,United States,US,,,,,,,
+Miragen Therapeutics (United States),grid.509735.d,Company,2006 CE,http://www.miragen.com/,,,Boulder,,,United States,US,,,,,,,
+Mitsui Sugar (Japan),grid.509741.e,Company,1947 CE,https://www.mitsui-sugar.co.jp/,,,Tokyo,,,Japan,JP,,,,,,,
+Miyoshi Kasei (Japan),grid.509742.d,Company,1976 CE,https://www.miyoshikaseigroup.com/,,,Tokyo,,,Japan,JP,,,,,,,
+Microline Surgical (United States),grid.509744.b,Company,1987 CE,https://www.microlinesurgical.com/,,,Beverly,,,United States,US,,,,,,,
+Molecular and Structural Basis of Life Sciences,grid.457363.0,Government,,http://english.inserm.fr/thematiques/molecular-and-struct...,,,Paris,,,France,FR,,ÎLE DE FRANCE,FR1,Île de France,FR10,Paris,FR101
+"Cell Biology, Development and Evolution",grid.457364.7,Government,,http://english.inserm.fr/thematiques/cell-biology-develop...,,,Paris,,,France,FR,,ÎLE DE FRANCE,FR1,Île de France,FR10,Paris,FR101
+"Genetics, Genomics and Bioinformatics",grid.457365.6,Government,,http://english.inserm.fr/thematiques/genetics-genomics-an...,,,Paris,,,France,FR,,ÎLE DE FRANCE,FR1,Île de France,FR10,Paris,FR101
+Bernice Barbour Foundation,grid.453792.e,Nonprofit,1986 CE,http://bernicebarbour.org/,,,Wellington,,,United States,US,,,,,,,
+New Jersey Department of Transportation,grid.453791.d,Government,1966 CE,http://www.nj.gov/transportation/,https://en.wikipedia.org/wiki/New_Jersey_Department_of_Tr...,"NJDOT,",Trenton,,,United States,US,,,,,,,
+Luke Neuhedel Foundation,grid.453785.8,Nonprofit,,http://www.lukefund.org/,,"LNF,",Massapequa Park,,,United States,US,,,,,,,
+International Council of Shopping Centers,grid.453778.a,Nonprofit,1957 CE,http://www.icsc.org/,https://en.wikipedia.org/wiki/International_Council_of_Sh...,"ICSC,",New York City,,,United States,US,,,,,,,
+American Liver Foundation,grid.453776.4,Nonprofit,1976 CE,http://www.liverfoundation.org/,https://en.wikipedia.org/wiki/American_Liver_Foundation,"ALF,",New York City,,,United States,US,,,,,,,
+Lilly Endowment,grid.457372.0,Nonprofit,1937 CE,http://www.lillyendowment.org/,https://en.wikipedia.org/wiki/Lilly_Endowment,,Indianapolis,,,United States,US,,,,,,,
+Council for Learning Disabilities,grid.453775.7,Other,,http://www.council-for-learning-disabilities.org/,,"CLD,",Overland Park,,,United States,US,,,,,,,
+Samuel Waxman Cancer Research Foundation,grid.453764.7,Nonprofit,1970 CE,http://www.waxmancancer.org/,,"SWCRF,",New York City,,,United States,US,,,,,,,
+ARC Centre of Excellence in Plant Energy Biology,grid.457375.7,Facility,,http://www.plantenergy.uwa.edu.au/,,"PEB,",Perth,,,Australia,AU,,,,,,,
+Graham Foundation,grid.453763.0,Other,1956 CE,http://www.grahamfoundation.org/,,"Graham Foundation for Advanced Studies in the Fine Arts,",Chicago,,,United States,US,,,,,,,
+Mitsubishi Foundation,grid.453762.1,Nonprofit,1970 CE,http://www.mitsubishi-zaidan.jp/en/,https://en.wikipedia.org/wiki/Mitsubishi_Foundation,"Zaidan Hōjin Mitsubishi Zaidan,Mitsubishi Zaidan,",Tokyo,,,Japan,JP,,,,,,,
+Kosciuszko Foundation,grid.453783.e,Nonprofit,1923 CE,http://www.thekf.org/kf/,https://en.wikipedia.org/wiki/Kosciuszko_Foundation,,New York City,,,United States,US,,,,,,,
+Century University,grid.454557.2,Education,1991 CE,http://www.centuryuniversity.edu/,,"American Century University,ACU,",Albuquerque,,,United States,US,,,,,,,
+Florida College,grid.454558.d,Education,1946 CE,http://www.floridacollege.edu/,https://en.wikipedia.org/wiki/Florida_College,,Temple Terrace,,,United States,US,,,,,,,
+Florida Southern College,grid.454559.c,Education,1883 CE,http://www.flsouthern.edu/,https://en.wikipedia.org/wiki/Florida_Southern_College,"Florida Southern,FSC,",Lakeland,,,United States,US,,,,,,,
+Charter Oak State College,grid.454569.f,Education,1973 CE,http://www.charteroak.edu/,https://en.wikipedia.org/wiki/Charter_Oak_State_College,"Charter Oak College,COSC,",New Britain,,,United States,US,,,,,,,
+Goldey–Beacom College,grid.454570.7,Education,1886 CE,https://www.gbc.edu/,https://en.wikipedia.org/wiki/Goldey%E2%80%93Beacom_College,"GBC,",Wilmington,,,United States,US,,,,,,,
+New York Academy of Art,grid.454571.6,Education,1980 CE,http://www.nyaa.edu/,https://en.wikipedia.org/wiki/New_York_Academy_of_Art,"Graduate School of Figurative Art,",New York City,,,United States,US,,,,,,,
+Appalachian School of Law,grid.454572.5,Education,1994 CE,http://www.asl.edu/,https://en.wikipedia.org/wiki/Appalachian_School_of_Law,"ASL,",Grundy,,,United States,US,,,,,,,
+Christendom College,grid.454573.4,Education,1977 CE,http://www.christendom.edu/,https://en.wikipedia.org/wiki/Christendom_College,,Front Royal,,,United States,US,,,,,,,
+New York Film Academy,grid.454575.2,Education,1992 CE,http://www.nyfa.edu/,https://en.wikipedia.org/wiki/New_York_Film_Academy,"NYFA,",New York City,,,United States,US,,,,,,,
+Arlington Baptist College,grid.454576.1,Education,1939 CE,https://www.abu.edu/,https://en.wikipedia.org/wiki/Arlington_Baptist_College,"Arlington Baptist University,Fundamental Baptist Bible Institute,Bible Baptist Seminary,ABC,",Arlington,,,United States,US,,,,,,,
+Myotonic Dystrophy Foundation,grid.480974.6,Nonprofit,2005 CE,http://www.myotonic.org/,https://en.wikipedia.org/wiki/Myotonic_Dystrophy_Foundation,"MDF,",San Francisco,,,United States,US,,,,,,,
+Ningbo Municipal Education Bureau,grid.480975.7,Government,,http://english.ningbo.gov.cn/art/2014/11/13/art_936_38285...,,,Ningbo,,,China,CN,,,,,,,
+Pakistan Science Foundation,grid.480976.4,Government,1973 CE,http://www.psf.gov.pk/,https://en.wikipedia.org/wiki/Pakistan_Science_Foundation,"PSF,",Islamabad,,,Pakistan,PK,,,,,,,
+National Kidney Foundation of South Africa,grid.480977.5,Nonprofit,1967 CE,http://www.nkf.org.za/default.htm,,"NKFSA,",Johannesburg,,,South Africa,ZA,,,,,,,
+Nacey Maggioncalda Foundation,grid.480978.a,Nonprofit,2012 CE,http://naceymagg.org/,,"NMF,",Wilmington,,,United States,US,,,,,,,
+Nakatomi Foundation,grid.480979.b,Other,1988 CE,https://www.nakatomi.or.jp/en/,,,Saga,,,Japan,JP,,,,,,,
+"Office of Environmental Protection, Sustainability Support and Corporate Safety Analysis",grid.480981.c,Government,,https://energy.gov/ehss/office-environmental-protection-s...,,,"Washington, D.C.",,,United States,US,,,,,,,
+Palaeontological Association,grid.480982.f,Nonprofit,1957 CE,http://www.palass.org/,https://en.wikipedia.org/wiki/Palaeontological_Association,"PalAss,",Cambridge,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,East Anglia,UKH1,Cambridgeshire CC,UKH12
+NAMM Foundation,grid.480983.e,Nonprofit,2006 CE,https://www.nammfoundation.org/,,"National Association of Music Merchants,NAMM,",Anaheim,,,United States,US,,,,,,,
+Pan-Mass Challenge,grid.480984.9,Nonprofit,1980 CE,http://www.pmc.org/,,"PMC,",Needham,,,United States,US,,,,,,,
+Nippon Foundation,grid.480985.8,Nonprofit,1962 CE,http://www.nippon-foundation.or.jp/en/,https://en.wikipedia.org/wiki/Nippon_Foundation,,Tokyo,,,Japan,JP,,,,,,,
+Office of Health and Safety,grid.480986.b,Government,,https://energy.gov/ehss/organizational-chart/office-healt...,,,"Washington, D.C.",,,United States,US,,,,,,,
+Pancreatic Cancer Action,grid.480987.a,Nonprofit,2009 CE,https://pancreaticcanceraction.org/,https://en.wikipedia.org/wiki/Pancreatic_Cancer_Action,,Bordon,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,Hampshire and Isle of Wight,UKJ3,Central Hampshire,UKJ36
+Center for Ecological Noosphere Studies,grid.483223.c,Nonprofit,1989 CE,http://www.cens.am/,,"CENS,",Yerevan,,,Armenia,AM,,,,,,,
+Berry (India),grid.480989.4,Company,1967 CE,http://www.berryplastics.com/,https://en.wikipedia.org/wiki/Berry_Global,"Berry Plastics,",Vadodara,,,India,IN,,,,,,,
+Race to Erase MS,grid.480990.c,Nonprofit,1993 CE,http://www.erasems.org/,,,Los Angeles,,,United States,US,,,,,,,
+Bremen Overseas Research & Development Association,grid.475025.1,Nonprofit,1977 CE,http://www.borda-net.org/,https://en.wikipedia.org/wiki/Bremen_Overseas_Research_an...,"BORDA,",Bremen,,,Germany,DE,,BREMEN,DE5,Bremen,DE50,"Bremen, Kreisfreie Stadt",DE501
+Pancreatic Cancer Research Fund,grid.480991.d,Nonprofit,2004 CE,http://www.pcrf.org.uk/,,,London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+Hospital Fernandes Távora,grid.477284.a,Healthcare,,http://hospitalfernandestavora.com.br/,,,Fortaleza,,,Brazil,BR,,,,,,,
+Empire Eye Physicians,grid.477285.b,Healthcare,,http://www.empireeye.com/,,,Spokane Valley,,,United States,US,,,,,,,
+Endocrine Research Solutions (United States),grid.477286.8,Company,,http://www.ersatl.com/our-site,,"ERS,",Roswell,,,United States,US,,,,,,,
+Gulfcoast Clinical Research Center,grid.477287.9,Facility,2004 CE,http://gulfcoastclinicalresearch.com/,,"GCRC,",Fort Myers,,,United States,US,,,,,,,
+Fertility Care Multan,grid.477288.6,Healthcare,2010 CE,http://fcm.com.pk/,,,Multan,,,Pakistan,PK,,,,,,,
+Haut- und Lasercentrum Potsdam,grid.477304.3,Nonprofit,2004 CE,http://www.hlcp.de/,,"HLCP,",Potsdam,,,Germany,DE,,BRANDENBURG,DE4,Brandenburg,DE40,Potsdam-Mittelmark,DE40E
+Genesis HealthCare,grid.477305.2,Healthcare,2003 CE,http://www.genesishcc.com/,https://en.wikipedia.org/wiki/Genesis_HealthCare,,Kennett Square,,,United States,US,,,,,,,
+Beacon Center of Tennessee,grid.479129.0,Nonprofit,2004 CE,http://www.beacontn.org/,https://en.wikipedia.org/wiki/Beacon_Center_of_Tennessee,"Tennessee Center for Policy Research,TCPR,",Nashville,,,United States,US,,,,,,,
+Concern Worldwide US,grid.479130.8,Nonprofit,1968 CE,http://www.concernusa.org/,https://en.wikipedia.org/wiki/Concern_Worldwide,"Concern,",New York City,,,United States,US,,,,,,,
+Center for Reform of School Systems,grid.479131.9,Nonprofit,2001 CE,http://crss.org/,,"CRSS,",Houston,,,United States,US,,,,,,,
+Fundação de Apoio ao Desenvolvimento da Computação Científica,grid.479132.a,Nonprofit,2004 CE,http://nasa2.facc10.org.br/,,"FACC,",Rio de Janeiro,,,Brazil,BR,,,,,,,
+Connected Nation,grid.479133.b,Nonprofit,2002 CE,http://www.connectednation.org/,,,Bowling Green,,,United States,US,,,,,,,
+Children Youth and Family Collaborative,grid.479135.d,Healthcare,,http://cyfcla.org/,,"CYFC,",Los Angeles,,,United States,US,,,,,,,
+Faith in Public Life,grid.479136.e,Nonprofit,2005 CE,http://www.faithinpubliclife.org/,,"FPL,","Washington, D.C.",,,United States,US,,,,,,,
+Becket Fund for Religious Liberty,grid.479137.f,Nonprofit,1994 CE,http://becketlaw.org/,https://en.wikipedia.org/wiki/Becket_Fund_for_Religious_L...,,"Washington, D.C.",,,United States,US,,,,,,,
+Aerosan,grid.479142.d,Nonprofit,,http://www.aerosantoilets.ca/,,,Halifax,,,Canada,CA,,,,,,,
+Consortium for DEWATS Dissemination Society,grid.479144.b,Nonprofit,2005 CE,http://www.cddindia.org/,,"CDD Society,CDD,",Bengaluru,,,India,IN,,,,,,,
+AfricaBio,grid.479145.a,Nonprofit,1999 CE,http://www.africabio.com/,,,Pretoria,,,South Africa,ZA,,,,,,,
+African Fertilizer and Agribusiness Partnership,grid.479154.a,Company,2012 CE,http://www.afap-partnership.org/,,"AFAP,",Johannesburg,,,South Africa,ZA,,,,,,,
+African Water Association,grid.479155.b,Company,1979 CE,http://www.afwa-hq.org/index.php/en/,,"AFWA,",Abidjan,,,Ivory Coast,CI,,,,,,,
+Centre for Budget and Governance Accountability,grid.479157.9,Nonprofit,2002 CE,http://www.cbgaindia.org/,,"CBGA,",Delhi,,,India,IN,,,,,,,
+AgBiome (United States),grid.479158.6,Company,2012 CE,http://agbiome.com/,,,Durham,,,United States,US,,,,,,,
+Corporation for Public Broadcasting,grid.479160.d,Nonprofit,1967 CE,http://www.cpb.org/,https://en.wikipedia.org/wiki/Corporation_for_Public_Broa...,"CPB,","Washington, D.C.",,,United States,US,,,,,,,
+Financial Sector Deepening Trust,grid.479161.c,Other,2005 CE,http://www.fsdt.or.tz/,,"FSDT,",Dar es Salaam,,,Tanzania,TZ,,,,,,,
+AIM Group (Tanzania),grid.479162.f,Company,,https://aimgroup.co.tz/,,,Dar es Salaam,,,Tanzania,TZ,,,,,,,
+Finca International,grid.479163.e,Nonprofit,1984 CE,http://www.finca.org/,https://en.wikipedia.org/wiki/FINCA_International,,"Washington, D.C.",,,United States,US,,,,,,,
+Communities United,grid.479164.9,Nonprofit,2000 CE,http://communitiesunited.org/,,"Albany Park Neighborhood Council,",Chicago,,,United States,US,,,,,,,
+Boys and Girls Clubs,grid.479165.8,Other,1952 CE,http://www.bgcbellevue.org/,,,Bellevue,,,United States,US,,,,,,,
+Council of the Great City Schools,grid.479166.b,Other,1956 CE,http://www.cgcs.org/,,,"Washington, D.C.",,,United States,US,,,,,,,
+Albuquerque Public Schools,grid.479167.a,Education,1891 CE,http://www.aps.edu/,https://en.wikipedia.org/wiki/Albuquerque_Public_Schools,"APS,",Albuquerque,,,United States,US,,,,,,,
+FinMark Trust,grid.479168.5,Nonprofit,2002 CE,http://www.finmark.org.za/,,"FMT,",Midrand,,,South Africa,ZA,,,,,,,
+Centre International De Reference Chantal Biya,grid.479171.d,Other,2006 CE,http://circb.cm/btc_circb/web/,,"Centre International De Reference Chantal Biya Pour La Recherche Sur La Prevention Et La Prise En Charge Du Vih Sida,CIRCB,",Yaoundé,,,Cameroon,CM,,,,,,,
+Unifeeder (Norway),grid.458977.0,Company,1977 CE,http://www.unifeeder.com/,,,Oslo,,,Norway,NO,,,,,,,
+Tinn kommune,grid.458978.f,Government,1883 CE,http://www.tinn.kommune.no/,,,Rjukan,,,Norway,NO,,,,,,,
+Targovax (Norway),grid.458980.8,Company,2010 CE,http://www.targovax.com/,,,Oslo,,,Norway,NO,,,,,,,
+KRONOS (Norway),grid.458981.9,Company,1916 CE,http://kronostio2.com/en/manufacturing-facilities/hauge-n...,,,Hauge i Dalane,,,Norway,NO,,,,,,,
+Catch Solar Energy (Norway),grid.458982.a,Company,2010 CE,http://www.catchsolar.no/,,,Oslo,,,Norway,NO,,,,,,,
+SolidTech (Norway),grid.458983.b,Company,2006 CE,http://www.solidtech.no/,,,Kristiansund,,,Norway,NO,,,,,,,
+Tax Justice Network,grid.458985.d,Other,,http://taxjustice.no/english,,,Oslo,,,Norway,NO,,,,,,,
+Sigla (Norway),grid.458986.e,Company,2005 CE,http://sigla.no/,,,Oslo,,,Norway,NO,,,,,,,
+Solstad Offshore (Norway),grid.458988.0,Company,1964 CE,https://solstad.no/,https://en.wikipedia.org/wiki/Solstad_Offshore,"Solstad Rederi,",Kopervik,,,Norway,NO,,,,,,,
+Kanvas,grid.458989.1,Other,1991 CE,http://www.kanvas.no/,,,Oslo,,,Norway,NO,,,,,,,
+Toma Mat (Norway),grid.458990.9,Company,1997 CE,http://www.tomamat.no/,,,Haugesund,,,Norway,NO,,,,,,,
+Solum Forlag (Norway),grid.458991.8,Company,1973 CE,http://www.solumforlag.no/forlag/solum-forlag,,,Oslo,,,Norway,NO,,,,,,,
+Sigurd Løkeland (Norway),grid.458992.b,Company,1922 CE,http://www.lokeland.no/english/startside.html,,,Askvoll,,,Norway,NO,,,,,,,
+Tomax (Norway),grid.458993.a,Company,2005 CE,http://www.tomax.no/,,,Stavanger,,,Norway,NO,,,,,,,
+Solution Seeker (Norway),grid.458994.d,Company,2013 CE,http://www.solutionseeker.no/,,,Trondheim,,,Norway,NO,,,,,,,
+Tommen Gram Folie (Norway),grid.458996.f,Company,1919 CE,http://tommen.no/,,,Levanger,,,Norway,NO,,,,,,,
+TeamTec (Norway),grid.458997.e,Company,1984 CE,http://www.teamtec.no/,,,Tvedestrand,,,Norway,NO,,,,,,,
+Simlink (Norway),grid.458998.1,Company,2009 CE,http://www.simlink.com/,,,Trondheim,,,Norway,NO,,,,,,,
+Simicon (Norway),grid.459000.8,Company,1999 CE,http://simicon.no/,,,Kongsberg,,,Norway,NO,,,,,,,
+Sonowand (Norway),grid.459001.9,Company,1998 CE,http://www.sonowand.com/,,,Trondheim,,,Norway,NO,,,,,,,
+Tone Lise Academy,grid.459004.c,Education,1992 CE,http://www.toneliseakademiet.no/,,,Oslo,,,Norway,NO,,,,,,,
+TECE Norge (Norway),grid.459005.d,Company,1986 CE,http://tece.no/,,,Oslo,,,Norway,NO,,,,,,,
+Silicon Labs (Norway),grid.459006.e,Company,1996 CE,http://www.silabs.com/Pages/default.aspx,https://en.wikipedia.org/wiki/Silicon_Labs,,Oslo,,,Norway,NO,,,,,,,
+Sorbwater Technology (Norway),grid.459007.f,Company,2007 CE,http://www.sorbwater.com/,,,Bergen,,,Norway,NO,,,,,,,
+Kunnskapssenter for Laks og Vannmiljø,grid.459008.0,Other,2007 CE,http://www.klv.no/,,"KLV,",Namsos,,,Norway,NO,,,,,,,
+Valley Regional Hospital,grid.461480.f,Healthcare,1893 CE,http://www.vrh.org/home,https://en.wikipedia.org/wiki/Valley_Regional_Hospital,"Cottage Hospital,",Claremont,,,United States,US,,,,,,,
+The Outer Banks Hospital,grid.461479.9,Healthcare,2002 CE,https://www.theouterbankshospital.com/,https://en.wikipedia.org/wiki/The_Outer_Banks_Hospital,"OBH,",Nags Head,,,United States,US,,,,,,,
+Adventist Health Simi Valley,grid.461478.8,Healthcare,1965 CE,https://www.adventisthealth.org/simi-valley/,https://en.wikipedia.org/wiki/Adventist_Health_Simi_Valley,"Simi Valley Hospital,SVH,",Simi Valley,,,United States,US,,,,,,,
+Documenta Archive,grid.461705.1,Archive,1955 CE,http://www.documentaarchiv.de/home/,,,Kassel,,,Germany,DE,,HESSEN,DE7,Kassel,DE73,"Kassel, Landkreis",DE734
+Newport Hospital,grid.461477.7,Healthcare,1873 CE,http://www.newporthospital.org/,https://en.wikipedia.org/wiki/Newport_Hospital,,Newport,,,United States,US,,,,,,,
+John Sealy Hospital,grid.461476.6,Healthcare,1890 CE,http://www.utmbhealth.com/oth/Page.asp?PageID=OTH000004,https://en.wikipedia.org/wiki/John_Sealy_Hospital,,Galveston,,,United States,US,,,,,,,
+Silverton Hospital,grid.461474.4,Healthcare,1918 CE,http://silvertonhealth.org/,https://en.wikipedia.org/wiki/Silverton_Hospital,,Silverton,,,United States,US,,,,,,,
+District Headquarters Hospital Battagram,grid.461147.1,Healthcare,,http://www.battagramvalley.com/,https://en.wikipedia.org/wiki/District_Headquarters_Hospi...,"DHQ Hospital Battagram,",Battagram,,,Pakistan,PK,,,,,,,
+Utah State Hospital,grid.461473.3,Healthcare,1885 CE,http://www.ush.utah.gov/,https://en.wikipedia.org/wiki/Utah_State_Hospital,"USH,",Provo,,,United States,US,,,,,,,
+Climate Risk Analysis (Germany),grid.461717.2,Company,2005 CE,http://www.climate-risk-analysis.com/,,"CRA,",Bad Gandersheim,,,Germany,DE,,NIEDERSACHSEN,DE9,Braunschweig,DE91,Northeim,DE918
+Jersey Community Hospital,grid.461472.2,Healthcare,1954 CE,http://www.jch.org/,https://en.wikipedia.org/wiki/Jersey_Community_Hospital,"JCH,",Jerseyville,,,United States,US,,,,,,,
+Nebraska Orthopaedic Hospital,grid.461471.1,Healthcare,2004 CE,http://www.neorthohospital.com/,https://en.wikipedia.org/wiki/Nebraska_Orthopaedic_Hospital,,Omaha,,,United States,US,,,,,,,
+University Press of Florida,grid.461470.0,Education,1945 CE,http://www.upf.com/,,"UPF,",Gainesville,,,United States,US,,,,,,,
+Sierra View Medical Center,grid.461469.8,Healthcare,1958 CE,http://www.sierra-view.com/,https://en.wikipedia.org/wiki/Sierra_View_District_Hospital,"Sierra View District Hospital,",Porterville,,,United States,US,,,,,,,
+Jewish Museum Berlin,grid.461722.4,Archive,2001 CE,http://www.jmberlin.de/,"https://en.wikipedia.org/wiki/Jewish_Museum,_Berlin",,Berlin,,,Germany,DE,,BERLIN,DE3,Berlin,DE30,Berlin,DE300
+Klinikum Vest,grid.461723.5,Healthcare,,http://www.klinikum-vest.de/,,,Recklinghausen,,,Germany,DE,,NORDRHEIN-WESTFALEN,DEA,Münster,DEA3,Recklinghausen,DEA36
+National Association of Independent Colleges and Universities,grid.461468.9,Nonprofit,1976 CE,http://www.naicu.edu/,https://en.wikipedia.org/wiki/National_Association_of_Ind...,"NAICU,","Washington, D.C.",,,United States,US,,,,,,,
+International University of Professional Studies,grid.461467.6,Education,1988 CE,http://www.iups.edu/,https://en.wikipedia.org/wiki/International_University_of...,"IUPS,",Makawao,,,United States,US,,,,,,,
+The Bristol-Myers Squibb Children's Hospital,grid.461466.7,Healthcare,1997 CE,http://www.bmsch.org/,https://en.wikipedia.org/wiki/The_Bristol-Myers_Squibb_Ch...,"BMSCH,",New Brunswick,,,United States,US,,,,,,,
+European Liaison Office of the German Research Organisations,grid.461727.1,Other,1990 CE,http://www.kowi.de/en/kowi.aspx,,"KoWi,",Bonn,,,Germany,DE,,NORDRHEIN-WESTFALEN,DEA,Köln,DEA2,Rhein-Sieg-Kreis,DEA2C
+Napa State Hospital,grid.461465.4,Healthcare,1875 CE,http://www.dsh.ca.gov/napa/,https://en.wikipedia.org/wiki/Napa_State_Hospital,,Napa,,,United States,US,,,,,,,
+Polymer Standards Service (Germany),grid.461730.7,Company,1985 CE,http://www.pss-polymer.com/,,"PSS,",Mainz,,,Germany,DE,,RHEINLAND-PFALZ,DEB,Rheinhessen-Pfalz,DEB3,"Mainz, Kreisfreie Stadt",DEB35
+Alliance for European Diabetes Research,grid.461731.6,Nonprofit,2003 CE,https://euradia.org/,,"EURADIA,",Düsseldorf,,,Germany,DE,,NORDRHEIN-WESTFALEN,DEA,Düsseldorf,DEA1,Rhein-Kreis Neuss,DEA1D
+Mease Countryside Hospital,grid.461561.1,Healthcare,1986 CE,https://baycare.org/mch,https://en.wikipedia.org/wiki/Mease_Countryside_Hospital,,Safety Harbor,,,United States,US,,,,,,,
+Münchner Stadtbibliothek,grid.461734.3,Archive,1843 CE,https://www.muenchner-stadtbibliothek.de/,,,Munich,,,Germany,DE,,BAYERN,DE2,Oberbayern,DE21,"München, Landkreis",DE21H
+Vertec Biosolvents (United States),grid.456308.c,Company,1997 CE,http://www.vertecbiosolvents.com/,,,Downers Grove,,,United States,US,,,,,,,
+VIP Sensors (United States),grid.456310.5,Company,2003 CE,http://www.vipsensors.com/,,,San Juan Capistrano,,,United States,US,,,,,,,
+LRM Industries International (United States),grid.456311.4,Company,1996 CE,http://lrmind.com/,,"Thermoplastic Composite Design, Inc.,,",Rockledge,,,United States,US,,,,,,,
+Total Quality Systems (United States),grid.456312.7,Company,1994 CE,http://www.tqsinc.com/,,"TQS,",Roy,,,United States,US,,,,,,,
+VI Manufacturing (United States),grid.456316.3,Company,1967 CE,http://www.vimfg.com/,,,Webster,,,United States,US,,,,,,,
+Think A Move (United States),grid.456317.2,Company,1998 CE,http://think-a-move.com/,,"TAM,",Beachwood,,,United States,US,,,,,,,
+Vibratess (United States),grid.456320.6,Company,2007 CE,http://www.vibratess.com/,,,Charlottesville,,,United States,US,,,,,,,
+Warwick Mills (United States),grid.456323.5,Company,1870 CE,http://www.warwickmills.com/,,,New Ipswich,,,United States,US,,,,,,,
+Wasatch Molecular (United States),grid.456329.f,Company,2005 CE,http://www.wasatchmolecular.com/,,"WMI,",Salt Lake City,,,United States,US,,,,,,,
+V Corp Technologies (United States),grid.456330.7,Company,1997 CE,http://www.v-corp.com/,,,San Diego,,,United States,US,,,,,,,
+Vadum (United States),grid.456331.6,Company,2004 CE,http://www.vaduminc.com/,,,Raleigh,,,United States,US,,,,,,,
+TransTech Systems (United States),grid.456332.5,Company,1994 CE,http://www.transtechsys.com/,,,Schenectady,,,United States,US,,,,,,,
+Wave Computation Technologies (United States),grid.456333.4,Company,2005 CE,http://www.wavenology.com/,,"WCT,",Durham,,,United States,US,,,,,,,
+Virtual EM (United States),grid.456334.3,Company,2002 CE,http://www.virtualem.com/,,,Ann Arbor,,,United States,US,,,,,,,
+Wavecon (United States),grid.456336.1,Company,1989 CE,http://www.waveconsoft.com/,,,Escondido,,,United States,US,,,,,,,
+Virtual Simulation and Training (United States),grid.456338.f,Company,,http://www.virtualsimulation.com/vsat.htm,,"VSAT,",Xenia,,,United States,US,,,,,,,
+Triangle Polymer Technologies (United States),grid.456339.e,Company,2007 CE,http://www.trianglepolymer.com/,,,Durham,,,United States,US,,,,,,,
+Xidex (United States),grid.456342.2,Company,1997 CE,http://www.xidex.com/,,,Austin,,,United States,US,,,,,,,
+Vision Systems Incorporation (United States),grid.456343.3,Company,2011 CE,http://visionsystemsinc.com/,,"VSI,",Providence,,,United States,US,,,,,,,
+Trident Research (United States),grid.456345.5,Company,2001 CE,http://tridentresearch.com/,,,Austin,,,United States,US,,,,,,,
+XMCO (United States),grid.456347.7,Company,1979 CE,http://www.xmcoinc.com/,,,Warren,,,United States,US,,,,,,,
+Visotek (United States),grid.456350.1,Company,2001 CE,http://www.visotekinc.com/company,https://en.wikipedia.org/wiki/Visotek,,Livonia,,,United States,US,,,,,,,
+WeldQC (United States),grid.456353.2,Company,1998 CE,http://www.weldqc.com/,,"Weld Quality Control Solutions,WQC,",Columbus,,,United States,US,,,,,,,
+Zolo Technologies (United States),grid.456357.6,Company,1999 CE,http://zolotech.com/,,,Louisville,,,United States,US,,,,,,,
+Visual Editor Consultants (United States),grid.456359.8,Company,2001 CE,http://www.mcnpvised.com/,,"VEC,",Richland,,,United States,US,,,,,,,
+FM Mattsson (Sweden),grid.434181.b,Company,1865 CE,https://www.fmm-mora.com/https://www.fmm-mora.com/sv/,,,Mora,,,Sweden,SE,,NORRA SVERIGE,SE3,Norra Mellansverige,SE31,Dalarnas län,SE312
+Mössner (Germany),grid.434180.a,Company,1898 CE,https://www.moessner-kg.de/,,,Eschach,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Stuttgart,DE11,Ostalbkreis,DE11D
+Flying-Cam (Belgium),grid.434178.d,Company,1988 CE,https://wp.flying-cam.com/,,,Oupeye,,,Belgium,BE,,RÉGION WALLONNE,BE3,Prov. Liège,BE33,Arr. Liège,BE332
+Flying Bridge Technologies (United States),grid.434177.2,Company,1998 CE,http://www.flyingbridge.net/,,,Charlotte,,,United States,US,,,,,,,
+General Marble (Greece),grid.434587.9,Company,1987 CE,,,,Cholargós,,,Greece,GR,,,,,,,
+Goss Springs (United Kingdom),grid.434596.9,Company,1954 CE,http://www.goss-springs.com/,,,Epping,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,Essex,UKH3,West Essex,UKH35
+Flyby (Italy),grid.434175.0,Company,2001 CE,https://www.flyby.it/,,,Turin,,,Italy,IT,,NORD-OVEST,ITC,Piemonte,ITC1,Torino,ITC11
+Functional Coating Technology (United States),grid.434598.7,Company,,,,,Evanston,,,United States,US,,,,,,,
+Functional Technologies (United Kingdom),grid.434600.5,Company,2009 CE,http://www.functional-technologies.co.uk/,,,Kenilworth,,,United Kingdom,GB,,WEST MIDLANDS (ENGLAND),UKG,"Herefordshire, Worcestershire and Warwickshire",UKG1,Warwickshire,UKG13
+Elforlight (United Kingdom),grid.434605.0,Company,1997 CE,http://www.elforlight.com/,,,Daventry,,,United Kingdom,GB,,EAST MIDLANDS (ENGLAND),UKF,"Leicestershire, Rutland and Northamptonshire",UKF2,West Northamptonshire,UKF24
+Esciencia (Spain),grid.434169.d,Company,2006 CE,https://esciencia.es/,,,Zaragoza,,,Spain,ES,,NORESTE,ES2,Aragón,ES24,Zaragoza,ES243
+Fluidhouse (Finland),grid.434168.c,Company,2003 CE,http://www.fluidhouse.fi/fi/,,,Jyväskylä,,,Finland,FI,,MANNER-SUOMI,FI1,Länsi-Suomi,FI19,Keski-Suomi,FI193
+APDM (United States),grid.432682.9,Company,2007 CE,https://www.apdm.com/,,,Portland,,,United States,US,,,,,,,
+Fluid Operations (Germany),grid.434167.3,Company,2008 CE,,https://en.wikipedia.org/wiki/Fluid_Operations,"fluidOps,",Walldorf,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Karlsruhe,DE12,Rhein-Neckar-Kreis,DE128
+Ellemedia Technologies (Greece),grid.434614.0,Company,1998 CE,http://www.ellemedia.com,,,Athens,,,Greece,GR,,,,,,,
+Eco-Energy (NI) (United Kingdom),grid.434166.2,Company,2006 CE,,,,Holywood,,,United Kingdom,GB,,NORTHERN IRELAND,UKN,Northern Ireland,UKN0,Outer Belfast,UKN02
+Generic Robotics (United Kingdom),grid.434616.2,Company,2004 CE,http://www.genericrobotics.com/,,,Reading,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,"Berkshire, Buckinghamshire and Oxfordshire",UKJ1,Berkshire,UKJ11
+Amorim Cork Composites (Portugal),grid.432459.d,Company,1963 CE,https://amorimcorkcomposites.com/,,,Mozelos,,,Portugal,PT,,CONTINENTE,PT1,Norte,PT11,Alto Minho,PT111
+Elsyca (Belgium),grid.434622.5,Company,1997 CE,https://www.elsyca.com/,,,Leuven,,,Belgium,BE,,VLAAMS GEWEST,BE2,Prov. Vlaams-Brabant,BE24,Arr. Leuven,BE242
+Fluid Gravity Engineering (United Kingdom),grid.434165.1,Company,1982 CE,http://www.fluidgravity.co.uk/,,,Emsworth,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,Hampshire and Isle of Wight,UKJ3,Central Hampshire,UKJ36
+Eltek Semiconductors (United Kingdom),grid.434624.3,Company,1981 CE,,,,Dartmouth,,,United Kingdom,GB,,SOUTH WEST (ENGLAND),UKK,Devon,UKK4,Devon CC,UKK43
+Metrohm Autolab (Netherlands),grid.434162.6,Company,1986 CE,https://www.metrohm-autolab.com/,,,Utrecht,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Utrecht,NL31,Utrecht,NL310
+Flucon Fluid Control (Germany),grid.434159.e,Company,1991 CE,https://flucon.de/en/,,,Osterode am Harz,,,Germany,DE,,NIEDERSACHSEN,DE9,Braunschweig,DE91,Osterode am Harz,DE919
+ES Technology (United Kingdom),grid.434157.0,Company,1987 CE,http://www.estechnology.ae/,,,Daventry,,,United Kingdom,GB,,EAST MIDLANDS (ENGLAND),UKF,"Leicestershire, Rutland and Northamptonshire",UKF2,West Northamptonshire,UKF24
+Elvior (Estonia),grid.434636.0,Company,1992 CE,https://elvior.com/,,,Tallinn,,,Estonia,EE,,EESTI,EE0,Eesti,EE00,Põhja-Eesti,EE001
+Department of Emergency Services and Public Protection,grid.453563.2,Government,1903 CE,http://www.ct.gov/cfpc/site/default.asp,https://en.wikipedia.org/wiki/Department_of_Emergency_Ser...,"DESPP,",Middletown,,,United States,US,,,,,,,
+Richard and Susan Smith Family Foundation,grid.453566.7,Nonprofit,1970 CE,http://www.smithfamilyfoundation.net/,,,Newton,,,United States,US,,,,,,,
+Illinois Environmental Protection Agency,grid.453568.9,Government,1970 CE,http://www.epa.illinois.gov/,https://en.wikipedia.org/wiki/Illinois_Environmental_Prot...,"Illinois EPA,",Springfield,,,United States,US,,,,,,,
+International Trade Administration,grid.453569.8,Government,1980 CE,http://www.trade.gov/,https://en.wikipedia.org/wiki/International_Trade_Adminis...,"ITA,","Washington, D.C.",,,United States,US,,,,,,,
+Wisconsin Department of Workforce Development,grid.453570.0,Government,1883 CE,https://dwd.wisconsin.gov,https://en.wikipedia.org/wiki/Wisconsin_Department_of_Wor...,"DWD,",Madison,,,United States,US,,,,,,,
+Pennsylvania Department of Transportation,grid.453571.1,Government,1970 CE,http://www.dot.state.pa.us/,https://en.wikipedia.org/wiki/Pennsylvania_Department_of_...,"PennDOT,",Harrisburg,,,United States,US,,,,,,,
+Consortium for Plant Biotechnology Research,grid.453572.2,Facility,1985 CE,http://www.cpbr.org/,,"CPBR,",Brunswick,,,United States,US,,,,,,,
+Foundation for Anesthesia Education and Research,grid.453573.3,Nonprofit,1986 CE,http://faer.org/,,"FAER,",Schaumburg,,,United States,US,,,,,,,
+Velux Stiftung,grid.453605.1,Nonprofit,1980 CE,http://www.veluxstiftung.ch/home/en-index.php,,,Zürich,,,Switzerland,CH,,,,,,,
+International Myeloma Foundation,grid.453574.4,Nonprofit,1990 CE,https://myeloma.org/Main.action,https://en.wikipedia.org/wiki/International_Myeloma_Found...,"IMF,",North Hollywood,,,United States,US,,,,,,,
+AeroDynamic Solutions (United States),grid.453575.5,Company,2009 CE,https://www.aerodynamic-solutions.com,,"ADS,",San Jose,,,United States,US,,,,,,,
+1675 Foundation,grid.453576.6,Nonprofit,2004 CE,http://www.1675foundation.org/,,,Ardmore,,,United States,US,,,,,,,
+Henry Luce Foundation,grid.453577.7,Nonprofit,1936 CE,http://www.hluce.org/,,,New York City,,,United States,US,,,,,,,
+Minnesota Pollution Control Agency,grid.453583.c,Government,1967 CE,http://www.pca.state.mn.us/,https://en.wikipedia.org/wiki/Minnesota_Pollution_Control...,"MPCA,",Saint Paul,,,United States,US,,,,,,,
+Michigan Department of Transportation,grid.453578.8,Government,1905 CE,http://www.michigan.gov/mdot/,https://en.wikipedia.org/wiki/Michigan_Department_of_Tran...,"MDOT,",Lansing,,,United States,US,,,,,,,
+Society for Imaging Informatics in Medicine,grid.453579.9,Nonprofit,1980 CE,http://siim.org/,,"Society for Computer Applications in Radiology,SIIM,SCAR,",Leesburg,,,United States,US,,,,,,,
+American Institute of Bisexuality,grid.453581.e,Nonprofit,1998 CE,http://www.americaninstituteofbisexuality.org/,,"Bisexual Foundation,AIB,",Hollywood,,,United States,US,,,,,,,
+International Association for Dental Research,grid.453584.b,Nonprofit,1919 CE,http://www.iadr.com/,https://en.wikipedia.org/wiki/International_Association_f...,"IADR,",Alexandria,,,United States,US,,,,,,,
+Stand Among Friends,grid.453585.a,Nonprofit,1997 CE,http://standamongfriends.org/,,"SAF,",Boca Raton,,,United States,US,,,,,,,
+Belgian American Educational Foundation,grid.453586.9,Nonprofit,1977 CE,http://www.baef.be/documents/home.xml?lang=en,https://en.wikipedia.org/wiki/BAEF,"BAEF,",Brussels,,,Belgium,BE,,RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST,BE1,Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,BE10,Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad,BE100
+Bugher Foundation,grid.453587.8,Nonprofit,1961 CE,http://www.bugher.org/,,"Henrietta B. and Frederick H. Bugher Foundation,",Utica,,,United States,US,,,,,,,
+Concern Foundation,grid.453589.6,Nonprofit,1968 CE,https://www.concernfoundation.org/,,,Los Angeles,,,United States,US,,,,,,,
+Conservation Leadership Programme,grid.453590.e,Other,1985 CE,http://www.conservationleadershipprogramme.org/,,"BP Conservation Programme,CLP,",Cambridge,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,East Anglia,UKH1,Cambridgeshire CC,UKH12
+Diabetes Action Research and Education Foundation,grid.453591.f,Nonprofit,1990 CE,http://www.diabetesaction.org/site/PageServer?pagename=index,,"Diabetes Action,",Bethesda,,,United States,US,,,,,,,
+Psi Chi,grid.453593.d,Other,1929 CE,http://www.psichi.org/,https://en.wikipedia.org/wiki/Psi_Chi,,Chattanooga,,,United States,US,,,,,,,
+Bristol-Myers Squibb (Ireland),grid.509032.d,Company,1887 CE,https://www.bms.com/ie,https://en.wikipedia.org/wiki/Bristol_Myers_Squibb,"BMS,",Dublin,,,Ireland,IE,,IRELAND,IE0,Southern and Eastern,IE02,Dublin,IE021
+CEM (United States),grid.509039.6,Company,1978 CE,https://cem.com/,,,Matthews,,,United States,US,,,,,,,
+Centinel Spine (United States),grid.509040.8,Company,2008 CE,https://www.centinelspine.com/,,,West Chester,,,United States,US,,,,,,,
+Centrix (United States),grid.509041.9,Company,1970 CE,https://www.centrixdental.com/,,,Shelton,,,United States,US,,,,,,,
+Abcentra (United States),grid.509042.a,Company,2006 CE,https://abcentra.com/,,,Los Angeles,,,United States,US,,,,,,,
+Caregen (South Korea),grid.509043.b,Company,2001 CE,http://www.caregen.com/,,,Anyang-si,,,South Korea,KR,,,,,,,
+SK Capital (United States),grid.509049.1,Company,2007 CE,https://skcapitalpartners.com/,,,New York City,,,United States,US,,,,,,,
+Chemi (Italy),grid.509050.9,Company,1973 CE,https://www.chemi.com/,,,Cinisello Balsamo,,,Italy,IT,,NORD-OVEST,ITC,Lombardia,ITC4,Milano,ITC4C
+Cefla (Italy),grid.509051.8,Company,1932 CE,https://www.cefla.com/it/,,,Imola,,,Italy,IT,,NORD-EST,ITH,Emilia-Romagna,ITH5,Bologna,ITH55
+Biosensors International Group (Singapore),grid.509052.b,Company,1990 CE,http://www.biosensors.com/,https://en.wikipedia.org/wiki/Biosensors_International,,Singapore,,,Singapore,SG,,,,,,,
+Cellix Bio (India),grid.509053.a,Company,2014 CE,https://www.cellixbio.com/index.html,,,Hyderabad,,,India,IN,,,,,,,
+CINOGY Technologies (Germany),grid.509061.b,Company,2006 CE,http://www.cinogy.com/html/company.html,,,Duderstadt,,,Germany,DE,,NIEDERSACHSEN,DE9,Braunschweig,DE91,Göttingen,DE915
+Collegium Pharmaceutical (United States),grid.509063.9,Company,2002 CE,https://www.collegiumpharma.com/,,,Dedham,,,United States,US,,,,,,,
+Combe (United States),grid.509064.e,Company,1949 CE,https://www.combe.com/,https://en.wikipedia.org/wiki/Combe_Incorporated,,White Plains,,,United States,US,,,,,,,
+Cousin Biotech (France),grid.509074.f,Company,1995 CE,https://www.cousin-biotech.com/,,,Wervicq-Sud,,,France,FR,,NORD - PAS-DE-CALAIS,FR3,Nord - Pas-de-Calais,FR30,Nord,FR301
+Conventus Orthopaedics (United States),grid.509075.e,Company,2008 CE,https://www.conventusortho.com/,,,Maple Grove,,,United States,US,,,,,,,
+CrossRoads Extremity Systems (United States),grid.509082.6,Company,2014 CE,https://www.crextremity.com/,,"CrossRoads,CRE,",Memphis,,,United States,US,,,,,,,
+Crystal Pharmatech (United States),grid.509083.7,Company,2010 CE,https://www.crystalpharmatech.com/,,,Cranbury,,,United States,US,,,,,,,
+CTL Amedica (United States),grid.509084.0,Company,2015 CE,https://www.ctlamedica.com/,,"CTL Medical,",Addison,,,United States,US,,,,,,,
+Curemark (United States),grid.509085.1,Company,2006 CE,http://curemark.com/,,,Rye,,,United States,US,,,,,,,
+Cook Group (United States),grid.509086.2,Company,1963 CE,https://www.cookgroup.com/,https://en.wikipedia.org/wiki/Cook_Group,,Bloomington,,,United States,US,,,,,,,
+DCA (United Kingdom),grid.509092.7,Company,1960 CE,https://www.dca-design.com/,https://en.wikipedia.org/wiki/DCA_Design_International_Ltd,"DCA Design International,",Warwick,,,United Kingdom,GB,,WEST MIDLANDS (ENGLAND),UKG,"Herefordshire, Worcestershire and Warwickshire",UKG1,Warwickshire,UKG13
+Cyclerion (United States),grid.509093.6,Company,2018 CE,https://www.cyclerion.com/,,"Cyclerion Therapeutics,",Cambridge,,,United States,US,,,,,,,
+Royalty Pharma (United States),grid.509095.0,Company,1996 CE,https://www.royaltypharma.com/,https://en.wikipedia.org/wiki/Royalty_Pharma,,New York City,,,United States,US,,,,,,,
+Shanghai Fudan Microelectronics (China),grid.509096.3,Company,1998 CE,http://www.fmsh.com/,,,Shanghai,,,China,CN,,,,,,,
+University of Tifariti,grid.449766.e,Education,2013 CE,http://www.universidadtifariti.org/en/home2/,https://en.wikipedia.org/wiki/University_of_Tifariti,,Tifariti,,,Western Sahara,EH,,,,,,,
+University of Tripoli Lebanon,grid.449779.0,Education,1982 CE,http://www.ut.edu.lb/,https://en.wikipedia.org/wiki/University_of_Tripoli_Lebanon,"UT,",Tripoli,,,Lebanon,LB,,,,,,,
+The American University of Vietnam,grid.449781.7,Education,2011 CE,http://auv.edu.vn/en/home/,https://en.wikipedia.org/wiki/The_American_University_of_...,"AUV,",Da Nang,,,Vietnam,VN,,,,,,,
+Bridge University,grid.449783.5,Education,2009 CE,https://bridgeuniversity.net,https://en.wikipedia.org/wiki/The_Bridge_University,"Christian Worship Center,TBU,",Juba,,,South Sudan,SS,,,,,,,
+University of International Golden Indonesia,grid.449793.4,Education,1983 CE,https://stie-igi.ac.id/,https://en.wikipedia.org/wiki/University_of_International...,"IGI,",Jakarta,,,Indonesia,ID,,,,,,,
+University of Asmara,grid.449794.3,Education,1958 CE,https://universityofasmara.com,https://en.wikipedia.org/wiki/University_of_Asmara,"Catholic College of Santa Famiglia,",Asmara,,,Eritrea,ER,,,,,,,
+Francisco de Vitoria University,grid.449795.2,Education,1993 CE,https://www.ufv.es/,https://en.wikipedia.org/wiki/Francisco_de_Vitoria_Univer...,"UFV,",Pozuelo de Alarcón,,,Spain,ES,,COMUNIDAD DE MADRID,ES3,Comunidad de Madrid,ES30,Madrid,ES300
+University of Bagamoyo,grid.449796.1,Education,2010 CE,http://www.uob.ac.tz/,https://en.wikipedia.org/wiki/University_of_Bagamoyo,"UB,",Dar es Salaam,,,Tanzania,TZ,,,,,,,
+"University of Wales, Romania",grid.449809.8,Education,,,,,Bucharest,,,Romania,RO,,MACROREGIUNEA TREI,RO3,Bucureşti - Ilfov,RO32,Bucureşti,RO321
+University of Buraimi,grid.449810.0,Education,2010 CE,https://www.uob.edu.om,https://en.wikipedia.org/wiki/University_of_Buraimi,"UOB,",Al Buraymī,,,Oman,OM,,,,,,,
+University of Kamina,grid.449811.1,Education,1955 CE,https://ukamina.webs.com/,https://en.wikipedia.org/wiki/University_of_Kamina,"UNIKAM,",Kamina,,,Democratic Republic of the Congo,CD,,,,,,,
+University of Kindu,grid.449824.7,Education,2004 CE,http://www.univ-kindu.cd,https://en.wikipedia.org/wiki/University_of_Kindu,"Kindu Center University,UNIKI,",Kindu,,,Democratic Republic of the Congo,CD,,,,,,,
+University of Kolwezi,grid.449825.6,Education,2004 CE,http://www.unikol.ac.cd,https://en.wikipedia.org/wiki/University_of_Kolwezi,"Kolwezi Center University,UNIKOL,",Kolwezi,,,Democratic Republic of the Congo,CD,,,,,,,
+University of Kota,grid.449826.5,Education,2003 CE,https://www.uok.ac.in/,https://en.wikipedia.org/wiki/University_of_Kota,"UOK,",Kota,,,India,IN,,,,,,,
+University of Zakho,grid.449827.4,Education,2010 CE,http://uoz.edu.krd/,https://en.wikipedia.org/wiki/University_of_Zakho,"UoZ,",Zaxo,,,Iraq,IQ,,,,,,,
+Yalova University,grid.449840.5,Education,2008 CE,http://hukuk.yalova.edu.tr/,https://en.wikipedia.org/wiki/Yalova_University,"University of Yalova,UYA,",Çınarcık,,,Turkey,TR,,,,,,,
+Yanbian University of Science and Technology,grid.449843.6,Education,1992 CE,https://www.yust.edu/,https://en.wikipedia.org/wiki/Yanbian_University_of_Scien...,"YUST,",Yanji,,,China,CN,,,,,,,
+Universidade Livre de Música,grid.449856.2,Education,,,,,São Paulo,,,Brazil,BR,,,,,,,
+University of Makeni,grid.449857.3,Education,2005 CE,http://www.universityofmakeni.com/wordpress/,https://en.wikipedia.org/wiki/University_of_Makeni,"Fatima Institute,UNIMAK,",Makeni,,,Sierra Leone,SL,,,,,,,
+University System of Ohio,grid.449859.d,Education,2007 CE,,https://en.wikipedia.org/wiki/University_System_of_Ohio,,Columbus,,,United States,US,,,,,,,
+University of Religions and Denominations,grid.449872.4,Education,1995 CE,https://urd.ac.ir,https://en.wikipedia.org/wiki/University_of_Religions_and...,"The Center for Studies of Religions,",Qom,,,Iran,IR,,,,,,,
+Italian University Line,grid.449873.5,Education,2005 CE,http://www.iuline.it/,"https://en.wikipedia.org/wiki/Università_""Italian_Univers...","IUL,",Florence,,,Italy,IT,,CENTRO (IT),ITI,Toscana,ITI1,Firenze,ITI14
+"J.C. Bose University of Science & Technology, YMCA",grid.449875.3,Education,1969 CE,http://www.ymcaust.ac.in/,https://en.wikipedia.org/wiki/J.C._Bose_University_of_Sci...,"YMCA University of Science and Technology,YMCA Institute of Engineering,YMCA UST,YMCAIE,",Faridabad,,,India,IN,,,,,,,
+University of Science and Technology of Ivory Coast,grid.449884.d,Education,2009 CE,http://www.rusta-ustci.org/,https://en.wikipedia.org/wiki/University_of_Science_and_T...,"UST-CI,",Abidjan,,,Ivory Coast,CI,,,,,,,
+Rozgan University,grid.449886.f,Education,,,,,Tarinkot,,,Afghanistan,AF,,,,,,,
+Invaz (Czechia),grid.485629.4,Company,2003 CE,http://www.invaz.com/,,,Dvůr Králové nad Labem,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Severovýchod,CZ05,Královéhradecký kraj,CZ052
+Hanoi Medical University Hospital,grid.488446.2,Healthcare,2007 CE,http://www.benhviendaihocyhanoi.com/,,,Hanoi,,,Vietnam,VN,,,,,,,
+Reata Pharmaceuticals (United States),grid.488376.6,Company,2002 CE,https://reatapharma.com/,https://en.wikipedia.org/wiki/Reata_Pharmaceuticals,,Irving,,,United States,US,,,,,,,
+Regulus Therapeutics (United States),grid.488377.7,Company,2007 CE,http://regulusrx.com/,https://en.wikipedia.org/wiki/Regulus_Therapeutics,,San Diego,,,United States,US,,,,,,,
+Vifor Pharma (United States),grid.488378.8,Company,1872 CE,http://www.viforpharma.com/,https://en.wikipedia.org/wiki/Vifor_Pharma,,Somerset,,,United States,US,,,,,,,
+Kaiser (Czechia),grid.485628.5,Company,2001 CE,http://www.kaiser-sro.cz/,,,Rožmitál pod Třemšínem,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Stragen (France),grid.488380.f,Company,1990 CE,http://www.stragen.ch/,,,Lyon,,,France,FR,,CENTRE-EST,FR7,Rhône-Alpes,FR71,Rhône,FR716
+LCC Medical Research Institute,grid.488999.d,Facility,2013 CE,http://www.lccmedicalresearch.us,,,Miami,,,United States,US,,,,,,,
+Joint Replacement Institute,grid.489000.5,Healthcare,,http://jointinstitutefl.com/,,,Naples,,,United States,US,,,,,,,
+AGO Austria,grid.488383.c,Nonprofit,,http://ago-austria.at/,,,Innsbruck,,,Austria,AT,,WESTÖSTERREICH,AT3,Tirol,AT33,Innsbruck,AT332
+Instituto de Salud de Bucaramanga,grid.489001.4,Healthcare,,http://isabu.gov.co/,,"ISABU,",Bucaramanga,,,Colombia,CO,,,,,,,
+IKP Consulting Engineers (Czechia),grid.485615.b,Company,1992 CE,http://www.ikpce.com/int/english.html,,"IKP CE,",Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Macula and Retina Institute,grid.489002.7,Healthcare,,https://maculaandretinainstitute.com/,,,Glendale,,,United States,US,,,,,,,
+Arizona College of Emergency Physicians,grid.488390.e,Healthcare,,http://www.azcep.org/,,"AzCEP,",Phoenix,,,United States,US,,,,,,,
+Jan Palach Private High School,grid.485614.a,Education,1991 CE,http://www.gjp1.cz/new/index2.php?l=60,,"GJP,",Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+"American College of Allergy, Asthma and Immunology",grid.488393.d,Other,1942 CE,http://acaai.org/,https://en.wikipedia.org/wiki/American_College_of_Allergy...,"The American Board of Allergy and Immunology,The American College of Allergists,ABAI,ACAAI,",Arlington Heights,,,United States,US,,,,,,,
+Northern Cancer Institute,grid.489110.5,Healthcare,,http://www.northerncancerinstitute.com.au/,,"NCI,",St Leonards,,,Australia,AU,,,,,,,
+American College of Medical Toxicology,grid.488395.b,Other,1974 CE,http://www.acmt.net/,https://en.wikipedia.org/wiki/American_College_of_Medical...,"ACMT,",Phoenix,,,United States,US,,,,,,,
+American College of Nurse-Midwives,grid.488396.8,Other,1955 CE,http://www.midwife.org/,,"ACNM,",Silver Spring,,,United States,US,,,,,,,
+American College of Phlebology,grid.488397.9,Other,1985 CE,http://www.phlebology.org/,,"ACP,",San Leandro,,,United States,US,,,,,,,
+BrustGesundheitZentrum Tirol,grid.488398.6,Healthcare,,https://brustzentrum-tirol.tirol-kliniken.at/page.cfm?vpa...,,,Innsbruck,,,Austria,AT,,WESTÖSTERREICH,AT3,Tirol,AT33,Innsbruck,AT332
+University Radiology,grid.488399.7,Education,1984 CE,http://utrad.com/,,,Knoxville,,,United States,US,,,,,,,
+BAU International University,grid.488404.4,Education,2004 CE,https://www.bauinternational.com/,https://en.wikipedia.org/wiki/Bah%C3%A7e%C5%9Fehir_Univer...,"Bahçeşehir International University,BAU,","Washington, D.C.",,,United States,US,,,,,,,
+European Optical Society,grid.488400.0,Nonprofit,1991 CE,http://www.myeos.org/,https://en.wikipedia.org/wiki/European_Optical_Society,"European Optical Committee,EOS,EOC,",Joensuu,,,Finland,FI,,MANNER-SUOMI,FI1,Pohjois- ja Itä-Suomi,FI1D,Pohjois-Karjala,FI1D3
+Gumotex (Czechia),grid.485613.d,Company,1950 CE,http://www.gumotex.com/,,,Břeclav,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+Clod Ensemble (United Kingdom),grid.421408.b,Company,1995 CE,https://www.clodensemble.com/,https://en.wikipedia.org/wiki/Clod_Ensemble,,London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+ABS Consulting (United States),grid.421407.4,Company,1991 CE,http://www.absconsulting.com/,,,Houston,,,United States,US,,,,,,,
+InteSys (United Kingdom),grid.425238.a,Company,,http://www.e-intesys.com/,,,Birmingham,,,United Kingdom,GB,,WEST MIDLANDS (ENGLAND),UKG,West Midlands,UKG3,Birmingham,UKG31
+Celerion (Canada),grid.421406.5,Company,2010 CE,http://celerion.com/,,,Montréal,,,Canada,CA,,,,,,,
+FFA Sciences (United States),grid.421400.3,Company,1998 CE,https://ffasciences.com/,,,San Diego,,,United States,US,,,,,,,
+Vdlconsult,grid.425255.1,Company,2003 CE,http://www.intospace.de/,,,Hannover,,,Germany,DE,,NIEDERSACHSEN,DE9,Hannover,DE92,Region Hannover,DE929
+IntuiLab (France),grid.425259.d,Company,2002 CE,,,,Labège,,,France,FR,,SUD-OUEST,FR6,Midi-Pyrénées,FR62,Haute-Garonne,FR623
+Marzotto Group (Italy),grid.425260.7,Company,1836 CE,https://www.marzottogroup.it/,https://en.wikipedia.org/wiki/Marzotto,,Valdagno,,,Italy,IT,,NORD-EST,ITH,Veneto,ITH3,Vicenza,ITH32
+Invent (Germany),grid.425269.e,Company,1996 CE,https://www.invent-gmbh.de/en,,,Braunschweig,,,Germany,DE,,NIEDERSACHSEN,DE9,Braunschweig,DE91,"Braunschweig, Kreisfreie Stadt",DE911
+Epirus Biopharmaceuticals (United States),grid.422529.a,Company,,http://www.epirusbiopharma.com/,,,Boston,,,United States,US,,,,,,,
+Waterloo CFD Engineering Consulting,grid.422528.b,Company,2003 CE,http://www.watcfd.com/index.html,,,Waterloo,,,Canada,CA,,,,,,,
+Wave 80 Biosciences (United States),grid.422548.d,Company,2003 CE,http://www.wave80.com/,,,San Francisco,,,United States,US,,,,,,,
+NeuroDx Development (United States),grid.422514.4,Company,,https://neurodx.com/,,,Yardley,,,United States,US,,,,,,,
+Noble Life Sciences (United States),grid.422513.3,Company,2010 CE,https://noblelifesci.com/,,,Frederick,,,United States,US,,,,,,,
+TRUMPF (United Kingdom),grid.422511.1,Company,1923 CE,https://www.trumpf.com/,,,Luton,,,United Kingdom,GB,,EAST OF ENGLAND,UKH,Bedfordshire and Hertfordshire,UKH2,Central Bedfordshire,UKH25
+Neuroscript (United States),grid.422555.1,Company,1997 CE,https://neuroscript.net/,,,Tempe,,,United States,US,,,,,,,
+Neurobehavioral Research (United States),grid.422505.4,Company,1999 CE,http://nbrresearch.com/,,"NBR,",Kīhei,,,United States,US,,,,,,,
+Sunnyside Sea Farms (United States),grid.422563.4,Company,1980 CE,http://www.seafarms.com/,,,Goleta,,,United States,US,,,,,,,
+Spectros Corporation (United States),grid.422504.5,Company,1995 CE,http://www.spectros.com/home.html,,,Campbell,,,United States,US,,,,,,,
+Nesher Technologies (United States),grid.422502.3,Company,1925 CE,http://www.neshertech.com/,,"NTI,",Los Angeles,,,United States,US,,,,,,,
+Toxikon (United States),grid.422495.c,Company,1977 CE,http://toxikon.com/,,,Bedford,,,United States,US,,,,,,,
+Academy for Science and Design,grid.422578.e,Education,2006 CE,,https://en.wikipedia.org/wiki/Academy_for_Science_and_Design,"ASD,",Nashua,,,United States,US,,,,,,,
+Welichem Biotech (Canada),grid.422587.e,Company,1995 CE,http://www.welichem.com/,,,Burnaby,,,Canada,CA,,,,,,,
+NeurAxon (Canada),grid.422486.e,Company,2004 CE,http://www.neuraxon.com/,,,Mississauga,,,Canada,CA,,,,,,,
+Global Convergence (United States),grid.422472.5,Company,1994 CE,https://www.globalconvergence.com/,,,Oldsmar,,,United States,US,,,,,,,
+Accounting and Finance Association of Australia and New Zealand,grid.470745.5,Other,1960 CE,http://www.afaanz.org/,https://en.wikipedia.org/wiki/Accounting_and_Finance_Asso...,"AFAANZ,",Carlton,,,Australia,AU,,,,,,,
+Sociedade Brasileira de Pediatria,grid.470744.4,Nonprofit,1910 CE,https://www.sbp.com.br/,,"SBP,",São Paulo,,,Brazil,BR,,,,,,,
+Alzheimer's Association of Israel,grid.473768.9,Nonprofit,1988 CE,http://www.alz-il.net/lang/186-english-2,,"AAI,",Ramat Gan,,,Israel,IL,,,,,,,
+Bladder Cancer Advocacy Network,grid.473769.8,Nonprofit,2005 CE,http://www.bcan.org/,,"BCAN,",Bethesda,,,United States,US,,,,,,,
+"Research, Design and Technology Institute Cable",grid.473770.0,Facility,1952 CE,http://www.vniikp.ru/,,"IECI,",Tomsk,,,Russia,RU,,,,,,,
+British Society for Plant Pathology,grid.470743.3,Nonprofit,1981 CE,http://www.bspp.org.uk/,https://en.wikipedia.org/wiki/British_Society_for_Plant_P...,"BSPP,",London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+CoMentis (United States),grid.473791.f,Company,2006 CE,http://comentis.com/,,,San Francisco,,,United States,US,,,,,,,
+Office of Inspector General,grid.473792.c,Government,,https://www.nsf.gov/oig/,,"OIG,",Arlington,,,United States,US,,,,,,,
+Supply Chain Competence Center (Germany),grid.473793.d,Other,2005 CE,http://www.scc-center.de/,,"SCC-Center,scc,",Munich,,,Germany,DE,,BAYERN,DE2,Oberbayern,DE21,"München, Landkreis",DE21H
+Japanese Circulation Society,grid.470737.0,Other,1935 CE,http://www.j-circ.or.jp/english/,,"JCS,",Tokyo,,,Japan,JP,,,,,,,
+Canadian Animal Health Institute,grid.470736.1,Nonprofit,,http://www.cahi-icsa.ca/,,"ICSA,CAHI,",Guelph,,,Canada,CA,,,,,,,
+Werner-Wicker-Klinik,grid.473815.c,Healthcare,1978 CE,http://www.werner-wicker-klinik.de/,,,Bad Wildungen,,,Germany,DE,,HESSEN,DE7,Kassel,DE73,Waldeck-Frankenberg,DE736
+"United Nations University Institute on Globalization, Culture and Mobility",grid.473816.f,Education,1973 CE,http://gcm.unu.edu/,https://en.wikipedia.org/wiki/United_Nations_University,"UNU-GCM,",Barcelona,,,Spain,ES,,ESTE,ES5,Cataluña,ES51,Barcelona,ES511
+NIHR Academy,grid.473834.f,Government,2013 CE,https://www.nihr.ac.uk/explore-nihr/support/academy.htm,,"TCC,",Leeds,,,United Kingdom,GB,,YORKSHIRE AND THE HUMBER,UKE,West Yorkshire,UKE4,Leeds,UKE42
+National Marine Sanctuaries,grid.473835.e,Government,1972 CE,http://sanctuaries.noaa.gov/,https://en.wikipedia.org/wiki/United_States_National_Mari...,"United States National Marine Sanctuary,NOAA Office of National Marine Sanctuaries,",Silver Spring,,,United States,US,,,,,,,
+Moss Landing Marine Laboratories,grid.473836.d,Facility,1966 CE,https://www.mlml.calstate.edu/,https://en.wikipedia.org/wiki/Moss_Landing_Marine_Laborat...,"MLML,",Monterey,,,United States,US,,,,,,,
+Canadian Hydrographic Service,grid.473837.c,Government,1883 CE,http://www.charts.gc.ca/index-eng.asp,https://en.wikipedia.org/wiki/Canadian_Hydrographic_Service,"CHS,",Ottawa,,,Canada,CA,,,,,,,
+Tavis Smiley Foundation,grid.475443.5,Nonprofit,1999 CE,http://www.youthtoleaders.org/,,,Los Angeles,,,United States,US,,,,,,,
+Administration for Children and Families,grid.473856.b,Government,1991 CE,https://www.acf.hhs.gov/,,"ACF,","Washington, D.C.",,,United States,US,,,,,,,
+British Psychological Society,grid.470735.2,Other,1901 CE,http://www.bps.org.uk/,https://en.wikipedia.org/wiki/British_Psychological_Society,"BPS,",Leicester,,,United Kingdom,GB,,EAST MIDLANDS (ENGLAND),UKF,"Leicestershire, Rutland and Northamptonshire",UKF2,Leicestershire CC and Rutland,UKF22
+Center for Research on Political Economy,grid.473859.4,Facility,2009 CE,http://www.crepol.org/,,"CREPOL,",Dakar,,,Senegal,SN,,,,,,,
+Association of universities in the Netherlands,grid.470734.3,Nonprofit,1940 CE,http://www.vsnu.nl/en_GB,,"Vereniging van Universiteiten,VSNU,",The Hague,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Zuid-Holland,NL33,Agglomeratie 's-Gravenhage,NL332
+Asian Transportation Research Society,grid.470796.b,Other,,http://www.atransociety.com/2016/,,"ATRANS,",Bangkok,,,Thailand,TH,,,,,,,
+Mitutoyo Association for Science and Technology,grid.470725.3,Other,1999 CE,http://www.mast.or.jp/index_a.html,,"MAST,",Kawasaki,,,Japan,JP,,,,,,,
+Central City Brewers and Distillers (Canada),grid.473887.7,Company,2003 CE,http://centralcitybrewing.com/,,,Surrey,,,Canada,CA,,,,,,,
+Tecnident (Brazil),grid.456921.d,Company,,http://tecnident.com.br/,,,São Carlos,,,Brazil,BR,,,,,,,
+Tecnima (Brazil),grid.456922.e,Company,1999 CE,http://www.tecnima.com.br/site/index.asp,,,São José dos Campos,,,Brazil,BR,,,,,,,
+Tecnocard (Brazil),grid.456923.f,Company,2006 CE,http://www.tecnocard.com.br/,,,São Vicente,,,Brazil,BR,,,,,,,
+SST it solutions (Brazil),grid.456924.8,Company,1996 CE,http://www.sstnet.com.br/,,,São Paulo,,,Brazil,BR,,,,,,,
+Brazilian Society of Computational and Applied Mathematics,grid.456930.d,Other,1978 CE,http://www.sbmac.org.br/,https://en.wikipedia.org/wiki/Sociedade_Brasileira_de_Mat...,"SBMAC,",São Carlos,,,Brazil,BR,,,,,,,
+Terra Viva Consultoria Ambiental (Brazil),grid.456931.c,Company,,http://www.terravivaconsultoria.com.br/,,,São Gotardo,,,Brazil,BR,,,,,,,
+B&W Tek (United States),grid.455333.7,Company,1997 CE,http://bwtek.com/,,,Newark,,,United States,US,,,,,,,
+Blue Sky Electronics (United States),grid.455331.5,Company,,http://blueskyelectronics.com/,,,Houston,,,United States,US,,,,,,,
+Tezca (Brazil),grid.456934.9,Company,,http://tezca.com.br/ingles/index.html,,,Campinas,,,Brazil,BR,,,,,,,
+Uranet (Brazil),grid.456935.8,Company,1991 CE,https://www.uranet.com.br/,,,São Paulo,,,Brazil,BR,,,,,,,
+Urbem Tecnologia Ambiental (Brazil),grid.456936.b,Company,,http://www.urbem.com.br/principal.htm,,,São Bernardo do Campo,,,Brazil,BR,,,,,,,
+Thema (Brazil),grid.456937.a,Company,1993 CE,http://poderinfo.servehttp.com:8081/index.asp,,,Jandira,,,Brazil,BR,,,,,,,
+Charter Oak State College,grid.454569.f,Education,1973 CE,http://www.charteroak.edu/,https://en.wikipedia.org/wiki/Charter_Oak_State_College,"Charter Oak College,COSC,",New Britain,,,United States,US,,,,,,,
+Watanabe Applied Technology (Brazil),grid.456948.2,Company,,http://www.wtavet.com.br/index.php?route=common/home,,"WTA,",Cravinhos,,,Brazil,BR,,,,,,,
+Ticon (Brazil),grid.456949.3,Company,1985 CE,http://ticon.com.br/en/,,,Diadema,,,Brazil,BR,,,,,,,
+Cascade Designs (United States),grid.455330.4,Company,1972 CE,http://www.cascadedesigns.com/,https://en.wikipedia.org/wiki/Cascade_Designs,,Seattle,,,United States,US,,,,,,,
+Norsk Matematisk Forening,grid.458548.0,Other,1918 CE,http://matematikkforeningen.no/,,"NMF,",Trondheim,,,Norway,NO,,,,,,,
+Brazilian Society of Protozoology,grid.456952.9,Other,2010 CE,http://www.sbpz.org.br/,,"SBPz,",São Paulo,,,Brazil,BR,,,,,,,
+XMobots (Brazil),grid.456959.2,Company,2007 CE,http://www.xmobots.com/#,,,São Carlos,,,Brazil,BR,,,,,,,
+Advanced Processing Technology (United States),grid.455312.4,Company,1980 CE,http://www.avproinc.com/,,"AvPro,",Norman,,,United States,US,,,,,,,
+Blade Diagnostics (United States),grid.455311.7,Company,,http://bladediagnostics.com/,,"BDC,",Pittsburgh,,,United States,US,,,,,,,
+Secretaria do Governo Municipal,grid.456962.a,Government,,http://www.prefeitura.sp.gov.br/cidade/secretarias/governo/,,"SGM,",São Paulo,,,Brazil,BR,,,,,,,
+Avisys (United States),grid.455309.e,Company,2005 CE,http://www.avisysinc.com/,,"L-3 Communications AVISYS Corporation,",Austin,,,United States,US,,,,,,,
+Sociedade Brasileira Para o Desenvolvimento da Pesquisa em Cirurgia,grid.456964.c,Other,1987 CE,http://www.sobradpec.org.br/,,"SOBRADPEC,",São Paulo,,,Brazil,BR,,,,,,,
+Anasphere (United States),grid.455308.f,Company,2006 CE,http://www.anasphere.com/,,,Bozeman,,,United States,US,,,,,,,
+Unisen Group (China),grid.493675.a,Company,1996 CE,http://www.unisengroup.com/,,"Dongguan City Kangmao Eletronic Ltd,",Dongguan,,,China,CN,,,,,,,
+Hong Kong Institute of Vocational Education,grid.493674.b,Education,1999 CE,http://www.ive.edu.hk/i,https://en.wikipedia.org/wiki/Hong_Kong_Institute_of_Voca...,"IVE,",Hong Kong,,,China,CN,,,,,,,
+Platysens (China),grid.493668.6,Company,2014 CE,http://www.platysens.com/,,,Hong Kong,,,China,CN,,,,,,,
+Hong Kong Information Technology Federation,grid.493667.9,Nonprofit,1980 CE,http://www.hkitf.org.hk/,,"HKITF,",Hong Kong,,,China,CN,,,,,,,
+Hong Kong Hotels Association,grid.493666.8,Other,1961 CE,http://www.hkha.com.hk/,,"HKHA,",Hong Kong,,,China,CN,,,,,,,
+Bloombase (China),grid.493665.b,Company,,https://www.bloombase.com/,,,Hong Kong,,,China,CN,,,,,,,
+TradeCity Cybersoft (China),grid.493664.a,Company,,https://tccybersoft.en.ec21.com/,,"TCC,",Hong Kong,,,China,CN,,,,,,,
+Hong Kong Telecommunications Limited (China),grid.493639.2,Company,1988 CE,http://www.hkt.com/?language=en_US,,"HKT,",Hong Kong,,,China,CN,,,,,,,
+Hong Kong Electrical Appliances Manufacturers Association,grid.493638.3,Nonprofit,1998 CE,http://www.hkeama.org/,,,Hong Kong,,,China,CN,,,,,,,
+Peer Intelligence Technology (China),grid.493637.c,Company,2002 CE,http://www.pithk.com/,,"PITech,",Hong Kong,,,China,CN,,,,,,,
+Atpath Technologies (China),grid.493636.d,Company,1998 CE,http://www.atpath.com/en/,,,Sha Tin,,,China,CN,,,,,,,
+Pedorthic Technology (China),grid.493635.e,Company,1997 CE,http://www.ezped.com/eindex.html,,,Hong Kong,,,China,CN,,,,,,,
+AppoTech (China),grid.493626.c,Company,2003 CE,http://www.appotech.com/,,,Sha Tin,,,China,CN,,,,,,,
+Dragonchip (China),grid.493625.f,Company,2001 CE,http://www.dragonchip.com/DragonWeb/index.php,,,Sha Tin,,,China,CN,,,,,,,
+Pacific World Industrial (China),grid.493624.e,Company,2002 CE,https://www.pacificworld.com.hk/,,,Hong Kong,,,China,CN,,,,,,,
+Cyberport,grid.493623.9,Other,1999 CE,https://www.cyberport.hk/en,https://en.wikipedia.org/wiki/Cyberport,,Hong Kong,,,China,CN,,,,,,,
+Dracaena Life (China),grid.493622.8,Company,2009 CE,http://www.dracaena-lifetech.com/home.html,,"Dracaena Life Technologies,",Sha Tin,,,China,CN,,,,,,,
+Amasic (China),grid.493611.8,Company,,http://www.amasic.com.hk,,"Analog Mixed-signal Application Specific Integrated Circuit,",Sha Tin,,,China,CN,,,,,,,
+Oursky (China),grid.493610.9,Company,,https://oursky.com/,,,Hong Kong,,,China,CN,,,,,,,
+Alford Industries (China),grid.493609.1,Company,1992 CE,http://www.alford.com.hk/,,,Hong Kong,,,China,CN,,,,,,,
+IT Channel (China),grid.493608.0,Company,2003 CE,https://www.itchannel.asia/eng/,,,Hong Kong,,,China,CN,,,,,,,
+AiSoft Technology (China),grid.493607.f,Company,1999 CE,http://aisoft.com.hk/,,,Hong Kong,,,China,CN,,,,,,,
+DiagCor (China),grid.493600.8,Company,2006 CE,http://www.diagcor.com/,,,Hong Kong,,,China,CN,,,,,,,
+Internet Professional Association,grid.493599.b,Nonprofit,1999 CE,http://www.iproa.org/,https://en.wikipedia.org/wiki/Internet_Professional_Assoc...,"iProA,",Hong Kong,,,China,CN,,,,,,,
+Hong Kong Blind Union,grid.493598.a,Other,1964 CE,http://www.hkbu.org.hk,,,Hong Kong,,,China,CN,,,,,,,
+Mosaic,grid.429329.7,Nonprofit,1993 CE,https://mosaic.org.za/,,,Cape Town,,,South Africa,ZA,,,,,,,
+Mendocino Community Health Clinic,grid.429335.a,Healthcare,1992 CE,https://www.mchcinc.org/,,"MCHC,",Ukiah,,,United States,US,,,,,,,
+Mendocino County AIDS / Viral Hepatitis Network,grid.429337.8,Nonprofit,1987 CE,https://newmcavhn.org/,,"MCAVHN,",Ukiah,,,United States,US,,,,,,,
+The Harris Center for Mental Health and IDD,grid.429342.a,Healthcare,1965 CE,http://theharriscenter.org/,,"MHMRA,",Houston,,,United States,US,,,,,,,
+MentiNova (United States),grid.429343.b,Company,2012 CE,http://www.mentinova.com/,,,New Brunswick,,,United States,US,,,,,,,
+Lady of the Sea General Hospital,grid.429345.d,Healthcare,,http://www.losgh.org/,,"LOSGH,",Cut Off,,,United States,US,,,,,,,
+Mercer County Health Department,grid.429346.e,Government,1989 CE,http://www.mercercountyil.org/Departments/Health.aspx,,,Aledo,,,United States,US,,,,,,,
+Mahoning County Educational Service Center,grid.429347.f,Education,,https://www.mahoningesc.org/,,"MCESC,",Canfield,,,United States,US,,,,,,,
+Settlement Music School,grid.429348.0,Education,1908 CE,https://settlementmusic.org,https://en.wikipedia.org/wiki/Settlement_Music_School,,Philadelphia,,,United States,US,,,,,,,
+McLaren Macomb,grid.429349.1,Healthcare,1945 CE,https://www.mclaren.org/macomb/mclaren-macomb-home,,,Mount Clemens,,,United States,US,,,,,,,
+Lakes Region General Hospital,grid.429350.9,Healthcare,1908 CE,http://www.lrgh.org/about-lrghealthcare/welcome-to-lakes-...,,"LRGH,",Laconia,,,United States,US,,,,,,,
+Lakeshore Foundation,grid.429351.8,Nonprofit,1984 CE,https://www.lakeshore.org/,,,Birmingham,,,United States,US,,,,,,,
+Karla J. Williams Foundation,grid.429352.b,Nonprofit,,http://www.karlajwilliamsfoundation.org/,,,Sacramento,,,United States,US,,,,,,,
+HaitiChildren,grid.429353.a,Nonprofit,1994 CE,https://haitichildren.org/,,"Mercy and Sharing,HC,",Carbondale,,,United States,US,,,,,,,
+Maine Adaptive Sports & Recreation,grid.429358.1,Nonprofit,1982 CE,https://www.maineadaptive.org/,,,Oxford,,,United States,US,,,,,,,
+Lancaster County Medical Society,grid.429359.0,Healthcare,1898 CE,http://www.lcmsne.org/,,"LCMS,",Lincoln,,,United States,US,,,,,,,
+New England Cancer Specialists,grid.429361.b,Healthcare,1978 CE,https://www.newenglandcancerspecialists.org/,,"NECS,",Scarborough,,,United States,US,,,,,,,
+Ascension Via Christi Hospital,grid.429367.d,Healthcare,,https://www.viachristi.org/location/via-christi-hospital-...,,,Manhattan,,,United States,US,,,,,,,
+Kannur Medical College,grid.429370.b,Education,2006 CE,https://kannurmedicalcollege.ac.in/,https://en.wikipedia.org/wiki/Kannur_Medical_College,"KMCH,",Kannur,,,India,IN,,,,,,,
+Kalpana Chawla Government Medical College and Hospital,grid.429371.a,Education,2017 CE,http://www.kcgmc.edu.in/,https://en.wikipedia.org/wiki/Kalpana_Chawla_Government_M...,"KCGMC,",Karnāl,,,India,IN,,,,,,,
+Mountain Empire Older Citizens,grid.429372.9,Nonprofit,1974 CE,https://meoc.org/,,"MEOC,",Big Stone Gap,,,United States,US,,,,,,,
+Latinas Contra Cancer,grid.429373.8,Nonprofit,2003 CE,http://latinascontracancer.org/,,"LCC,",San Jose,,,United States,US,,,,,,,
+Kasiak Research (India),grid.429379.2,Company,2005 CE,http://www.kasiakresearch.com/,,,Mumbai,,,India,IN,,,,,,,
+Make A Hero,grid.429381.5,Nonprofit,,https://www.makeahero.org/,,,Boulder,,,United States,US,,,,,,,
+Granada Hills Community Hospital,grid.429396.3,Healthcare,1965 CE,,,,Los Angeles,,,United States,US,,,,,,,
+International Confederation of Midwives,grid.475203.7,Nonprofit,1919 CE,http://www.internationalmidwives.org/,https://en.wikipedia.org/wiki/International_Confederation...,"ICM,",The Hague,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Zuid-Holland,NL33,Agglomeratie 's-Gravenhage,NL332
+Augusta-Richmond County Public Library System,grid.475195.b,Archive,1994 CE,http://arcpls.org/,,,Augusta,,,United States,US,,,,,,,
+Foundation For The Carolinas,grid.475194.a,Nonprofit,1958 CE,http://www.fftc.org/,,"FFTC,",Charlotte,,,United States,US,,,,,,,
+Dover Town Library,grid.475186.9,Archive,1894 CE,http://dovertownlibrary.org/,,,Dover,,,United States,US,,,,,,,
+Center for Autisme,grid.477960.b,Nonprofit,1994 CE,http://www.centerforautisme.dk/,,,Herlev,,,Denmark,DK,,DANMARK,DK0,Hovedstaden,DK01,Københavns omegn,DK012
+Telethon Foundation,grid.477961.a,Nonprofit,1947 CE,http://www.teleton.cl/,,,Santiago,,,Chile,CL,,,,,,,
+GSMA (United States),grid.475185.a,Company,1995 CE,http://www.gsma.com/,https://en.wikipedia.org/wiki/GSMA,"GSM MoU Association,",Atlanta,,,United States,US,,,,,,,
+Kitov Pharmaceuticals (Israel),grid.476443.6,Company,2010 CE,http://kitovpharma.com/,,,Tel Aviv,,,Israel,IL,,,,,,,
+Synergy Research Centers,grid.477962.9,Facility,,http://www.synergyresearchcenters.com/,,,National City,,,United States,US,,,,,,,
+Katholisches Klinikum Ruhrgebiet Nord GmbH,grid.476445.0,Healthcare,,http://www.kkrn.de/,,"KKRN,",Marl,,,Germany,DE,,NORDRHEIN-WESTFALEN,DEA,Münster,DEA3,Recklinghausen,DEA36
+Insmed (United Kingdom),grid.476452.6,Company,1988 CE,http://www.insmed.com/,,,London,,,United Kingdom,GB,,LONDON,UKI,Inner London - West,UKI3,Westminster,UKI32
+Horsley Medical Practice,grid.477963.8,Healthcare,,http://www.horsleydocs.co.uk/,,,East Horsley,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,"Surrey, East and West Sussex",UKJ2,West Surrey,UKJ25
+LETI Pharma (Germany),grid.476454.0,Company,,https://leti.de/,,,Ismaning,,,Germany,DE,,BAYERN,DE2,Oberbayern,DE21,"München, Landkreis",DE21H
+Intercept Pharmaceuticals (United States),grid.476455.1,Company,2002 CE,https://interceptpharma.com/,https://en.wikipedia.org/wiki/Intercept_Pharmaceuticals,,New York City,,,United States,US,,,,,,,
+Matrizyme (Canada),grid.476472.4,Company,,http://www.matrizyme.com/,,,Richmond Hill,,,Canada,CA,,,,,,,
+Douglas Public Library,grid.475184.b,Nonprofit,1901 CE,http://www.douglasaz.org/,,,Douglas,,,United States,US,,,,,,,
+SiILion (United states),grid.474660.7,Company,,http://www.siilion.com/,,,Broomfield,,,United States,US,,,,,,,
+Therapeutische Drug Monitoring Kinder-und Jugendpsychiatrie,grid.476462.5,Healthcare,,http://www.tdm-kjp.de/eng/,,"TDM-KJP,",Ulm,,,Germany,DE,,BADEN-WÜRTTEMBERG,DE1,Tübingen,DE14,"Ulm, Stadtkreis",DE144
+Melbourne Clinic,grid.477970.a,Healthcare,1978 CE,http://www.themelbourneclinic.com.au/,,,Richmond,,,Australia,AU,,,,,,,
+Eye Institute of West Florida,grid.477971.b,Facility,1974 CE,http://www.eyespecialist.com/,,,Largo,,,United States,US,,,,,,,
+Dr. Reddy's Laboratories (Spain),grid.476469.e,Company,1984 CE,http://www.drreddys.com/,https://en.wikipedia.org/wiki/Dr._Reddy's_Laboratories,,Madrid,,,Spain,ES,,COMUNIDAD DE MADRID,ES3,Comunidad de Madrid,ES30,Madrid,ES300
+Intermed Pharmaceutical Laboratories (Greece),grid.476470.6,Company,1996 CE,https://intermed.com.gr/en,,,Kifisiá,,,Greece,GR,,,,,,,
+International Alliance for Biological Standardization,grid.475182.d,Nonprofit,1950 CE,http://www.iabs.org/,,"IABS,",Genève,,,Switzerland,CH,,,,,,,
+Johnson & Johnson (Sweden),grid.476477.1,Company,1886 CE,https://www.jnj.com/,https://en.wikipedia.org/wiki/Johnson_%26_Johnson,,Solna,,,Sweden,SE,,ÖSTRA SVERIGE,SE1,Stockholm,SE11,Stockholms län,SE110
+Grameen Research,grid.475171.1,Nonprofit,,http://grameenresearch.org/,,,Woburn,,,United States,US,,,,,,,
+Allergy Therapeutics (United Kingdom),grid.488246.4,Company,1998 CE,http://www.allergytherapeutics.com/,,,Worthing,,,United Kingdom,GB,,SOUTH EAST (ENGLAND),UKJ,"Surrey, East and West Sussex",UKJ2,West Sussex (South West),UKJ27
+Immunogenics (United States),grid.488247.5,Company,2013 CE,http://www.immunogenx.com/,,,Newport Beach,,,United States,US,,,,,,,
+Aqualis (Norway),grid.488248.a,Company,2012 CE,http://aqualisoffshore.com/,,,Oslo,,,Norway,NO,,,,,,,
+An-Institut für Qualitätssicherung in der operativen Medizin,grid.488255.6,Other,2000 CE,http://www.an-institut.de/,,,Magdeburg,,,Germany,DE,,SACHSEN-ANHALT,DEE,Sachsen-Anhalt,DEE0,Börde,DEE07
+European Association of Nuclear Medicine,grid.488256.5,Other,1985 CE,http://www.eanm.org/,,"EANM,",Vienna,,,Austria,AT,,OSTÖSTERREICH,AT1,Wien,AT13,Wien,AT130
+Eli Lilly (Italy),grid.488258.b,Company,1876 CE,http://www.lilly.it,https://en.wikipedia.org/wiki/Eli_Lilly_and_Company,,Sesto Fiorentino,,,Italy,IT,,CENTRO (IT),ITI,Toscana,ITI1,Firenze,ITI14
+LABCATAL (France),grid.488263.3,Company,1989 CE,http://www.labcatal.com/,,,Montrouge,,,France,FR,,ÎLE DE FRANCE,FR1,Île de France,FR10,Hauts-de-Seine,FR105
+Esperion Therapeutics (United States),grid.488264.4,Company,2008 CE,http://www.esperion.com/,https://en.wikipedia.org/wiki/Esperion_Therapeutics,,Ann Arbor,,,United States,US,,,,,,,
+CTI BioPharma (United States),grid.488265.5,Company,1991 CE,http://www.ctibiopharma.com/,,,Seattle,,,United States,US,,,,,,,
+Cytori Therapeutics (United States),grid.488266.6,Company,2002 CE,http://www.cytori.com/,https://en.wikipedia.org/wiki/Cytori_Therapeutics,,San Diego,,,United States,US,,,,,,,
+Gilead Sciences (Spain),grid.488275.4,Company,1994 CE,http://www.gilead.com/about/worldwide-operations/europe/s...,,,Madrid,,,Spain,ES,,COMUNIDAD DE MADRID,ES3,Comunidad de Madrid,ES30,Madrid,ES300
+AstraZeneca (Finland),grid.488280.e,Company,1999 CE,https://www.astrazeneca.fi/,https://en.wikipedia.org/wiki/AstraZeneca,,Espoo,,,Finland,FI,,MANNER-SUOMI,FI1,Helsinki-Uusimaa,FI1B,Helsinki-Uusimaa,FI1B1
+Farmaceutici Damor (Italy),grid.488281.f,Company,1943 CE,https://www.farmadamor.it/,,,Naples,,,Italy,IT,,SUD,ITF,Campania,ITF3,Napoli,ITF33
+Neurim Pharmaceuticals (Israel),grid.488321.4,Company,1991 CE,http://www.neurim.com/,,,Tel Aviv,,,Israel,IL,,,,,,,
+Ferring Pharmaceuticals (Germany),grid.488291.e,Company,1950 CE,http://ferring.de/,https://en.wikipedia.org/wiki/Ferring_Pharmaceuticals,"Ferring Holding SA,",Kiel,,,Germany,DE,,SCHLESWIG-HOLSTEIN,DEF,Schleswig-Holstein,DEF0,Rendsburg-Eckernförde,DEF0B
+Lundbeck (Italy),grid.488292.d,Company,1929 CE,http://www.lundbeck.com/lupi,,"LUPI,",Padova,,,Italy,IT,,NORD-EST,ITH,Veneto,ITH3,Padova,ITH36
+Baxter (Belgium),grid.488298.7,Company,1954 CE,http://www.baxter.be/,https://en.wikipedia.org/wiki/Baxter_International,,Lessines,,,Belgium,BE,,RÉGION WALLONNE,BE3,Prov. Hainaut,BE32,Arr. Soignies,BE325
+Bayer (Italy),grid.488299.6,Company,1863 CE,http://www.bayer.it/,https://en.wikipedia.org/wiki/Bayer,,Milan,,,Italy,IT,,NORD-OVEST,ITC,Lombardia,ITC4,Milano,ITC4C
+Bellerophon Therapeutics (United States),grid.488300.7,Company,2009 CE,http://www.bellerophon.com/,,,Warren Township,,,United States,US,,,,,,,
+Grupo Español de Cáncer de Pulmón,grid.488301.6,Nonprofit,1991 CE,https://www.gecp.org/,,"GECP,",Barcelona,,,Spain,ES,,ESTE,ES5,Cataluña,ES51,Barcelona,ES511
+Foundation for Liver and Gastrointestinal Research,grid.488303.4,Facility,1985 CE,http://liver-gi.nl/homepage-english,,"SLO,",Rotterdam,,,Netherlands,NL,,WEST-NEDERLAND,NL3,Zuid-Holland,NL33,Groot-Rijnmond,NL339
+Spanish Ovarian Cancer Research Group,grid.488304.3,Nonprofit,1999 CE,https://www.geicogroup.com/en/logout-en/,,"GEICO,",Barcelona,,,Spain,ES,,ESTE,ES5,Cataluña,ES51,Barcelona,ES511
+Grupo Español de Tumores Neuroendocrinos,grid.488309.e,Healthcare,2005 CE,http://www.getne.org/,,"Spanish group of neuroendocrine tumors,GETNE,",Barcelona,,,Spain,ES,,ESTE,ES5,Cataluña,ES51,Barcelona,ES511
+N-Gene (United States),grid.488310.6,Company,1997 CE,http://ngene.us/,,,New York City,,,United States,US,,,,,,,
+NanoCarrier (Japan),grid.488311.7,Company,1996 CE,http://www.nanocarrier.co.jp/en/index.html,,,Kashiwa,,,Japan,JP,,,,,,,
+Dekra (Czechia),grid.447976.f,Company,1925 CE,http://www.dekra-certification.com/en/praha,https://en.wikipedia.org/wiki/Dekra,"Deutscher Kraftfahrzeug-Überwachungs-Verein,",Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+KRD (Czechia),grid.447977.e,Company,1997 CE,http://www.krd.cz/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+B&C Dopravní Systémy (Czechia),grid.447979.0,Company,,http://www.bcds.cz/,,,Libochovice,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Severozápad,CZ04,Ústecký kraj,CZ042
+Advanced Power Electronics (United States),grid.455188.5,Company,2001 CE,http://apecor.com/,,"ApECOR,",Orlando,,,United States,US,,,,,,,
+OT Energy Services (Czechia),grid.447993.4,Company,1993 CE,http://www.ic-energo.com/,,"I&C Energo,",Třebíč,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Kraj Vysočina,CZ063
+Betosan (Czechia),grid.447996.1,Company,1992 CE,http://www.betosan.cz,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+HVM Plasma (Czechia),grid.448008.0,Company,1992 CE,http://www.hvm.cz/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Litmas (Czechia),grid.448011.8,Company,,,,,Tanvald,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Severovýchod,CZ05,Liberecký kraj,CZ051
+BLOCK (Czechia),grid.448022.8,Company,1991 CE,http://www.blockcrs.cz/,,,Valašské Meziříčí,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Morava,CZ07,Zlínský kraj,CZ072
+SQS Fiber Optics (Czechia),grid.448030.b,Company,1994 CE,http://www.sqs-fiberoptics.com/,,,Nová Paka,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Severovýchod,CZ05,Královéhradecký kraj,CZ052
+Borcad (Czechia),grid.448032.9,Company,1990 CE,http://www.borcad.cz/,,,Fryčovice,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Moravskoslezsko,CZ08,Moravskoslezský kraj,CZ080
+MathAn Praha (Czechia),grid.448033.8,Company,1993 CE,http://www.mathan.cz/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+MBT Metal (Czechia),grid.448041.d,Company,1994 CE,http://www.mbtmetal.cz/eng/,,,Frýdlant nad Ostravicí,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Moravskoslezsko,CZ08,Moravskoslezský kraj,CZ080
+Brano Group (Czechia),grid.448042.e,Company,2005 CE,http://www.brano.eu/,,,Hradec nad Moravici,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Moravskoslezsko,CZ08,Moravskoslezský kraj,CZ080
+Polygra (Czechia),grid.448054.9,Company,1990 CE,http://www.polygra.cz/,,,Brno,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+BTL Zdravotnická Technika (Czechia),grid.448055.8,Company,1993 CE,https://www.btl.cz/,,"BTL,",Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Stavexis (Czechia),grid.448056.b,Company,,http://www.stavexis.cz/,,,Brno,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+Stavus (Czechia),grid.448057.a,Company,1992 CE,http://stavus.cz/,,,Příbram,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Stomix (Czechia),grid.448067.9,Company,1993 CE,http://www.stomix.cz/cz/home/home.html,,,Jeseník,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Morava,CZ07,Olomoucký kraj,CZ071
+Pontex (Czechia),grid.448068.6,Company,1992 CE,http://www.pontex.cz/profile,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Vyrtych (Czechia),grid.448069.7,Company,1924 CE,http://www.vyrtych.cz/,,,Březno,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Severozápad,CZ04,Ústecký kraj,CZ042
+Portál (Czechia),grid.448070.f,Company,1990 CE,http://www.portal.cz/o-portalu/english-information/55430/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Strix Chomutov (Czechia),grid.448083.3,Company,2005 CE,http://www.strixchomutov.cz/,,,Chomutov,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Severozápad,CZ04,Ústecký kraj,CZ042
+Cogebi (Czechia),grid.448084.4,Company,,http://www.cogebi.com/,,,Tábor,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihozápad,CZ03,Jihočeský kraj,CZ031
+Princip (Czechia),grid.448085.5,Company,1991 CE,http://www.princip.cz/en/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Bayburt State Hospital,grid.470176.3,Healthcare,,http://www.bayburtdevlethastanesi.gov.tr/,,,Bayburt,,,Turkey,TR,,,,,,,
+Leibniz Institute for Psychology Information,grid.470177.2,Facility,1971 CE,https://leibniz-psychology.org/en/,https://en.wikipedia.org/wiki/Leibniz_Institute_for_Psych...,"Leibniz Institute for Psychology Information and Documentation,ZPID,",Trier,,,Germany,DE,,RHEINLAND-PFALZ,DEB,Trier,DEB2,"Trier, Kreisfreie Stadt",DEB21
+Adheren (United States),grid.470280.9,Company,,http://www.adheren.com/,,,Emeryville,,,United States,US,,,,,,,
+Amfissa General Hospital,grid.470184.e,Healthcare,,http://www.gnamfissas.gr/,,,Ámfissa,,,Greece,GR,,,,,,,
+Galileo Galilei Institute for Theoretical Physics,grid.470185.f,Facility,,http://ggi-www.fi.infn.it/,https://en.wikipedia.org/wiki/Galileo_Galilei_Institute_f...,"GGI,",Florence,,,Italy,IT,,CENTRO (IT),ITI,Toscana,ITI1,Firenze,ITI14
+Laboratorio di Tecniche Nucleari per i Beni Culturali,grid.470186.c,Facility,,http://labec.fi.infn.it/,,"LABEC,",Sesto Fiorentino,,,Italy,IT,,CENTRO (IT),ITI,Toscana,ITI1,Firenze,ITI14
+Guang Fu Hospital,grid.470187.d,Healthcare,1923 CE,http://www.gf120.com/,,"Zhejiang Hua Guangfu Hospital,",Jinhua,,,China,CN,,,,,,,
+Max Planck Research Unit for Neurogenetics,grid.470209.8,Facility,,https://www.gen.mpg.de/,,,Frankfurt am Main,,,Germany,DE,,HESSEN,DE7,Darmstadt,DE71,"Frankfurt am Main, Kreisfreie Stadt",DE712
+CisThera (United States),grid.470237.5,Company,2007 CE,http://www.cisthera.com/About_Us.html,,,Bellevue,,,United States,US,,,,,,,
+Shenzhen Pingle Orthopedic Hospital,grid.470230.2,Healthcare,1984 CE,http://www.szplgk.com/,,,Shenzhen,,,China,CN,,,,,,,
+Universidad Autónoma Monterrey,grid.470232.0,Education,1958 CE,http://unamcr.com/,,"UNAM,",San José,,,Costa Rica,CR,,,,,,,
+Centre Hospitalo-Universitaire Dr Benbadis Constantine,grid.470233.1,Healthcare,1986 CE,http://www.sante.dz/chu25/accueil.htm,,,Constantine,,,Algeria,DZ,,,,,,,
+Universidad de Matamoros,grid.470234.6,Education,,http://unidemat.edu.mx/,,,Heroica Matamoros,,,Mexico,MX,,,,,,,
+Empire Genomics (United States),grid.470240.5,Company,2006 CE,https://www.empiregenomics.com/,,,Buffalo,,,United States,US,,,,,,,
+Imbio (United States),grid.470241.4,Company,2005 CE,http://imbio.com/,,,Minneapolis,,,United States,US,,,,,,,
+CivaTech Oncology (United States),grid.470242.7,Company,2006 CE,http://www.civatechoncology.com/,,,Durham,,,United States,US,,,,,,,
+Exmoor Plastics (United Kingdom),grid.470258.c,Company,1970 CE,http://www.exmoorlimited.co.uk/,,,Taunton,,,United Kingdom,GB,,SOUTH WEST (ENGLAND),UKK,Dorset and Somerset,UKK2,Somerset,UKK23
+Accium Biosciences (United States),grid.470259.d,Company,2004 CE,http://www.acciumbio.com/,,,Seattle,,,United States,US,,,,,,,
+Extend Biosciences (United States),grid.470260.7,Company,2010 CE,http://extendbio.com/,,,Cambridge,,,United States,US,,,,,,,
+Achelios Therapeutics (United States),grid.470261.6,Company,2012 CE,http://achelios.com/,,,Chapel Hill,,,United States,US,,,,,,,
+InterAmerican Heart Foundation,grid.470275.3,Nonprofit,1995 CE,http://www.interamericanheart.org/,,"IAHF,",Dallas,,,United States,US,,,,,,,
+AcuityBio (United States),grid.470276.0,Company,2008 CE,http://www.acuitybio.com/,,,Newton,,,United States,US,,,,,,,
+Confluence Life Sciences (United States),grid.470277.1,Company,2010 CE,http://www.confluencelifesciences.com/CLS2/,,,St. Louis,,,United States,US,,,,,,,
+BioTheryX (United States),grid.470278.e,Company,2007 CE,http://www.biotheryx.com/,,,Chappaqua,,,United States,US,,,,,,,
+Contego Medical (United States),grid.470279.f,Company,2005 CE,http://contegomedical.com/,,,Raleigh,,,United States,US,,,,,,,
+Vuchz (Czechia),grid.486553.9,Company,1958 CE,http://www.vuchz.com/,,,Brno,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+Steinhauser (Czechia),grid.486554.e,Company,1790 CE,http://www.steinhauser.cz/,,,Tišnov,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+Výzkumná Stanice Vinohradnická,grid.486555.f,Other,1904 CE,http://www.vsvvinarstvi.cz/,,,Mutěnice,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+TESCO SW (Czechia),grid.486572.a,Company,1991 CE,http://www.tescosw.cz/,,,Olomouc,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Morava,CZ07,Olomoucký kraj,CZ071
+Power Systems Engineering Research Center,grid.486573.b,Facility,,https://pserc.wisc.edu/,,"PSERC,",Tempe,,,United States,US,,,,,,,
+Society for Mathematical Biology,grid.486574.c,Other,1973 CE,http://www.smb.org/,https://en.wikipedia.org/wiki/Society_for_Mathematical_Bi...,"SMB,",Murray,,,United States,US,,,,,,,
+Society for Music Theory,grid.486575.d,Other,1977 CE,https://societymusictheory.org/,https://en.wikipedia.org/wiki/Society_for_Music_Theory,"SMT,",Chicago,,,United States,US,,,,,,,
+TESLA Electrontubes (Czechia),grid.486576.e,Company,1922 CE,http://www.electron-tubes.cz,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Swedish Academy,grid.486582.5,Other,1786 CE,http://www.svenskaakademien.se/en,https://en.wikipedia.org/wiki/Swedish_Academy,,Stockholm,,,Sweden,SE,,ÖSTRA SVERIGE,SE1,Stockholm,SE11,Stockholms län,SE110
+Walramcom (Czechia),grid.486583.4,Company,,http://www.walramcom.cz/cs/,,,Bruntál,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Moravskoslezsko,CZ08,Moravskoslezský kraj,CZ080
+Theatre Library Association,grid.486584.3,Nonprofit,1937 CE,http://www.tla-online.org/,,"TLA,",New York City,,,United States,US,,,,,,,
+TG Drives (Czechia),grid.486585.2,Company,,http://www.tgdrives.cz/,,,Brno,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+Watrex (Czechia),grid.486586.1,Company,1990 CE,http://watrex.com/index.php/en/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Tiú-Plast (Czechia),grid.486597.1,Company,,http://www.tiu.cz/,,,Neratovice,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+TLP (Czechia),grid.486598.e,Company,1991 CE,http://www.tlp-emergency.com/index.html,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Wista (Czechia),grid.486599.f,Company,1994 CE,http://www.wistablasting.com/,,,Zlín,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Morava,CZ07,Zlínský kraj,CZ072
+Wolf and Danniel (Czechia),grid.486600.c,Company,,http://www.wolf-danniel.com/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Wolfsberg Letecká Továrna (Czechia),grid.486601.d,Company,1999 CE,http://www.wlt.cz/en,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+UPS Technology (Czechia),grid.486607.b,Company,1991 CE,http://www.ups.cz/,,,Brno,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+X Com Base (Czechia),grid.486608.4,Company,1997 CE,http://www.x-com.cz/en,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+Tocoen (Czechia),grid.486609.5,Company,,http://www.tocoen.cz/,,,Brno,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Jihovýchod,CZ06,Jihomoravský kraj,CZ064
+UpVision (Czechia),grid.486610.d,Company,,http://www.upvision.cz/,,,Prague,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
+X Therma,grid.486611.c,Company,2014 CE,http://x-therma.com/,,,Berkeley,,,United States,US,,,,,,,
+Top - Modern (Czechia),grid.486617.a,Company,,http://www.topmodern.cz/en/company-profil,,,Opava,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Moravskoslezsko,CZ08,Moravskoslezský kraj,CZ080
+Top Alulit (Czechia),grid.486618.5,Company,2005 CE,http://www.topalulit.com/cz/en/home.php,,,Benešov,,,Czechia,CZ,,ČESKÁ REPUBLIKA,CZ0,Střední Čechy,CZ02,Středočeský kraj,CZ020
