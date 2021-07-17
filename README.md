@@ -18,7 +18,7 @@ I then used BeautifulSoup to loop over each of the webpages using the URLs gathe
 
 ### 3) Get output 
 
-I appended information from each of the webpages to an array and converted it to a dataframe. Output in the from of csv 
+I appended information from each of the webpages to an array and converted it to a dataframe. Output in the from of a csv file
  
  Paramters scraped:
  
